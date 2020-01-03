@@ -9,7 +9,7 @@
 ## [日志收集](#日志收集)
 ## [骨骼/帧动画](#骨骼/帧动画)
 ## [HTTP/Socket-TCP/UDP/SMTP](#HTTP/Socket-TCP/UDP/SMTP)
-## [主题（Dark Mode）](#主题（Dark Mode）)
+## [主题（Dark Mode）](#主题DarkMode)
 ## [游戏引擎](#游戏引擎)
 ## [第三方的精心收集和积累（学习资料/优秀第三方库）](#第三方的精心收集和积累（学习资料/优秀第三方库）)
 ## [程序员日常](#程序员日常)
@@ -173,7 +173,7 @@
 |  |  |||
 |  |  |||
 
-## <a name="主题（Dark Mode）"></a>主题（Dark Mode）
+## <a name="主题DarkMode"></a>主题（Dark Mode）
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
 | [DKNightVersion](https://github.com/draveness/DKNightVersion) | 管理色彩、整合白天/夜间多个主题 |  | |
