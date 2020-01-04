@@ -1,19 +1,19 @@
 # Swift Indexes 
 * [第三页](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxOC0xMC0zMVQxMzo0MDo1OSswODowMM4JlRbD&language=&q=&tab=repositories&utf8=%E2%9C%93)
 
-## [控件](#控件)
-## [组件](#组件)
-## [SwiftUI](#SwiftUI)
-## [音视频](#音视频)
-## [优化/性能调优/ipa瘦身](#优化/性能调优/ipa瘦身)
-## [日志收集](#日志收集)
-## [骨骼/帧动画](#骨骼/帧动画)
-## [HTTP/Socket-TCP/UDP/SMTP](#HTTP/Socket-TCP/UDP/SMTP)
-## [主题（Dark Mode）](#主题DarkMode)
-## [游戏引擎](#游戏引擎)
-## [第三方的精心收集和积累（学习资料/优秀第三方库）](#第三方的精心收集和积累（学习资料/优秀第三方库）)
-## [程序员日常](#程序员日常)
-## [我自己的代码库](#我自己的代码库)
+* [控件](#控件)
+* [组件](#组件)
+* [SwiftUI](#SwiftUI)
+* [音视频](#音视频)
+* [优化/性能调优/ipa瘦身](#优化/性能调优/ipa瘦身)
+* [日志收集](#日志收集)
+* [骨骼/帧动画](#骨骼/帧动画)
+* [HTTP/Socket-TCP/UDP/SMTP](#HTTP/Socket-TCP/UDP/SMTP)
+* [主题（Dark Mode）](#主题DarkMode)
+* [游戏引擎](#游戏引擎)
+* [第三方的精心收集和积累（学习资料/优秀第三方库）](#第三方的精心收集和积累（学习资料/优秀第三方库）)
+* [程序员日常](#程序员日常)
+* [我自己的代码库](#我自己的代码库)
 
 ## <a name="控件"></a>控件
 | 名称 | 描述 | 备注 | 截屏 |
