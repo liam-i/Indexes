@@ -1,4 +1,4 @@
-# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNy0wNi0xOVQwMDo0MTowNSswODowMM4Elo0N&language=&q=&tab=repositories&utf8=%E2%9C%93)
+# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNy0wNS0zMVQxMjoxNjowMyswODowMM4Fl3sW&language=&q=&tab=repositories&utf8=%E2%9C%93)
 
 * [控件](#控件)
 * [组件](#组件)
@@ -41,11 +41,10 @@
 | [preview-transition](https://github.com/Ramotion/preview-transition) | PreviewTransition是具有动画过渡的简单预览库UI控制器. Swift UI library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
 | [reel-search](https://github.com/Ramotion/reel-search) | 🔍RAMReel是一个UI控制器，允许您从列表中选择选项. Swift UI library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
 | [paper-onboarding](https://github.com/Ramotion/paper-onboarding) | PaperOnboarding是一种材质设计UI滑块. Swift UI library by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
-| [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer) | 一款基于iOS的轻量级音乐播放器，基于AudioKit | [博客](https://applikeysolutions.com/) ||
 | [Magnetic](https://github.com/efremidze/Magnetic) | 一种可自定义的气泡选择器，类似于Apple Music类型的选择 |||
 | [DeepDiff](https://github.com/onmyway133/DeepDiff) | DeepDiff通过编辑步骤告诉2个集合之间的差异以及所做的更改。它还支持[Texture](https://github.com/TextureGroup/Texture)，请参见[Texture示例](https://github.com/onmyway133/DeepDiff/tree/master/Example/DeepDiffTexture)；阅读更多[使用diff框架在Swift中更新UICollectionView数据的更好方法](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) |||
 | [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) | 一个用于轻松构建复杂的iOS UIView动画的库 |||
-| [Hero](https://github.com/HeroTransitions/Hero) | 用于构建iOS视图控制器过渡的库。它在UIKit繁琐的过渡API之上提供了一个声明性层-使自定义过渡对于开发人员而言是一项轻松的任务 |||
+| [Hero](https://github.com/HeroTransitions/Hero) | 用于构建iOS视图控制器过渡的库。它在UIKit繁琐的过渡API之上提供了一个声明性层-使自定义过渡对于开发人员而言是一项轻松的任务 | [博客](http://lkzhao.com/2016/12/28/hero.html) ||
 | [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) | 显示倾斜单元格的CollectionView布局 | [官网](https://yassir.dev/CollectionViewSlantedLayout/) ||
 | [LoginCritter](https://github.com/cgoldsby/LoginCritter) | 一个有意思的登录界面（动物的脸部表情会根据光标位置移动） |||
 | [EFQRCode](https://github.com/EFPrefix/EFQRCode) | 一个轻量级的、用来生成和识别二维码的纯Swift库，可根据输入的水印图和图标产生艺术二维码，基于CoreGraphics、CoreImage和ImageIO进行开发；项目受[qrcode](https://github.com/sylnsfar/qrcode)启发 |||
@@ -85,7 +84,12 @@
 | [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) | 一个UILabel子类，当标签文本超出可用宽度时，添加滚动字幕效果。也可以指定标签的滚动方向和速度/速率 |  ||
 | [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) | 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友圈、漂流交友、摇一摇和更多有趣的功能 |  ||
 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 完全可定制的iOS日历库，与Objective-C和Swift兼容 |  ||
-|  |  |  ||
+| [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) | MIBlurPopup使您可以创建背景模糊的弹出窗口 |  ||
+| [DeckTransition](https://github.com/HarshilShah/DeckTransition) | 一个类似于Apple Music播放卡片的过渡效果 |  ||
+| [LazyScrollView](https://github.com/alibaba/LazyScrollView) | iOS 高性能异构滚动视图构建方案 |  ||
+| [IGListKit](https://github.com/Instagram/IGListKit) | 一个`UICollectionView `用于构建快速灵活列表的数据驱动框架 | [文档](https://instagram.github.io/IGListKit/) ||
+| [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 一个iOS嵌入式类，在后台线程中完成工作时显示带有指示符和/或标签的半透明HUD | [官网](http://www.bukovinski.com/) ||
+| [PKHUD](https://github.com/pkluz/PKHUD) | 基于Swift的Apple HUD（音量，铃声，旋转等）的重新实现，适用于iOS 8 |  ||
 |  |  |  ||
 
 ## <a name="组件"></a>组件
@@ -104,6 +108,8 @@
 | [ImageCompress-iOS](https://github.com/Nemocdz/ImageCompress-iOS) | 基于ImageIO支持动静态的图片压缩库 |||
 | [ImageOptim](https://github.com/ImageOptim/ImageOptim) | 用于无损图像优化工具的GUI |||
 | [coobjc](https://github.com/alibaba/coobjc) | coobjc为Objective-C和Swift提供协程支持。我们添加了一个等待方法，生成器和参与者模型，例如C＃，Javascript和Kotlin。为了方便起见，我们在cokit框架中为某些Foundation和UIKit API添加了协程类别，例如NSFileManager，JSON，NSData，UIImage等。我们还在coobjc中添加了元组支持 |||
+| [GPUImage](https://github.com/BradLarson/GPUImage) | GPUImage框架是BSD许可的iOS库，可让您将GPU加速的滤镜和其他效果应用于图像，实时摄像机视频和电影 |  ||
+| [GPUImage2](https://github.com/BradLarson/GPUImage2) | GPUImage 2是[GPUImage框架](https://github.com/BradLarson/GPUImage)的第二代，这是一个开源项目，用于在Mac，iOS和现在的Linux上执行GPU加速的图像和视频处理。最初的GPUImage框架是用Objective-C编写的，并且针对Mac和iOS，但是此最新版本完全是用Swift编写的，也可以针对Linux和支持Swift代码的未来平台 |  ||
 | [GPUImage3](https://github.com/BradLarson/GPUImage3) | 用于使用Metal进行GPU加速的视频和图像处理 |||
 | [MMKV](https://github.com/Tencent/MMKV) | 基于 mmap 内存映射的 key-value 组件，底层序列化/反序列化使用 protobuf 实现，性能高，稳定性强。从 2015 年中至今在微信上使用，其性能和稳定性经过了时间的验证 |||
 | [Repeat](https://github.com/malcommac/Repeat) | 使用GCD制作的Swift，Debouncer和Throttler的现代计时器（替代NSTimer） |||
@@ -161,14 +167,24 @@
 | [Unicoder4Mac](https://github.com/gifjoke/Unicoder4Mac) | Swift实现，Mac端字符串编码、解码小工具 | [官网](http://unicoder.cn/) ||
 | [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) | 一个非常容易使用的蓝牙库,适用于ios和os |  ||
 | [PermissionScope](https://github.com/nickoneill/PermissionScope) | 智能iOS权限UI和统一的API |  ||
-|  |  |  ||
-|  |  |  ||
+| [Pastel](https://github.com/cruisediary/Pastel) | 🎨 像Instagram这样的渐变动画效果；🎨 自定义渐变色 |  ||
+| [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) | [官方](https://aws.amazon.com/sdk-for-ruby/)的适用于Ruby的AWS开发工具包 |  ||
+| [Knuff](https://github.com/KnuffApp/Knuff) | Apple推送通知服务（APN）的调试应用程序 |  ||
+| [DynamicColor](https://github.com/yannickl/DynamicColor) | 可以在Swift和SwiftUI中轻松操纵颜色 | [博客](http://cocoadocs.org/docsets/DynamicColor) ||
+| [UIImageColors](https://github.com/jathu/UIImageColors) | 适用于UIImage和的iTunes样式的颜色提取器NSImage。它获取最主要和最突出的颜色 |  ||
+| [Async](https://github.com/duemunk/Async) | Swift中的语法糖用于[Grand Central Dispatch](https://developer.apple.com/library/prerelease/ios/documentation/Performance/Reference/GCD_libdispatch_Ref/index.html)中的异步调度 |  ||
+| [Texture](https://github.com/TextureGroup/Texture) | 流畅的iOS应用程序异步用户界面 | [了解](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50)AsyncDisplayKit和Texture ||
+| [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) | 响应式编程 |  ||
+| [DeviceKit](https://github.com/devicekit/DeviceKit) | DeviceKit是UIDevice的值类型替换 |  ||
 |  |  |  ||
 |  |  |  ||
 
 ## <a name="数据存储"></a>数据存储
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
+| [wcdb](https://github.com/Tencent/wcdb) | [腾讯](https://github.com/Tencent/)开源的一个高效、完整、易用的移动数据库框架，基于[SQLCipher](https://github.com/sqlcipher/sqlcipher)，支持iOS, macOS和Android |  ||
+| [fmdb](https://github.com/ccgus/fmdb) | 这是一个围绕[SQLite](http://sqlite.org/)的Objective-C包装器 |  ||
+| [realm-cocoa](https://github.com/realm/realm-cocoa) | Realm是一个移动数据库：替代了Core Data＆SQLite | [官网](https://realm.io/) ||
 | [rocksdb](https://github.com/facebook/rocksdb) | [facebook](https://opensource.facebook.com)提供快速可存储的可嵌入(闪存和RAM存储)持久键值存储的库 | [官网](http://rocksdb.org) ||
 | [presto](https://github.com/prestodb/presto) | 用于大数据的Presto分布式SQL查询引擎 | [官网](http://prestodb.github.io/) ||
 | [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 该存储库包含Firebase iOS SDK源的子集 | [官网](https://firebase.google.com/) ||
@@ -225,6 +241,14 @@
 | [Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow) | 视频实时识别 |  ||
 | [flv.js](https://github.com/bilibili/flv.js) | [bilibili](https://github.com/bilibili)的HTML5 FLV播放器 |  ||
 | [apprtc-ios](https://github.com/ISBX/apprtc-ios) | 基于WebRTC的本地iOS视频聊天应用 | [服务器](https://appr.tc/)，[官网](https://webrtc.org/) ||
+| [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣开源的基于Core Audio的流音频播放器 |  ||
+| [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer) | 一款基于iOS的轻量级音乐播放器，基于AudioKit | [博客](https://applikeysolutions.com/) ||
+| [GDLiveStreaming](https://github.com/goodow/GDLiveStreaming) | 实时音频和视频直播库 |  ||
+| [mumble](https://github.com/mumble-voip/mumble) | Mumble是在Qt和Opus之上编写的面向游戏玩家的语音聊天程序 | [官网](https://www.mumble.info/) ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="优化/性能调优/ipa瘦身"></a>优化/性能调优/ipa瘦身
 | 名称 | 描述 | 备注 | 截屏 |
@@ -253,7 +277,7 @@
 | [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) | Swift的彩色，灵活，轻量级日志记录。支持控制台，文件和云平台，非常适合开发和发布 | [博客](https://swiftybeaver.com) | |
 | [Puree-Swift](https://github.com/cookpad/Puree-Swift) | 过滤、缓冲、批处理、重试 |||
 | [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) | XCGLogger是用于Swift项目的原始调试日志模块 |||
-|  |  |||
+| [glog](https://github.com/google/glog) | [Google](https://github.com/google)日志记录模块的C ++实现 |||
 |  |  |||
 |  |  |||
 |  |  |||
@@ -274,11 +298,10 @@
 | [SVGA-Format](https://github.com/svga/SVGA-Format) | SVGA 是一种动画格式，类似于 Dragonbones / CreateJS |||
 | [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) | Spine的2D骨骼动画播放库 | [官网](http://esotericsoftware.com/) ||
 | [lottie-react-native](https://github.com/react-native-community/lottie-react-native) | 适用于React Native的Lottie组件（[iOS](https://github.com/airbnb/lottie-ios)和[Android](https://github.com/airbnb/lottie-android)） |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [lottie-ios](https://github.com/airbnb/lottie-ios) | 一个iOS库，用于原生渲染After Effects矢量动画 | [官网](http://airbnb.io/lottie/) ||
+| [lottie-android](https://github.com/airbnb/lottie-android) | 在Android和iOS，Web和React Native上本地渲染After Effects动画 | [官网](http://airbnb.io/lottie/) ||
+| [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) | 宝宝特效 AiyaEffectsSDK 涵盖Android、iOS两个平台，基于自主研发的人脸识别模块，作为一款动态贴纸和动画特效高效渲染的解决方案 | [官网](http://www.aiyaapp.com/product/bbtx) ||
+| [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) | SpriteKit粒子动画播放器 | 使用Xcode的内置[“粒子发射器”编辑器](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-particle_emitter/Introduction/Introduction.html)，ParticlesLoadingView您可以创建自己的惊人SpriteKit粒子动画，如下图所示。继续并通过执行File创建自己的粒子动画➡️ 新文件 ➡️ iOS资源 ➡️ SpriteKit粒子文件 ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -287,7 +310,7 @@
 |  |  |  ||
 |  |  |  ||
 
-## <a name="HTTP/Socket-TCP/UDP/SMTP"></a>HTTP/Socket-TCP/UDP/SMTP
+## <a name="HTTP/Socket-TCP/UDP/SMTP"></a>HTTP/Socket-TCP/UDP/SMTP/XMPP
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
 | [Swift-SMTP](https://github.com/IBM-Swift/Swift-SMTP) | Swift SMTP邮件客户端 | | |
@@ -309,6 +332,14 @@
 | [SocketRocket](https://github.com/facebook/SocketRocket) | 符合标准的Objective-C WebSocket客户端库 |  ||
 | [BlueSocket](https://github.com/IBM-Swift/BlueSocket) | [IBM](https://github.com/IBM-Swift)的使用Swift软件包管理器的Swift套接字框架。适用于iOS，macOS和Linux |  ||
 | [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) | SwiftSocket库为服务器或客户端上基于套接字的连接提供了易于使用的接口。同时支持TCP和UDP套接字 |  ||
+| [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) | 适用于Mac和iOS的Objective-C中的XMPP框架 |  ||
+| [socket.io](https://github.com/socketio/socket.io) | 实时应用程序框架（Node.JS服务器） | [官网](http://socket.io/) ||
+| [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) | 适用于iOS/OS X的Socket.IO客户端 |  ||
+| [Hedwig](https://github.com/onevcat/Hedwig) | Hedwig是一个Swift软件包，它提供了一组高级API，使您可以轻松地将电子邮件发送到SMTP服务器 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 
 ## <a name="主题DarkMode"></a>主题（Dark Mode）
@@ -349,12 +380,17 @@
 | [cat](https://github.com/dianping/cat) | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为[美团点评](https://github.com/dianping)各业务线提供系统丰富的性能指标、健康状况、实时告警等 |  ||
 | [BLSS](https://github.com/gnolizuh/BLSS) | 基于[nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)的实时媒体流服务器 |  ||
 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 基于NGINX的媒体流服务器 | [博客](http://nginx-rtmp.blogspot.com/) ||
+| [media-server](https://github.com/ireader/media-server) | RTSP / RTP / RTMP / FLV / HLS / MPEG-TS / MPEG-PS / MPEG-DASH / MP4 / fMP4 |||
+| [bls](https://github.com/notedit/bls) | BLS是用于Node.js的rtmp服务器框架。该服务器是在Nodejs使用的libuv I / O框架中开发的。因此，在大量客户端同时推送或拉取流数据的情况下，它的性能非常好 |||
 | [tengine](https://github.com/alibaba/tengine) | [alibaba](https://github.com/alibaba)的一个网络服务器，由亚洲最大的电子商务网站[淘宝网提供](http://en.wikipedia.org/wiki/Taobao)。它基于[Nginx](http://nginx.org/) HTTP服务器，并具有许多高级功能。在包括[taobao.com](http://www.taobao.com/)和[tmall.com](http://www.tmall.com/)在内的全球前100个网站中，Tengine被证明是非常稳定和高效的 |||
 | [elasticsearch](https://github.com/elastic/elasticsearch) | 分布式，RESTful搜索引擎 | [官网](https://www.elastic.co/products/elasticsearch) ||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
+| [Perfect](https://github.com/PerfectlySoft/Perfect) | Swift语言服务器端软件框架 |  ||
+| [Perfect-Redis](https://github.com/PerfectlySoft/Perfect-Redis) | Redis客户端对[Perfect](https://github.com/PerfectlySoft/Perfect)的支持 | [官网](https://www.perfect.org/) ||
+| [PerfectDocs](https://github.com/PerfectlySoft/PerfectDocs) | 该库包含运行和使用[Perfect](https://github.com/PerfectlySoft/Perfect)所需的所有参考文档和与API参考相关的材料 |||
+| [swifter](https://github.com/httpswift/swifter) | 用[Swift](https://developer.apple.com/swift/)编程语言编写的微型http服务器引擎 |||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="游戏引擎"></a>游戏引擎
 | 名称 | 描述 | 备注 | 截屏 |
@@ -368,8 +404,8 @@
 | [engine](https://github.com/cocos-creator/engine) | Cocos Creator是游戏开发工具和工作流程的完整软件包，包括游戏引擎，资源管理，场景编辑，游戏预览，调试并将一个项目发布到多个平台 | [官网](http://www.cocos2d-x.org/creator) ||
 | [behaviac](https://github.com/Tencent/behaviac) | 游戏AI的开发框架组件，也是游戏原型的快速设计工具 | [官网](http://www.behaviac.com/) ||
 | [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc) | 适用于iOS和OS X的Cocos2d，使用Objective-C构建 | [官网](http://www.cocos2d-objc.org) ||
-|  |  |||
-|  |  |||
+| [FlappySwift](https://github.com/fullstackio/FlappySwift) | Swift的Flappy Bird的iOS 8实现 | [官网](https://www.fullstackedu.com/) ||
+| [swift-2048](https://github.com/austinzheng/swift-2048) | Swift编写的2048小游戏 |||
 |  |  |||
 |  |  |||
 |  |  |||
@@ -397,7 +433,7 @@
 | [TensorFlow-fold](https://github.com/tensorflow/fold) | TensorFlow Fold是一个用于创建使用结构化数据的[TensorFlow](https://www.tensorflow.org/)模型的库，其中计算图的结构取决于输入数据的结构。例如，[该模型](https://github.com/tensorflow/fold/blob/master/tensorflow_fold/g3doc/sentiment.ipynb) 实现了[TreeLSTM](https://arxiv.org/abs/1503.00075)，用于对任意形状/大小/深度的解析树进行情感分析 |  ||
 | [pylearn2](https://github.com/lisa-lab/pylearn2) | 机器学习研究库 |  ||
 | [turicreate](https://github.com/apple/turicreate) | [apple](https://github.com/apple)的Turi Create简化了自定义机器学习模型的开发 |  ||
-|  |  |  ||
+| [Forge](https://github.com/hollance/Forge) | 用于Metal的神经网络工具包 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -421,6 +457,11 @@
 | [WeFlow](https://github.com/Tencent/WeFlow) | 一个基于 [tmt-workflow](https://github.com/weixin/tmt-workflow) 前端工作流的开发工具 | [官网](http://weflow.io/) ||
 | [backbone](https://github.com/jashkenas/backbone) | Backbone通过为模型提供键值绑定和自定义事件，具有丰富的可枚举函数API的集合，具有声明性事件处理的视图，并通过RESTful JSON接口将其全部连接到现有应用程序，从而为重载JavaScript的应用程序提供结构 | [官网](http://backbonejs.org/) ||
 | [react-dates](https://github.com/airbnb/react-dates) | 一个易于国际化，易于移动的日期选择器库 | [官网](http://airbnb.io/react-dates) ||
+| [Chart.js](https://github.com/chartjs/Chart.js) | 适用于设计人员和开发人员的简单而灵活的JavaScript图表 | [官网](https://www.chartjs.org/) ||
+| [angular.js](https://github.com/angular/angular.js) | AngularJS使您可以像编写更智能的浏览器一样编写客户端Web应用程序 | [官网](https://angularjs.org/) ||
+| [angular](https://github.com/angular/angular) | Angular是一个开发平台，用于使用TypeScript / JavaScript和其他语言来构建移动和桌面Web应用程序 | [官网](https://angular.io/) ||
+| [incubator-echarts](https://github.com/apache/incubator-echarts) | 一个免费的，功能强大的图表和可视化库，它提供了一种简便的方法，可以向您的商业产品中添加直观，交互式和高度可定制的图表。它使用纯JavaScript编写，并基于[zrender](https://github.com/ecomfe/zrender)，这是一个全新的轻量级画布库 |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 
@@ -447,6 +488,12 @@
 | [PHPHub-iOS](https://github.com/Aufree/PHPHub-iOS) | PHPHub是一个用Laravel 4.2编写的论坛项目，也是建立PHP＆Laravel China社区的项目 |  ||
 | [U17](https://github.com/spicyShrimp/U17) | 精仿有妖气漫画 |  ||
 | [editor.md](https://github.com/pandao/editor.md) | 基于CodeMirror和jQuery＆Marked的开源可嵌入在线降价编辑器（组件） | [官网](http://editor.md.ipandao.com/) ||
+| [ofodemo](https://github.com/yagamis/ofodemo) | 仿ofo小黄车的iOS版本源码,教学视频请见[小波说雨燕](http://www.xiaoboswift.com/) |  ||
+| [Celluloid](https://github.com/100mango/Celluloid) | 照片扩展程序 | [App Store](https://itunes.apple.com/app/celluloid/id1124966798) ||
+| [brew](https://github.com/Homebrew/brew) | MacOS下软件包管理器 | [官网](https://brew.sh/) ||
+| [CocoaPods](https://github.com/CocoaPods/CocoaPods) | CocoaPods管理Xcode项目的依赖关系 | [官网](https://cocoapods.org/) ||
+| [Carthage](https://github.com/Carthage/Carthage) | 一个简单，分散的Cocoa依赖性经理 |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -467,8 +514,8 @@
 | [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) | iOS 11 新API的代码示例 |||
 | [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) | iOS 10 新API的代码示例 |||
 | [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架 | [博客](http://tools.stanzhai.site/)，[GitBook](https://thonatos.gitbooks.io/be-a-professional-programmer/)版本 ||
-|  |  |||
-|  |  |||
+| [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) | Facebook开源的Parse源码分析【系列】 |||
+| [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》。[英文原版在线版](https://docs.swift.org/swift-book/) | [gitbook](https://swiftgg.gitbook.io/swift/) ||
 |  |  |||
 |  |  |||
 |  |  |||
@@ -483,11 +530,12 @@
 | [p3c](https://github.com/alibaba/p3c) | 阿里巴巴Java编码指南pmd实现和IDE插件 | [wiki](https://github.com/alibaba/p3c/wiki) ||
 | [material-components-ios](https://github.com/material-components/material-components-ios) | iOS的材料组件（MDC-iOS）可帮助开发人员执行[材料设计](https://material.io/)。这些组件由Google的工程师和UX设计师的核心团队开发，可实现可靠的开发工作流程，以构建美观实用的iOS应用。[在Material Design Platform Adaptation指南中](https://material.io/guidelines/platforms/platform-adaptation.html)了解有关iOS的Material Components如何支持跨平台的设计和可用性最佳实践的更多信息 |||
 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 在几分钟之内建立一个Jekyll博客，而无需触摸命令行 | [Jekyll](https://github.com/jekyll/jekyll)是一个静态站点生成器，非常适合GitHub托管的博客 ||
+| [jekyll](https://github.com/jekyll/jekyll) | 一个简单的可识别博客的静态网站生成器，非常适合个人，项目或组织网站 | [官网](https://jekyllrb.com/) ||
 | [OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | Open Live Writer使您可以轻松地编写，预览和发布到博客 | [官网](http://www.openlivewriter.org/) ||
 | [objective-c-style-guide](https://github.com/nytimes/objective-c-style-guide) | Objective-C API设计指南 |||
 | [swift-style-guide](https://github.com/github/swift-style-guide) | Swift API设计指南 |||
-|  |  |||
-|  |  |||
+| [javascript](https://github.com/airbnb/javascript) | JavaScript API 设计指南 |||
+| [google-styleguide](https://github.com/darcyliu/google-styleguide) | Google 开源项目风格指南 | [官网](http://code.google.com/p/google-styleguide/) ||
 |  |  |||
 |  |  |||
 
