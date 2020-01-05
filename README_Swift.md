@@ -90,6 +90,11 @@
 | [IGListKit](https://github.com/Instagram/IGListKit) | 一个`UICollectionView `用于构建快速灵活列表的数据驱动框架 | [文档](https://instagram.github.io/IGListKit/) ||
 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 一个iOS嵌入式类，在后台线程中完成工作时显示带有指示符和/或标签的半透明HUD | [官网](http://www.bukovinski.com/) ||
 | [PKHUD](https://github.com/pkluz/PKHUD) | 基于Swift的Apple HUD（音量，铃声，旋转等）的重新实现，适用于iOS 8 |  ||
+| [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) | 一个容器视图控制器，它使我们可以在视图控制器的集合之间轻松切换。平移手势可用于移至下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的协同指针 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 
 ## <a name="组件"></a>组件
@@ -219,7 +224,7 @@
 | [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) | React Native的WebRTC模块 | [官网](https://react-native-webrtc.discourse.group/) ||
 | [video.js](https://github.com/videojs/video.js) | 开源HTML5和Flash视频播放器 | [官网](https://videojs.com) ||
 | [ROMPlayer](https://github.com/AudioKit/ROMPlayer) | AudioKit样本播放器（ROM播放器）-EXS24，声音字体，Wave播放器 | [官网](http://audiokitpro.com) ||
-| [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) | 一个容器视图控制器，它使我们可以在视图控制器的集合之间轻松切换。平移手势可用于移至下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的协同指针 | [pili-librtmp](https://github.com/pili-engineering/pili-librtmp) ||
+| [pili-librtmp](https://github.com/pili-engineering/pili-librtmp) | [七牛云音视频客户端团队](https://github.com/pili-engineering)维护的一个rtmp协议库 |||
 | [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) | 使用CoreImage.framework实现[高通滤镜](https://www.google.com/search?ie=UTF-8&q=photoshop+high+pass+skin+smoothing) |  ||
 | [Vivid](https://github.com/YuAo/Vivid) | Apple的[Core Image](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html)框架滤镜 |  ||
 | [iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) | 滤镜库 |  ||
