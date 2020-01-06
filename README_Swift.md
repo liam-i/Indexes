@@ -117,6 +117,10 @@
 | [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) | 动画警报视图，可以用作UIAlertView或UIAlertController替代 |  ||
 | [TOCropViewController](https://github.com/TimOliver/TOCropViewController) | 用于裁剪UIImage对象的各个部分以及执行基本旋转。它非常适合编辑个人资料图片或在线共享照片的一部分 | [博客](http://www.timoliver.com.au/2015/06/21/tocropviewcontroller-an-open-source-image-cropper-for-ios/) ||
 | [PageMenu](https://github.com/PageMenu/PageMenu) | 一个完全可自定义且灵活的分页菜单控制器，由放置在滚动视图内的其他视图控制器构建而成，使用户可以通过轻松点按或滑动手势在任何一种视图控制器之间进行切换，类似于Spotify，Windows Phone和Instagram的用法 |  ||
+| [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) | 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad |  ||
+| [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) | 适用于iOS的聊天和消息传递UI组件 | [官网](https://layer.com/) ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -255,7 +259,7 @@
 | [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case/) | 适用于iOS的快照视图单元测试；以前为[FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case) |  ||
 | [SnapKit](https://github.com/SnapKit/SnapKit) | 适用于iOS和OS X的Swift自动布局DSL | [官网](http://snapkit.io/) ||
 | [ocmock](https://github.com/erikdoe/ocmock) | OCMock是模拟对象的Objective-C实现 | [官网](http://ocmock.org/) ||
-|  |  |  ||
+| [Ji](https://github.com/honghaoz/Ji) | Swift的XML / HTML解析器 |  ||
 |  |  |  ||
 |  |  |  ||
 
@@ -380,6 +384,11 @@
 | [AudioKit](https://github.com/AudioKit/AudioKit) | 适用于iOS，macOS和tvOS的音频合成，处理和分析平台 | [官网](http://audiokit.io/) ||
 | [AWLive](https://github.com/hardman/AWLive) | 简单的iOS推流代码，视频捕获，软编码(faac，x264)，硬编码（aac，h264），横屏直播，美颜，flv编码，rtmp协议 | [博客](http://www.jianshu.com/u/1240d2400ca1) ||
 | [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) | 🔥视频直播:仿腾讯旗下 < NOW > 直播 斗鱼 抖音 火山视频 花椒 熊猫 YY 陌陌 映客 直播APP |  ||
+| [Surround360](https://github.com/facebook/Surround360) | [Facebook](https://github.com/facebook)的开源硬件和软件，用于捕获VR的立体3D 360视频。该回购包含硬件设计以及用于相机控制和渲染的软件 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 
 ## <a name="优化/性能调优/ipa瘦身"></a>优化/性能调优/ipa瘦身
@@ -402,7 +411,7 @@
 | [ResponseDetective](https://github.com/netguru/ResponseDetective) | 🕵一个非侵入性框架，用于拦截应用程序和服务器之间的所有传出请求和传入响应，以进行调试 |||
 | [Nocilla](https://github.com/luisobo/Nocilla) | 适用于iOS和OS X的惊人的HTTP存根。测试HTTP请求从未如此简单 | [Twitter](https://twitter.com/luisobo) ||
 | [KSCrash](https://github.com/kstenerud/KSCrash) | iOS下崩溃监控 |||
-|  |  |||
+| [HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS) | 实现了在您的iOS应用程序中使用HockeyApp的支持 | [官网](http://hockeyapp.net/releases) ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
