@@ -1,4 +1,4 @@
-# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNi0xMi0xOVQxMToyMDozMiswODowMM4El2g8&language=&q=&tab=repositories&utf8=%E2%9C%93)
+# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNi0xMi0xNlQxNjoxOToxOSswODowMM4ElyMG&language=&q=&tab=repositories&utf8=%E2%9C%93)
 
 * [控件](#控件)
 * [组件](#组件)
@@ -119,6 +119,12 @@
 | [PageMenu](https://github.com/PageMenu/PageMenu) | 一个完全可自定义且灵活的分页菜单控制器，由放置在滚动视图内的其他视图控制器构建而成，使用户可以通过轻松点按或滑动手势在任何一种视图控制器之间进行切换，类似于Spotify，Windows Phone和Instagram的用法 |  ||
 | [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) | 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad |  ||
 | [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) | 适用于iOS的聊天和消息传递UI组件 | [官网](https://layer.com/) ||
+| [SideMenu](https://github.com/jonkykong/SideMenu) | 适用于iOS的简单侧面/幻灯片菜单控件，无需代码！很多定制 |  ||
+| [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) | 一个UIViewController子类，用于在Facebook应用程序的启发下，在前控制器后面显示后（左和/或右）视图控制器 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -201,7 +207,7 @@
 | [Unicoder4Mac](https://github.com/gifjoke/Unicoder4Mac) | Swift实现，Mac端字符串编码、解码小工具 | [官网](http://unicoder.cn/) ||
 | [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) | 一个非常容易使用的蓝牙库,适用于ios和os |  ||
 | [PermissionScope](https://github.com/nickoneill/PermissionScope) | 智能iOS权限UI和统一的API |  ||
-| [Pastel](https://github.com/cruisediary/Pastel) | 🎨 像Instagram这样的渐变动画效果；🎨 自定义渐变色 |  ||
+| [Pastel](https://github.com/cruisediary/Pastel) | 🎨像Instagram这样的渐变动画效果；🎨自定义渐变色 |  ||
 | [aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) | [官方](https://aws.amazon.com/sdk-for-ruby/)的适用于Ruby的AWS开发工具包 |  ||
 | [Knuff](https://github.com/KnuffApp/Knuff) | Apple推送通知服务（APN）的调试应用程序 |  ||
 | [DynamicColor](https://github.com/yannickl/DynamicColor) | 可以在Swift和SwiftUI中轻松操纵颜色 | [博客](http://cocoadocs.org/docsets/DynamicColor) ||
@@ -233,6 +239,7 @@
 | [Timepiece](https://github.com/naoty/Timepiece) | Swift中直观的日期处理 |  ||
 | [Nimble](https://github.com/Quick/Nimble) | Swift和Objective-C的Matcher框架。灵感来自[Cedar](https://github.com/pivotal/cedar) |  ||
 | [ZFDownload](https://github.com/renzifeng/ZFDownload) | 断点下载，支持后台下载，再次打开程序、异常退出记录下载进度 |  ||
+| [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) | 适用于iOS，watchOS，tvOS和macOS的Keychain的简单Swift包装器 |||
 | [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) | 一个简单的iOS钥匙串包装器，可让您以类似于“用户默认设置”的方式使用它 |  ||
 | [go](https://github.com/golang/go) | Go编程语言 | [官网](https://golang.org/) ||
 | [swift](https://github.com/apple/swift) | Swift编程语言 | [官网](https://swift.org/) ||
@@ -260,6 +267,16 @@
 | [SnapKit](https://github.com/SnapKit/SnapKit) | 适用于iOS和OS X的Swift自动布局DSL | [官网](http://snapkit.io/) ||
 | [ocmock](https://github.com/erikdoe/ocmock) | OCMock是模拟对象的Objective-C实现 | [官网](http://ocmock.org/) ||
 | [Ji](https://github.com/honghaoz/Ji) | Swift的XML / HTML解析器 |  ||
+| [chisel](https://github.com/facebook/chisel) | Chisel是LLDB命令的集合，可帮助调试iOS应用 |  ||
+| [idb](https://github.com/facebook/idb) | idb是用于自动化iOS模拟器和设备的灵活命令行界面 |  ||
+| [glm](https://github.com/g-truc/glm) | [OpenGL Mathematics](http://glm.g-truc.net/)（GLM）是基于[OpenGL Shading Language（GLSL）规范](https://www.opengl.org/registry/doc/GLSLangSpec.4.50.diff.pdf)的图形软件的仅头C ++数学库 |  ||
+| [Argo](https://github.com/thoughtbot/Argo) | Swift的JSON解析库 | [官网](https://thoughtbot.com/) ||
+| [GitUp](https://github.com/git-up/GitUp) | 快速，安全，无头痛地工作。您一生都想念的[Git界面](http://gitup.co/)终于来了 |  ||
+| [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) | ObjectMapper是用Swift编写的框架，可让您轻松地将模型对象（类和结构）与JSON相互转换 |  ||
+| [SwiftMoment](https://github.com/akosma/SwiftMoment) | 一时间和日历处理库的iOS 9+，MACOS 10.11+，tvOS 9+，watchOS 2+ | [官网](http://akosma.github.io/SwiftMoment) ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 
@@ -355,7 +372,6 @@
 | [artoolkit5](https://github.com/artoolkit/artoolkit5) | ARToolKit v5.x |  ||
 | [XJTV](https://github.com/Paulpang/XJTV) | XJ直播是一款基于Swift3.0开发的直播平台,所有接口都是通过抓包工具获得,仅供学习和交流,不用于商业用途 |  ||
 | [SoundManager2](https://github.com/scottschiller/SoundManager2) | 一个JavaScript声音API，支持MP3，MPEG4和HTML5音频+ RTMP，可提供可靠的跨浏览器/平台音频控制，最小为12 KB | [博客](http://www.schillmania.com/projects/soundmanager2/) ||
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 命令行程序，用于从YouTube.com和其他视频网站下载视频 | [官网](http://ytdl-org.github.io/youtube-dl/) ||
 | [opencv](https://github.com/opencv/opencv) | 开源计算机视觉库 | [官网](https://opencv.org/) ||
 | [licode](https://github.com/lynckia/licode) | 基于WebRTC和云技术的开源通信平台 | [官网](http://lynckia.com/licode) ||
 | [MGMiaoBo](https://github.com/LYM-mg/MGMiaoBo) | 多视频直播模式，移动直播新体验，多人秀场更好玩 |  ||
@@ -385,9 +401,10 @@
 | [AWLive](https://github.com/hardman/AWLive) | 简单的iOS推流代码，视频捕获，软编码(faac，x264)，硬编码（aac，h264），横屏直播，美颜，flv编码，rtmp协议 | [博客](http://www.jianshu.com/u/1240d2400ca1) ||
 | [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) | 🔥视频直播:仿腾讯旗下 < NOW > 直播 斗鱼 抖音 火山视频 花椒 熊猫 YY 陌陌 映客 直播APP |  ||
 | [Surround360](https://github.com/facebook/Surround360) | [Facebook](https://github.com/facebook)的开源硬件和软件，用于捕获VR的立体3D 360视频。该回购包含硬件设计以及用于相机控制和渲染的软件 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [streamlink](https://github.com/streamlink/streamlink) | 用于从各种网站将流提取到您选择的视频播放器的CLI | [官网](https://streamlink.github.io/) ||
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 命令行程序，用于从YouTube.com和其他视频网站下载视频 | [官网](http://ytdl-org.github.io/youtube-dl/) ||
+| JiaoZiVideoPlayer([old](https://github.com/lipangit/JiaoZiVideoPlayer), [new](https://github.com/Jzvd/JiaoZiVideoPlayer)) | 高度自定义的安卓视频框架 |  ||
+| [YTLiveStreaming](https://github.com/SKrotkih/YTLiveStreaming) | YTLiveStreaming是一个框架，用于在带有Xcode 10的Swift 4.2中使用YouTube实时流API（YouTube数据API v3）在YouTube上创建实时广播和视频流 |  ||
 |  |  |  ||
 |  |  |  ||
 
@@ -447,6 +464,7 @@
 | [lottie-android](https://github.com/airbnb/lottie-android) | 在Android和iOS，Web和React Native上本地渲染After Effects动画 | [官网](http://airbnb.io/lottie/) ||
 | [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) | 宝宝特效 AiyaEffectsSDK 涵盖Android、iOS两个平台，基于自主研发的人脸识别模块，作为一款动态贴纸和动画特效高效渲染的解决方案 | [官网](http://www.aiyaapp.com/product/bbtx) ||
 | [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) | SpriteKit粒子动画播放器 | 使用Xcode的内置[“粒子发射器”编辑器](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-particle_emitter/Introduction/Introduction.html)，ParticlesLoadingView您可以创建自己的惊人SpriteKit粒子动画，如下图所示。继续并通过执行File创建自己的粒子动画➡️ 新文件 ➡️ iOS资源 ➡️ SpriteKit粒子文件 ||
+| [Gifu](https://github.com/kaishin/Gifu) | Gifu向UIKit添加了基于协议，性能感知的动画GIF支持 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -491,6 +509,12 @@
 | [swift-sdk](https://github.com/leancloud/swift-sdk) | LeanCloud Swift SDK | [demo](https://github.com/leancloud/swift-sdk-demo) ||
 | [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 一个适用于iOS，macOS，watchOS和tvOS的令人愉悦的网络库。它建立在[Foundation URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system)的基础上，扩展了Cocoa中内置的强大的高级网络抽象 | [官网](http://afnetworking.com/) ||
 | [Starscream](https://github.com/daltoniam/Starscream) | Swift中符合标准的WebSocket（[RFC 6455](http://tools.ietf.org/html/rfc6455)）库 |  ||
+| [RealReachability](https://github.com/dustturtle/RealReachability) | 网络实时监控 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 
 ## <a name="主题DarkMode"></a>主题（Dark Mode）
@@ -647,7 +671,7 @@
 | [node](https://github.com/nodejs/node) | [Node.js](https://nodejs.org/) JavaScript运行时 ✨🐢🚀✨ | ||
 | [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️网络流媒体客户端 | [官网](https://webtorrent.io/) ||
 | [nvm](https://github.com/nvm-sh/nvm) | 节点版本管理器-兼容POSIX的bash脚本，用于管理多个活动的node.js版本 |  ||
-|  |  |  ||
+| [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) | 用于[Streamlink](https://streamlink.github.io/)的多平台[Twitch.tv](https://twitch.tv/)浏览器 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -699,6 +723,17 @@
 | [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) | 🎶将Google Play音乐变成与Mac集成的独立，精美的应用程序 |  ||
 | [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) | [ChatSecure](https://chatsecure.org/)是用于iOS 的免费开放源代码[XMPP](https://en.wikipedia.org/wiki/XMPP)消息客户端，它集成了[OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)和[OMEMO](https://en.wikipedia.org/wiki/OMEMO)加密消息传递支持，并具有可选的集成支持，以支持通过[Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network))网络的连接 | [App Store](https://itunes.apple.com/us/app/chatsecure/id464200063) ||
 | [breadwallet-ios](https://github.com/voisine/breadwallet-ios) | 比特币钱包 | [官网](http://breadapp.com/)，[App Store](https://itunes.apple.com/app/breadwallet/id885251393) ||
+| [vim](https://github.com/vim/vim) | Vim是旧的UNIX编辑器Vi的大大改进版本。添加了许多新功能：多级撤消，语法突出显示，命令行历史记录，在线帮助，拼写检查，文件名完成，块操作，脚本语言等。还提供了图形用户界面（GUI） |  ||
+| [JSONExport](https://github.com/Ahmed-Ali/JSONExport) | Mac OS X的桌面应用程序，它使您能够使用自己喜欢的语言将JSON对象作为关联的构造函数，实用程序方法，setter和getter导出为模型类 |  ||
+| [Aerial](https://github.com/JohnCoates/Aerial) | Aero是基于新Apple TV屏幕保护程序的Mac屏幕保护程序，可显示Apple在纽约，旧金山，夏威夷，中国等地拍摄的空中电影 |  ||
+| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | 背景音乐，一种macOS音频实用程序：自动暂停您的音乐，设置单个应用的音量并录制系统音频 |  ||
+| [CocoaPods-app](https://github.com/CocoaPods/CocoaPods-app) | CocoaPods.app 的首要目标是提供功能齐全且独立的CocoaPods安装，而不是要求用户通过RubyGems或Homebrew安装CocoaPods。除了易于安装之外，它还包括易于更新的功能 |  ||
+| [CocoaPods-Specs](https://github.com/CocoaPods/Specs) | 该存储库包含公共[CocoaPods](https://github.com/CocoaPods/CocoaPods)规范 |||
+| [Dash-iOS](https://github.com/Kapeli/Dash-iOS) | Dash文件阅读器 |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -738,6 +773,9 @@
 | [awesome-react-native](https://github.com/jondot/awesome-react-native) | 很棒的React Native组件，新闻，工具和学习资料 | [文档](http://www.awesome-react-native.com/) ||
 | [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 📱开源iOS应用的列表 |  ||
 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚免费的计算机编程类中文书籍 | [微博](http://weibo.com/justjavac) ||
+| [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) | 适用于iOS本机应用程序的许多[Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)控件 |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -761,8 +799,8 @@
 | [swift-style-guide](https://github.com/github/swift-style-guide) | Swift API设计指南 |||
 | [javascript](https://github.com/airbnb/javascript) | JavaScript API 设计指南 |||
 | [google-styleguide](https://github.com/darcyliu/google-styleguide) | Google 开源项目风格指南 | [官网](http://code.google.com/p/google-styleguide/) ||
-| [Specs](https://github.com/CocoaPods/Specs) | 该存储库包含公共[CocoaPods](https://github.com/CocoaPods/CocoaPods)规范 |||
-|  |  |||
+| [swift-style-guide](https://github.com/raywenderlich/swift-style-guide) | raywenderlich.com的官方Swift样式指南 |||
+| [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) |《[C ++核心准则](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)》是一组有关C++编码的经过实践检验的准则，规则和最佳实践 |||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
