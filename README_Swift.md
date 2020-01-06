@@ -1,4 +1,4 @@
-# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNy0wNS0zMVQxMjoxNjowMyswODowMM4Fl3sW&language=&q=&tab=repositories&utf8=%E2%9C%93)
+# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNi0xMi0xOVQxMToyMDozMiswODowMM4El2g8&language=&q=&tab=repositories&utf8=%E2%9C%93)
 
 * [控件](#控件)
 * [组件](#组件)
@@ -23,9 +23,10 @@
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
 | [Tabman](https://github.com/uias/Tabman) |  带有交互式指示器栏的功能强大的分页视图控制器 | [博客](https://uias.github.io/Tabman/master/) |  |
-| [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | ObjC版[JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | |
-| [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | Swift版[JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) | |
+| [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | | |
+| [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | | |
 | [JXPagingView](https://github.com/pujiaxin33/JXPagingView) | 类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。 |  | |
+| [VTMagic](https://github.com/tianzhuo112/VTMagic) | iOS的page库，您可以根据需要通过不同的标识符自定义每个页面控制器。使用起来非常简单 | [博客](http://www.jianshu.com/p/cb2edb21055f) ||
 | [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) | 一个简单且易于自定义的InputAccessoryView，用于通过自动完成和附件制作功能强大的输入栏 |  | |
 | [LTScrollView](https://github.com/gltwy/LTScrollView) | ScrollView嵌套ScrolloView（UITableView、UICollectionView）解决方案，支持OC/Swift | [博客](http://blog.csdn.net/glt_code/article/details/78576628) | |
 | [DifferenceKit](https://github.com/ra1028/DifferenceKit) | 快速，灵活的O（n）差异算法框架，用于Swift收集 | [博客](https://ra1028.github.io/DifferenceKit) |  |
@@ -40,6 +41,8 @@
 | [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) | 一个Swift UI模块库，用于向iOS标签栏项和图标添加动画. iOS library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
 | [preview-transition](https://github.com/Ramotion/preview-transition) | PreviewTransition是具有动画过渡的简单预览库UI控制器. Swift UI library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
 | [reel-search](https://github.com/Ramotion/reel-search) | 🔍RAMReel是一个UI控制器，允许您从列表中选择选项. Swift UI library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
+| [YNSearch](https://github.com/younatics/YNSearch) | 🔍令人敬畏的完全自定义搜索视图 | [官网](https://www.cocoacontrols.com/controls/ynsearch) ||
+| [PYSearch](https://github.com/ko1o/PYSearch) | 🔍 一个优雅的搜索控制器，它取代了UISearchController |  ||
 | [paper-onboarding](https://github.com/Ramotion/paper-onboarding) | PaperOnboarding是一种材质设计UI滑块. Swift UI library by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
 | [Magnetic](https://github.com/efremidze/Magnetic) | 一种可自定义的气泡选择器，类似于Apple Music类型的选择 |||
 | [DeepDiff](https://github.com/onmyway133/DeepDiff) | DeepDiff通过编辑步骤告诉2个集合之间的差异以及所做的更改。它还支持[Texture](https://github.com/TextureGroup/Texture)，请参见[Texture示例](https://github.com/onmyway133/DeepDiff/tree/master/Example/DeepDiffTexture)；阅读更多[使用diff框架在Swift中更新UICollectionView数据的更好方法](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) |||
@@ -78,7 +81,6 @@
 | [OCBarrage](https://github.com/w1531724247/OCBarrage) | iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手 |  ||
 | [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) | 【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新 |  ||
 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) | 用Swift编写的UILabel的优美变形效果 |  ||
-| [YNSearch](https://github.com/younatics/YNSearch) | 🔍令人敬畏的完全自定义搜索视图 | [官网](https://www.cocoacontrols.com/controls/ynsearch) ||
 | [fave-button](https://github.com/janselv/fave-button) | FaveButton是一个用Swift编写的类似iOS的可爱动画按钮 |  ||
 | [Tangram-iOS](https://github.com/alibaba/Tangram-iOS) | [alibaba](https://github.com/alibaba)的Tangram，七巧板，几块简单的积木就能拼出大千世界 | [官网](http://tangram.pingguohe.net/) ||
 | [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) | 一个UILabel子类，当标签文本超出可用宽度时，添加滚动字幕效果。也可以指定标签的滚动方向和速度/速率 |  ||
@@ -91,8 +93,30 @@
 | [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 一个iOS嵌入式类，在后台线程中完成工作时显示带有指示符和/或标签的半透明HUD | [官网](http://www.bukovinski.com/) ||
 | [PKHUD](https://github.com/pkluz/PKHUD) | 基于Swift的Apple HUD（音量，铃声，旋转等）的重新实现，适用于iOS 8 |  ||
 | [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) | 一个容器视图控制器，它使我们可以在视图控制器的集合之间轻松切换。平移手势可用于移至下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的协同指针 |  ||
-|  |  |  ||
-|  |  |  ||
+| [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 一个易于使用的UITableViewCell子类，实现了可滑动的内容视图，该视图公开了实用程序按钮（类似于iOS 7 Mail Application） |  ||
+| [PullToRefresh](https://github.com/Yalantis/PullToRefresh) | 一个下拉刷新控件 | [官网](https://yalantis.com/) ||
+| [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) | 基于Google +，iQON，Feedly和Ameba iOS应用的iOS幻灯片菜单视图 |  ||
+| [QMUI_iOS](https://github.com/Tencent/QMUI_iOS) | [Tencent](https://github.com/Tencent/)的致力于提高项目 UI 开发效率的解决方案 | [官网](http://qmuiteam.com/ios)，[Demo](https://github.com/QMUI/QMUIDemo_iOS) ||
+| [LxGridView](https://github.com/DeveloperLx/LxGridView) | 通过继承UICollectionView模仿Apple iOS系统桌面图标的排列和交互！ |  ||
+| [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 下拉式UITableView / UICollectionView超类类别，用于在视图无内容可显示时显示空数据集 | [官网](https://www.cocoacontrols.com/controls/dznemptydataset) ||
+| [EasyTipView](https://github.com/teodorpatras/EasyTipView) | 用Swift编写的完全可定制的工具提示视图，可以用作号召性用语或信息提示 |  ||
+| [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition) | 加载动画和过渡动画的动画UIButton |  ||
+| [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) | UILabel嵌入式替换，支持以Swift编写的Hashtags(＃)，提及(@)，URL(http://)和自定义正则表达式模式 |  ||
+| [Dodo](https://github.com/evgenyneu/Dodo) | 使用Swift编写的iOS消息栏 |  ||
+| [Popover](https://github.com/corin8823/Popover) | 一个像Facebook应用程序一样的气球库。它写得很快 |  ||
+| [WeChat](https://github.com/zhengwenming/WeChat) | 实现类似微信朋友圈或者QQ空间，评论回复，贴吧盖楼，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处 |  ||
+| [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 适用于iOS的精美消息UI库 | [博客](https://www.jessesquires.com/blog/officially-deprecating-jsqmessagesviewcontroller/) ||
+| [PullToBounce](https://github.com/entotsu/PullToBounce) | 动画的UIScrollView“拉动刷新”库 |  ||
+| [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) | 易于使用的UITableViewCell子类，可显示具有各种转换的可滑动按钮 |  ||
+| [PinterestSwift](https://github.com/demonnico/PinterestSwift) | Pinterest展示了如何view过渡效果 |  ||
+| [MLLabel](https://github.com/molon/MLLabel) | 带有TextKit的UILabel。支持链接和自定义表达式 |  ||
+| [Material](https://github.com/CosmicMind/Material) | 一个用于创建漂亮应用程序的UI/UX框架。利用[Motion](https://github.com/CosmicMind/Motion)专用于动画和过渡的库 | [官网](http://cosmicmind.com/) ||
+| [WXSTransition](https://github.com/alanwangmodify/WXSTransition) | 🍎 界面转场动画集 |  ||
+| [Chatto](https://github.com/badoo/Chatto) | 一个用于构建聊天应用程序的Swift轻量级框架 |  ||
+| [Eureka](https://github.com/xmartlabs/Eureka) | 优雅的iOS表单生成器。由[XMARTLABS](http://xmartlabs.com/)精心编写，是[XLForm](https://github.com/xmartlabs/XLForm)的Swift版本 | [官网](https://eurekacommunity.github.io/) ||
+| [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) | 动画警报视图，可以用作UIAlertView或UIAlertController替代 |  ||
+| [TOCropViewController](https://github.com/TimOliver/TOCropViewController) | 用于裁剪UIImage对象的各个部分以及执行基本旋转。它非常适合编辑个人资料图片或在线共享照片的一部分 | [博客](http://www.timoliver.com.au/2015/06/21/tocropviewcontroller-an-open-source-image-cropper-for-ios/) ||
+| [PageMenu](https://github.com/PageMenu/PageMenu) | 一个完全可自定义且灵活的分页菜单控制器，由放置在滚动视图内的其他视图控制器构建而成，使用户可以通过轻松点按或滑动手势在任何一种视图控制器之间进行切换，类似于Spotify，Windows Phone和Instagram的用法 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -103,6 +127,7 @@
 | [RandomKit](https://github.com/nvzqz/RandomKit) | 一个Swift框架，可简化随机数据的生成 | [博客](https://nvzqz.github.io/RandomKit/docs/) |  |
 | [LinkMap](https://github.com/huanxsd/LinkMap) | 检查每个类占用空间大小工具 |  |  |
 | [YYImage](https://github.com/ibireme/YYImage) | 功能强大的iOS图像框架 |  | |
+| [SDWebImage](https://github.com/SDWebImage/SDWebImage) | 具有缓存支持的异步图像下载程序，作为UIImageView类别 | [官网](https://sdwebimage.github.io/) ||
 | [APNGKit](https://github.com/onevcat/APNGKit) | 高性能和令人愉悦的方式，可在iOS中使用APNG格式播放 || |
 | [libpng](https://github.com/glennrp/libpng) | 可移植网络图形支持，官方libpng存储库 | [官网](http://libpng.sf.net) ||
 | [ImageScout](https://github.com/kaishin/ImageScout) | Swift版[fastimage](https://pypi.org/project/fastimage/0.2.1/)。支持PNG，GIF和JPEG |||
@@ -178,9 +203,59 @@
 | [DynamicColor](https://github.com/yannickl/DynamicColor) | 可以在Swift和SwiftUI中轻松操纵颜色 | [博客](http://cocoadocs.org/docsets/DynamicColor) ||
 | [UIImageColors](https://github.com/jathu/UIImageColors) | 适用于UIImage和的iTunes样式的颜色提取器NSImage。它获取最主要和最突出的颜色 |  ||
 | [Async](https://github.com/duemunk/Async) | Swift中的语法糖用于[Grand Central Dispatch](https://developer.apple.com/library/prerelease/ios/documentation/Performance/Reference/GCD_libdispatch_Ref/index.html)中的异步调度 |  ||
-| [Texture](https://github.com/TextureGroup/Texture) | 流畅的iOS应用程序异步用户界面 | [了解](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50)AsyncDisplayKit和Texture ||
+| [Texture](https://github.com/TextureGroup/Texture) | 流畅的iOS应用程序异步用户界面 | 了解[AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit)和Texture请看[博客](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50) ||
 | [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) | 响应式编程 |  ||
 | [DeviceKit](https://github.com/devicekit/DeviceKit) | DeviceKit是UIDevice的值类型替换 |  ||
+| [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) | 将Swift代码转换为Kotlin的工具 |  ||
+| [SocialSDK](https://github.com/GagSquad/SocialSDK) | iOS实现新浪、微信、QQ登录、分享功能，Share，ShareSDK，高仿友盟SocialSDK UI 实现，可自定义UI实现 |  ||
+| [SwiftJavaScriptCore](https://github.com/YanlongMa/SwiftJavaScriptCore) | Swift使用JavaScriptCore与JS进行交互 | [博客](http://www.mayanlong.com/) ||
+| [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) |  无代码插入式通用库可防止键盘滑落并覆盖UITextField / UITextView。无需编写任何代码，也不需要任何设置，甚至更多|  ||
+| [FLPayManager](https://github.com/gitkong/FLPayManager) | 项目中支付一般都有支付宝支付以及微信支付，此工具类就是统一管理支付宝和微信支付，自动根据传参进行跳转不同的支付方式
+ |  ||
+| [Cartography](https://github.com/robb/Cartography) | 用于Swift的声明式自动布局DSL 📱📐 |  ||
+| [wax](https://github.com/alibaba/wax) | [alibaba](https://github.com/alibaba).可让您使用[Lua](http://www.lua.org/about.html)编写本机iPhone应用程序 |  ||
+| [openshare](https://github.com/100apps/openshare) | 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付 | [官网](http://www.gfzj.us/series/openshare/) ||
+| [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) | 简单QRCode阅读器，可解码这些[格式类型](https://developer.apple.com/documentation/avfoundation/avmetadatamachinereadablecodeobject#//apple_ref/doc/constant_group/Machine_Readable_Object_Types) |  ||
+| [warp-ctc](https://github.com/baidu-research/warp-ctc) | [百度](https://github.com/baidu-research)Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （library） 介绍 CTCConnectionist Temporal Classification作为一个损失函数，用于在序列数据上进行监督式学习，不需要对齐输入数据及标签 |  ||
+| [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 一个iOS / OSX桥，用于在WKWebViews，UIWebViews和WebViews中的Obj-C和JavaScript之间发送消息 | [官网](http://marcuswest.in/) ||
+| [WinObjC](https://github.com/microsoft/WinObjC) | 适用于Windows的Objective-C |  ||
+| [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻macOS缺少的软件包管理器 | [官网](https://brew.sh/) ||
+| [webkit](https://github.com/WebKit/webkit) | WebKit是一个跨平台的Web浏览器引擎。在iOS和macOS上，它支持Safari，Mail，iBooks和许多其他应用程序 | [官网](http://www.webkit.org/) ||
+| [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) | Swift算法俱乐部 |  ||
+| [swiftenv](https://github.com/kylef/swiftenv) | Swift版本管理器，允许您轻松安装并在多个版本的Swift之间切换 | [官网](https://swiftenv.fuller.li/) ||
+| [APKit](https://github.com/wilddylan/APKit) | **IAP**组件 |  ||
+| [SwiftTask](https://github.com/ReactKit/SwiftTask) | Promise + progress + pause + cancel + retry for Swift. |  ||
+| [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) | Swift中**有序字典**数据结构的轻量级实现 |  ||
+| [Timepiece](https://github.com/naoty/Timepiece) | Swift中直观的日期处理 |  ||
+| [Nimble](https://github.com/Quick/Nimble) | Swift和Objective-C的Matcher框架。灵感来自[Cedar](https://github.com/pivotal/cedar) |  ||
+| [ZFDownload](https://github.com/renzifeng/ZFDownload) | 断点下载，支持后台下载，再次打开程序、异常退出记录下载进度 |  ||
+| [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) | 一个简单的iOS钥匙串包装器，可让您以类似于“用户默认设置”的方式使用它 |  ||
+| [go](https://github.com/golang/go) | Go编程语言 | [官网](https://golang.org/) ||
+| [swift](https://github.com/apple/swift) | Swift编程语言 | [官网](https://swift.org/) ||
+| [swift-evolution](https://github.com/apple/swift-evolution) | Swift语言所有提案 | [官网](https://apple.github.io/swift-evolution/) ||
+| [swift-package-manager](https://github.com/apple/swift-package-manager) | Swift编程语言的软件包管理器 |  ||
+| [certbot](https://github.com/certbot/certbot) | Certbot是EFF的工具，可从“加密”获取证书，并（可选）在服务器上自动启用HTTPS。它也可以充当使用ACME协议的任何其他CA的客户端 |  ||
+| [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) | 从服务器获取JSON,并实时自动构建以下本地应用程序 |  ||
+| [MonkeyKing](https://github.com/nixzhu/MonkeyKing) | MonkeyKing可以帮助您将消息发布到中文社交网络 |  ||
+| [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | 便捷的500多种Swift扩展集合，可提高我们的开发效率 | [官网](https://swifterswift.com/) ||
+| [yoga](https://github.com/facebook/yoga) | [facebook](https://github.com/facebook)的实现Flexbox的跨平台布局引擎 | [官网](https://yogalayout.com/) ||
+| [infer](https://github.com/facebook/infer) | Java，C，C ++和Objective-C的静态分析器 | [官网](http://fbinfer.com/) ||
+| [curl](https://github.com/curl/curl) | 命令行工具和库，用于使用URL语法传输数据，支持HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. | [官网](https://curl.haxx.se/) ||
+| [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) | Bolts是一组低级库，旨在简化开发移动应用程序。Bolts是由Parse和Facebook设计的 |  ||
+| [appledoc](https://github.com/tomaz/appledoc) | Objective-C代码Apple样式文档集生成器 | [官网](http://gentlebytes.com/) ||
+| [jazzy](https://github.com/realm/jazzy) | 一个命令行实用程序，可为Swift或Objective-C生成文档 | [官网](https://realm.io/) ||
+| [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) | 使用IBAnimatable在Interface Builder中为可用于App Store的应用程序设计和原型定制UI，交互，导航，过渡和动画 |  ||
+| [Motion](https://github.com/CosmicMind/Motion) | 这个库用于为iOS创建漂亮的动画和过渡 | [官网](http://cosmicmind.com/) ||
+| [linux](https://github.com/torvalds/linux) | Linux内核源代码树 |  ||
+| [rvm](https://github.com/rvm/rvm) | Ruby环境管理器 [RVM](https://rvm.io/) |  |  |
+| [openssl](https://github.com/openssl/openssl) | TLS / SSL和加密库 | [官网](https://www.openssl.org/) ||
+| [ruby](https://github.com/ruby/ruby) | Ruby编程语言[镜像] | [官网](https://www.ruby-lang.org/) ||
+| [BeeHive](https://github.com/alibaba/BeeHive) | `BeeHive`是[alibaba](https://github.com/alibaba)开源的用于iOS的App模块化编程的框架实现方案，吸收了`Spring`框架`Service`的理念来实现模块间的`API`耦合 |  ||
+| [ReSwift](https://github.com/ReSwift/ReSwift) | Swift中的单向数据流 | [官网](http://reswift.github.io/ReSwift/) ||
+| [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case/) | 适用于iOS的快照视图单元测试；以前为[FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case) |  ||
+| [SnapKit](https://github.com/SnapKit/SnapKit) | 适用于iOS和OS X的Swift自动布局DSL | [官网](http://snapkit.io/) ||
+| [ocmock](https://github.com/erikdoe/ocmock) | OCMock是模拟对象的Objective-C实现 | [官网](http://ocmock.org/) ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 
@@ -196,6 +271,20 @@
 | [druid](https://github.com/alibaba/druid) | 阿里巴巴数据库事业部出品，为监控而生的数据库连接池 | [wiki](https://github.com/alibaba/druid/wiki) ||
 | [pouch](https://github.com/alibaba/pouch) | [alibaba](https://github.com/alibaba)的高效的企业级容器引擎 | [官网](https://pouchcontainer.io/) ||
 | [Disk](https://github.com/saoudrizwan/Disk) | 一个功能强大且简单的文件管理库，考虑了Apple的[iOS数据存储指南](https://developer.apple.com/icloud/documentation/data-storage/index.html)。磁盘使用CodableSwift 4中引入的新协议来发挥其最大的优势，它使您能够持久保存结构，而不必担心编码/解码。磁盘还可以帮助您以最少的一行代码将图像和其他数据类型保存到磁盘 |  ||
+| [CoreStore](https://github.com/JohnEstropia/CoreStore) | 一个对CoreData的包装，提供了数据安全的特性，CoreStore现在是[Swift Source Compatibility](https://swift.org/source-compatibility/#current-list-of-projects)项目的一部分 |  ||
+| [GRDB.swift](https://github.com/groue/GRDB.swift) | 用于SQLite数据库的工具包，重点是应用程序开发 | [官网](http://groue.github.io/GRDB.swift/) ||
+| [](https://github.com/stephencelis/SQLite.swift) | [SQLite3](http://www.sqlite.org/)上的类型安全的[Swift](https://swift.org/)语言层；[SQLite.swift](https://github.com/stephencelis/SQLite.swift)提供了对SQL语句语法和意图的编译时置信度 |  ||
+| [GYDataCenter](https://github.com/Zepo/GYDataCenter) | 建立在[FMDB](https://github.com/ccgus/fmdb)之上。它提供了面向对象的接口，同时仍然具有使用原始SQL的灵活性 |  ||
+| [SugarRecord](https://github.com/modo-studio/SugarRecord) | SugarRecord是一个持久性包装器，旨在以更简单的方式使用诸如CoreData之类的持久性解决方案 |  ||
+| [FileKit](https://github.com/nvzqz/FileKit) | 一个Swift框架，可用于简单且富有表现力的文件管理 | [文档](https://nvzqz.github.io/FileKit/docs/) ||
+| [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) | 适用于iOS的WordPress-官方存储库 | [官网](http://ios.wordpress.org/) ||
+| [wire-ios](https://github.com/wireapp/wire-ios) | Wire移动应用程序具有一个架构层，我们称为同步引擎。客户端层处理移动应用程序中显示的所有数据。它使用后端处理网络通信和身份验证，推送通知，数据本地缓存，客户端业务逻辑，使用音频视频库进行信号传输，加密和解密（使用较低级别的加密库）以及其他零碎的内容 |  ||
+| [osquery](https://github.com/osquery/osquery) | 一个由SQL驱动的操作系统检测，监视和分析框架。适用于Linux，macOS，Windows和FreeBSD | [官网](https://osquery.io/) ||
+| [YapDatabase](https://github.com/yapstudios/YapDatabase) | YapDatabase是一个集合/键/值存储，还有更多。它在sqlite之上构建，面向Swift和Objective-C开发人员，目标是macOS，iOS，tvOS和watchOS |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 
 ## <a name="SwiftUI"></a>SwiftUI
@@ -250,9 +339,47 @@
 | [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer) | 一款基于iOS的轻量级音乐播放器，基于AudioKit | [博客](https://applikeysolutions.com/) ||
 | [GDLiveStreaming](https://github.com/goodow/GDLiveStreaming) | 实时音频和视频直播库 |  ||
 | [mumble](https://github.com/mumble-voip/mumble) | Mumble是在Qt和Opus之上编写的面向游戏玩家的语音聊天程序 | [官网](https://www.mumble.info/) ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [react-360](https://github.com/facebook/react-360) | 用于创建在您的Web浏览器中运行的交互式360体验的框架 | [官网](https://facebook.github.io/react-360) ||
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio-免费和开源软件，用于实时流媒体和屏幕录制 | [官网](https://obsproject.com/) ||
+| [howler.js](https://github.com/goldfire/howler.js) | [howler.js](https://howlerjs.com/)是现代网络的音频库。它默认为[Web Audio API](http://webaudio.github.io/web-audio-api/)，而后退为[HTML5 Audio](https://html.spec.whatwg.org/multipage/embedded-content.html#the-audio-element)。这使得在所有平台上使用JavaScript进行音频操作变得轻松可靠 |  ||
+| [DDDKit](https://github.com/gsabran/DDDKit) | 可支持360个视频和图片。它被设计为通用3D库 |  ||
+| [avcodec](https://github.com/ireader/avcodec) | 影音编码器/解码器/渲染器/播放器 |  ||
+| [yasea](https://github.com/begeekmyfriend/yasea) | 适用于Android的RTMP实时流客户端 |  ||
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | [FFmpeg](https://ffmpeg.org/)用于处理多媒体内容（例如音频，视频，字幕和相关元数据）的库和工具的集合 |  ||
+| [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) | 这是一个Shell脚本，用于为iOS和tvOS应用程序构建FFmpeg库 |  ||
+| [moviepy](https://github.com/Zulko/moviepy) | MoviePy（完整[文档](http://zulko.github.io/moviepy/)）是一个用于视频编辑的Python库：剪切，串联，标题插入，视频合成（也称为非线性编辑），视频处理以及自定义效果的创建。有关使用示例，请参见[图库](http://zulko.github.io/moviepy/gallery.html) |  ||
+| [artoolkit5](https://github.com/artoolkit/artoolkit5) | ARToolKit v5.x |  ||
+| [XJTV](https://github.com/Paulpang/XJTV) | XJ直播是一款基于Swift3.0开发的直播平台,所有接口都是通过抓包工具获得,仅供学习和交流,不用于商业用途 |  ||
+| [SoundManager2](https://github.com/scottschiller/SoundManager2) | 一个JavaScript声音API，支持MP3，MPEG4和HTML5音频+ RTMP，可提供可靠的跨浏览器/平台音频控制，最小为12 KB | [博客](http://www.schillmania.com/projects/soundmanager2/) ||
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 命令行程序，用于从YouTube.com和其他视频网站下载视频 | [官网](http://ytdl-org.github.io/youtube-dl/) ||
+| [opencv](https://github.com/opencv/opencv) | 开源计算机视觉库 | [官网](https://opencv.org/) ||
+| [licode](https://github.com/lynckia/licode) | 基于WebRTC和云技术的开源通信平台 | [官网](http://lynckia.com/licode) ||
+| [MGMiaoBo](https://github.com/LYM-mg/MGMiaoBo) | 多视频直播模式，移动直播新体验，多人秀场更好玩 |  ||
+| [FLWebRTCDemo](https://github.com/qq3200341/FLWebRTCDemo) | 基于webRTC的音视频通话，服务端采用开源项目[SkyRTC](https://github.com/LingyuCoder/SkyRTC)，未实现stunserver和turnserver服务器，因此NAT环境下不可使用 |  ||
+| [lame-ios-build](https://github.com/kewlbear/lame-ios-build) | 一个构建lame库的脚本 |  ||
+| [muplayer](https://github.com/Baidu-Music-FE/muplayer) | 百度音乐播放内核（不再维护） | [官网](https://886.enimo.cn/muplayer/doc/) ||
+| [openwebrtc-examples](https://github.com/EricssonResearch/openwebrtc-examples) | 示例应用程序展示了如何使用OpenWebRTC |  ||
+| [DotGPUBeautyFilter](https://github.com/dotEngine/DotGPUBeautyFilter) | GUPImage脸部美容滤镜 |  ||
+| [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) | 跨浏览器音频/视频/屏幕录制。它支持Chrome，Firefox，Opera和Microsoft Edge。它甚至可以在Android浏览器上使用。它遵循最新的MediaRecorder API标准，并提供类似的API | [官网](https://www.webrtc-experiment.com/msr/) ||
+| [ios-live-sdk](https://github.com/upyun/ios-live-sdk) | UPYUN 直播 SDK。播放器、采集器、推流器统一集成，功能完备接口简练，可以快速安装使用。采集与音视频处理模块开源，灵活性强可以满足复杂定制需求 | [官网](http://docs.upyun.com/live/) ||
+| [EasyPusher](https://github.com/EasyDarwin/EasyPusher) | 免费组件：简单、高效、稳定、免费的一款标准RTSP/RTP协议直播推送库，支持将H.264/H.265/G.711/G.726/AAC等音视频数据推送到RTSP流媒体服务器（例如EasyDarwin）进行低延时直播或者视频通信，支持Windows、Linux、ARM、Android、iOS等平台，EasyPusher配套EasyDarwin流媒体服务器、EasyPlayer RTSP播放器适用于特殊行业的低延时应急指挥需求！ [Android](https://github.com/EasyDarwin/EasyPusher-Android), [iOS](https://github.com/EasyDarwin/EasyPusher-iOS)|  ||
+| [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | 高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡等 | [官网](http://www.easydarwin.org/) ||
+| [srs](https://github.com/ossrs/srs) | 一个简单的流媒体直播集群 | [官网](https://ossrs.net/) ||
+| [srs-librtmp](https://github.com/ossrs/srs-librtmp) | SRS的客户端库srs-librtmp |||
+| [ijkplayer](https://github.com/bilibili/ijkplayer) | 基于FFmpeg n3.4的Android/iOS视频播放器，带有MediaCodec，VideoToolbox支持 |  ||
+| [ExoMedia](https://github.com/brianwernick/ExoMedia) | 一种媒体播放库，具有与Android MediaPlayer和VideoView相似的API，并在可能的情况下使用[ExoPlayer](https://github.com/google/ExoPlayer)作为支持，否则将使用默认的Android MediaPlayer和VideoView |  ||
+| [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 一种先进的工具，用于面部标志检测，头部姿势估计，面部动作单位识别和视线估计 |  ||
+| [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) | iOS Live Kit，H264和AAC硬编码，支持GPUImage Beauty，rtmp传输，网络丢帧弱，动态切换率高 |  ||
+| [vlc](https://github.com/videolan/vlc) | VLC是一种流行的自由和开源媒体播放器和多媒体引擎 |  ||
+| [openh264](https://github.com/cisco/openh264) | [OpenH264](http://www.openh264.org/)是一个编解码器库，支持H.264编码和解码。它适用于WebRTC等实时应用程序 | ||
+| [LivePublisher](https://github.com/edu-lance/LivePublisher) | Android rtmp推流器 |  ||
+| [AppRTCDemo](https://github.com/njovy/AppRTCDemo) | WebRTC项目的Android AppRTC演示 |  ||
+| [CocoaSplit](https://github.com/zakk4223/CocoaSplit) | 流/录制您的桌面/网络摄像头以抽搐/拥有等 |  ||
+| [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 🕹适用于macOS的复古视频游戏仿真 | [官网](https://openemu.org/) ||
+| [WMPlayer](https://github.com/zhengwenming/WMPlayer) | AVPlayer的封装，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放 |  ||
+| [AudioKit](https://github.com/AudioKit/AudioKit) | 适用于iOS，macOS和tvOS的音频合成，处理和分析平台 | [官网](http://audiokit.io/) ||
+| [AWLive](https://github.com/hardman/AWLive) | 简单的iOS推流代码，视频捕获，软编码(faac，x264)，硬编码（aac，h264），横屏直播，美颜，flv编码，rtmp协议 | [博客](http://www.jianshu.com/u/1240d2400ca1) ||
+| [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) | 🔥视频直播:仿腾讯旗下 < NOW > 直播 斗鱼 抖音 火山视频 花椒 熊猫 YY 陌陌 映客 直播APP |  ||
 |  |  |  ||
 
 ## <a name="优化/性能调优/ipa瘦身"></a>优化/性能调优/ipa瘦身
@@ -271,10 +398,15 @@
 | [dSYMTools](https://github.com/answer-huang/dSYMTools) | dSYM分析 |||
 | [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) | iOS 平台的自动内存泄漏检测工具，引进 MLeaksFinder 后，就可以在日常的开发，调试业务逻辑的过程中自动地发现并警告内存泄漏 | [wiki](http://wereadteam.github.io/2016/07/20/MLeaksFinder2/) ||
 | [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift) | 在状态栏上方显示FPS，CPU和内存使用情况，设备型号，应用和iOS版本，并通过委托报告FPS，CPU和内存使用情况 |||
+| [SwiftLint](https://github.com/realm/SwiftLint) | 一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 [GitHub's Swift 代码风格指南](https://github.com/github/swift-style-guide)为基础 | [官网](https://realm.io/) ||
+| [ResponseDetective](https://github.com/netguru/ResponseDetective) | 🕵一个非侵入性框架，用于拦截应用程序和服务器之间的所有传出请求和传入响应，以进行调试 |||
+| [Nocilla](https://github.com/luisobo/Nocilla) | 适用于iOS和OS X的惊人的HTTP存根。测试HTTP请求从未如此简单 | [Twitter](https://twitter.com/luisobo) ||
+| [KSCrash](https://github.com/kstenerud/KSCrash) | iOS下崩溃监控 |||
 |  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="日志收集"></a>日志收集
 | 名称 | 描述 | 备注 | 截屏 |
@@ -283,16 +415,15 @@
 | [Puree-Swift](https://github.com/cookpad/Puree-Swift) | 过滤、缓冲、批处理、重试 |||
 | [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) | XCGLogger是用于Swift项目的原始调试日志模块 |||
 | [glog](https://github.com/google/glog) | [Google](https://github.com/google)日志记录模块的C ++实现 |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
-|  |  |||
+| [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 适用于Mac和iOS的快速，简单，功能强大且灵活的日志记录框架 | [官网](https://cocoalumberjack.github.io/) ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="骨骼/帧动画"></a>骨骼/帧动画
 | 名称 | 描述 | 备注 | 截屏 |
@@ -318,6 +449,7 @@
 ## <a name="HTTP/Socket-TCP/UDP/SMTP"></a>HTTP/Socket-TCP/UDP/SMTP/XMPP
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
+| [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 适用于Mac和iOS的异步套接字网络库 | [wiki](https://github.com/robbiehanson/CocoaAsyncSocket/wiki) ||
 | [Swift-SMTP](https://github.com/IBM-Swift/Swift-SMTP) | Swift SMTP邮件客户端 | | |
 | [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) |  | Swift中用于Swiftfire Web服务器项目的套接字实用程序的集合 | [博客](http://swiftfire.nl/) |
 | [aurora-imui](https://github.com/jpush/aurora-imui) | 通用IM聊天UI组件，已经同时支持Android/iOS/RN |  ||
@@ -341,10 +473,15 @@
 | [socket.io](https://github.com/socketio/socket.io) | 实时应用程序框架（Node.JS服务器） | [官网](http://socket.io/) ||
 | [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) | 适用于iOS/OS X的Socket.IO客户端 |  ||
 | [Hedwig](https://github.com/onevcat/Hedwig) | Hedwig是一个Swift软件包，它提供了一组高级API，使您可以轻松地将电子邮件发送到SMTP服务器 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [pomelo-ioschat](https://github.com/NetEase/pomelo-ioschat) | Pomelo [iOS客户端](https://github.com/NetEase/pomelo-iosclient)的聊天演示[服务器](https://github.com/NetEase/chatofpomelo) |  ||
+| [Moya](https://github.com/Moya/Moya) | 用Swift编写的网络抽象层 | [官网](https://moya.github.io/) ||
+| [sockets](https://github.com/vapor-community/sockets) | 🔌 非阻塞TCP套接字层，具有事件驱动的服务器和客户端 |  ||
+| [NEKit](https://github.com/zhuhaow/NEKit) | 网络扩展框架的工具包。下一代[libnekit](https://github.com/zhuhaow/libnekit) | [官网](https://zhuhaow.github.io/NEKit) ||
+| [fastsocket](https://github.com/fastos/fastsocket) | Fastsocket是一个高度可扩展的套接字及其Linux内核的基础网络实现。凭借直线线性可扩展性，Fastsocket可以在多核计算机中提供出色的性能。此外，它非常易于使用和维护。结果，它已经被部署在新浪的生产环境中 |  ||
+| [ChatKit-OC](https://github.com/leancloud/ChatKit-OC) | LeanCloud OC SDK |  ||
+| [swift-sdk](https://github.com/leancloud/swift-sdk) | LeanCloud Swift SDK | [demo](https://github.com/leancloud/swift-sdk-demo) ||
+| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 一个适用于iOS，macOS，watchOS和tvOS的令人愉悦的网络库。它建立在[Foundation URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system)的基础上，扩展了Cocoa中内置的强大的高级网络抽象 | [官网](http://afnetworking.com/) ||
+| [Starscream](https://github.com/daltoniam/Starscream) | Swift中符合标准的WebSocket（[RFC 6455](http://tools.ietf.org/html/rfc6455)）库 |  ||
 |  |  |  ||
 
 ## <a name="主题DarkMode"></a>主题（Dark Mode）
@@ -368,8 +505,17 @@
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
 | [SwiftEngine](https://github.com/swiftengine/SwiftEngine) | 基于Apple Swift的HTTP服务器。基于Swift的，一站式，防崩溃，高规模和生产级Web服务器的答案 | [官网](http://swiftengine.io) ||
+| [Perfect](https://github.com/PerfectlySoft/Perfect) | Swift语言服务器端软件框架 |  ||
+| [Perfect-Redis](https://github.com/PerfectlySoft/Perfect-Redis) | Redis客户端对[Perfect](https://github.com/PerfectlySoft/Perfect)的支持 | [官网](https://www.perfect.org/) ||
+| [Perfect-MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) | MySQL客户端库周围的独立Swift包装器，可访问MySQL服务器 | [官网](https://www.perfect.org/) ||
+| [Perfect-PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) | 围绕libpq客户端库的独立Swift包装器，可访问PostgreSQL服务器 | [官网](https://www.perfect.org/) ||
+| [Perfect-MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) | MongoDB数据库连接器 |||
+| [PerfectDocs](https://github.com/PerfectlySoft/PerfectDocs) | 该库包含运行和使用[Perfect](https://github.com/PerfectlySoft/Perfect)所需的所有参考文档和与API参考相关的材料 |||
+| [PerfectAppTemplate](https://github.com/PerfectlySoft/PerfectAppTemplate) | 为大型项目的发展提供结构。它包含一个HTTP Server配置，该配置可从预先分隔的过滤器和路由中加载，一个JSON配置加载器以及可在其中组织处理程序，对象和实用程序功能的目录 | ||
+| [PerfectTemplate](https://github.com/PerfectlySoft/PerfectTemplate) | [Perfect](https://www.perfect.org) Web服务器项目模板 |  ||
 | [Perfect-WebSockets](https://github.com/PerfectlySoft/Perfect-WebSockets) | WebSockets对Perfect的支持 |  ||
 | [Perfect-Notifications](https://github.com/PerfectlySoft/Perfect-Notifications) | Notifications for Perfect之iOS消息推送。此软件包为您的服务器添加了推送通知支持。向iOS/macOS设备发送通知 | [官网](https://www.perfect.org) ||
+| [Perfect-SQLite](https://github.com/PerfectlySoft/Perfect-SQLite) | 围绕SQLite 3客户端库的独立Swift包装器，可访问SQLite服务器 | [官网](https://www.perfect.org/) ||
 | [http](https://github.com/vapor/http) | 基于Swift NIO的非阻塞，事件驱动的HTTP |  ||
 | [mysql-kit](https://github.com/vapor/mysql-kit) | 🐬 基于非阻塞，事件驱动套接字的纯Swift MySQL客户端 |  ||
 | [Kitura](https://github.com/IBM-Swift/Kitura) | Swift Web框架和HTTP服务器 | [官网](http://www.kitura.io/) ||
@@ -383,16 +529,20 @@
 | [mux](https://github.com/gorilla/mux) | 强大的HTTP路由器和URL匹配器，可用于构建带有以下内容的Go Web服务器🦍 | [官网](http://www.gorillatoolkit.org/pkg/mux) ||
 | [gin](https://github.com/gin-gonic/gin) | Gin是用Go（Golang）编写的Web框架。它具有类似于martini的API，其性能比[httprouter](https://github.com/julienschmidt/httprouter)快40倍。如果您需要性能和良好的生产率，您会喜欢Gin | [官网](https://gin-gonic.com/) ||
 | [cat](https://github.com/dianping/cat) | CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为[美团点评](https://github.com/dianping)各业务线提供系统丰富的性能指标、健康状况、实时告警等 |  ||
+| [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 基于NGINX的媒体流服务器 | [博客](http://nginx-rtmp.blogspot.com/) |  |
 | [BLSS](https://github.com/gnolizuh/BLSS) | 基于[nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)的实时媒体流服务器 |  ||
 | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) | 基于NGINX的媒体流服务器 | [博客](http://nginx-rtmp.blogspot.com/) ||
 | [media-server](https://github.com/ireader/media-server) | RTSP / RTP / RTMP / FLV / HLS / MPEG-TS / MPEG-PS / MPEG-DASH / MP4 / fMP4 |||
 | [bls](https://github.com/notedit/bls) | BLS是用于Node.js的rtmp服务器框架。该服务器是在Nodejs使用的libuv I / O框架中开发的。因此，在大量客户端同时推送或拉取流数据的情况下，它的性能非常好 |||
 | [tengine](https://github.com/alibaba/tengine) | [alibaba](https://github.com/alibaba)的一个网络服务器，由亚洲最大的电子商务网站[淘宝网提供](http://en.wikipedia.org/wiki/Taobao)。它基于[Nginx](http://nginx.org/) HTTP服务器，并具有许多高级功能。在包括[taobao.com](http://www.taobao.com/)和[tmall.com](http://www.tmall.com/)在内的全球前100个网站中，Tengine被证明是非常稳定和高效的 |||
 | [elasticsearch](https://github.com/elastic/elasticsearch) | 分布式，RESTful搜索引擎 | [官网](https://www.elastic.co/products/elasticsearch) ||
-| [Perfect](https://github.com/PerfectlySoft/Perfect) | Swift语言服务器端软件框架 |  ||
-| [Perfect-Redis](https://github.com/PerfectlySoft/Perfect-Redis) | Redis客户端对[Perfect](https://github.com/PerfectlySoft/Perfect)的支持 | [官网](https://www.perfect.org/) ||
-| [PerfectDocs](https://github.com/PerfectlySoft/PerfectDocs) | 该库包含运行和使用[Perfect](https://github.com/PerfectlySoft/Perfect)所需的所有参考文档和与API参考相关的材料 |||
 | [swifter](https://github.com/httpswift/swifter) | 用[Swift](https://developer.apple.com/swift/)编程语言编写的微型http服务器引擎 |||
+| [kcptun](https://github.com/xtaci/kcptun) | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64 |  ||
+| [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) | 引导日期选择器 |  ||
+| [disconf](https://github.com/knightliao/disconf) | 分布式配置管理平台 | [官网](http://disconf.readthedocs.io/) ||
+| [janus-gateway](https://github.com/meetecho/janus-gateway) | Janus是由[Meetecho](http://www.meetecho.com/)设计和开发的一种开源通用WebRTC服务器。该版本的服务器专为Linux系统量身定制，尽管它也可以为MacOS机器编译和安装 |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -466,6 +616,30 @@
 | [angular.js](https://github.com/angular/angular.js) | AngularJS使您可以像编写更智能的浏览器一样编写客户端Web应用程序 | [官网](https://angularjs.org/) ||
 | [angular](https://github.com/angular/angular) | Angular是一个开发平台，用于使用TypeScript / JavaScript和其他语言来构建移动和桌面Web应用程序 | [官网](https://angular.io/) ||
 | [incubator-echarts](https://github.com/apache/incubator-echarts) | 一个免费的，功能强大的图表和可视化库，它提供了一种简便的方法，可以向您的商业产品中添加直观，交互式和高度可定制的图表。它使用纯JavaScript编写，并基于[zrender](https://github.com/ecomfe/zrender)，这是一个全新的轻量级画布库 |  ||
+| [echarts-gl](https://github.com/ecomfe/echarts-gl) | ECharts-GL是一个扩展包[echarts](http://echarts.baidu.com/)，它提供3D绘图，地球可视化和WebGL加速 |  ||
+| [bootswatch](https://github.com/thomaspark/bootswatch) | Bootswatch是[Bootstrap](https://getbootstrap.com/)的开源主题的集合。在[bootswatch.com](https://bootswatch.com/)上进行检查 |  ||
+| [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 使用[React](https://reactjs.org/)构建[Bootstrap](https://getbootstrap.com/)组件 |  ||
+| [bootstrap](https://github.com/twbs/bootstrap) | 最受欢迎的HTML，CSS和JavaScript框架，用于在网络上开发响应式，移动优先项目 | [官网](https://getbootstrap.com/) ||
+| [JSPatch](https://github.com/bang590/JSPatch) | JSPatch 可以让你用 JavaScript 书写原生 iOS APP。只需在项目引入极小的引擎，就可以使用 JavaScript 调用任何 Objective-C 的原生接口，获得脚本语言的优势：为项目动态添加模块，或替换项目原生代码动态修复 bug |  ||
+| [NIM_Web_Demo_H5](https://github.com/netease-im/NIM_Web_Demo_H5) | 云信WEB DEMO HTML5-VUE版本 (以下简称h5 demo)，是一套使用[网易云信WEB端SDK](http://dev.netease.im/docs/product/IM%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/SDK%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90/Web%E5%BC%80%E5%8F%91%E9%9B%86%E6%88%90)，以[VUE前端框架](https://cn.vuejs.org/v2/guide/)作为前端UI及缓存数据框架，进行开发的手机移动端适配DEMO |  ||
+| [amazeui](https://github.com/amazeui/amazeui) | 一个移动优先和模块化的前端框架 | [官网](http://amazeui.org/) ||
+| [json-lite](https://github.com/lauriro/json-lite) | 适用于Chrome和Firefox的快速无阻塞JSON查看器 |  ||
+| [react-native-web](https://github.com/necolas/react-native-web) |“React Native for Web”使使用React DOM在Web上运行[React Native](https://facebook.github.io/react-native/)组件和API 成为可能 |  ||
+| [rax](https://github.com/alibaba/rax) | [alibaba](https://github.com/alibaba)的Rax.js是用于构建通用应用程序的渐进式React框架 | [官网](https://rax.js.org) ||
+| [reactxp](https://github.com/microsoft/reactxp) | 一个使用React和React Native进行跨平台应用程序开发的库 | [官网](https://microsoft.github.io/reactxp/) ||
+| [ionic](https://github.com/ionic-team/ionic) | 使用网络技术构建出色的本机和渐进式Web应用程序。一个应用程序可在所有内容上运行🎉 | [官网](https://ionicframework.com/) ||
+| [react](https://github.com/facebook/react) | 用于构建用户界面的声明性，高效且灵活的JavaScript库 | [官网](https://reactjs.org/) ||
+| [flow](https://github.com/facebook/flow) | 在JavaScript中添加静态类型，以提高开发人员的工作效率和代码质量 | [官网](https://flow.org/) ||
+| [react-native-maps](https://github.com/react-native-community/react-native-maps) | 适用于iOS + Android的React Native Mapview组件 |  ||
+| [react-native-navigation](https://github.com/wix/react-native-navigation) | React Native Navigation在iOS和Android上为React Native应用程序提供100％本机平台导航 | [wiki](https://wix.github.io/react-native-navigation/) ||
+| [incubator-weex](https://github.com/apache/incubator-weex) | [alibaba](https://github.com/alibaba).用于构建移动跨平台UI的框架 | [官网](https://weex.apache.org/) ||
+| [react-native](https://github.com/facebook/react-native) | React Native将[React](https://reactjs.org/)的声明式UI框架引入了iOS和Android |  ||
+| [vue](https://github.com/vuejs/vue) | 🖖Vue.js是一个渐进的，可逐步采用的JavaScript框架，用于在Web上构建UI | [官网](http://vuejs.org/) ||
+| [node](https://github.com/nodejs/node) | [Node.js](https://nodejs.org/) JavaScript运行时 ✨🐢🚀✨ | ||
+| [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️网络流媒体客户端 | [官网](https://webtorrent.io/) ||
+| [nvm](https://github.com/nvm-sh/nvm) | 节点版本管理器-兼容POSIX的bash脚本，用于管理多个活动的node.js版本 |  ||
+|  |  |  ||
+|  |  |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -498,7 +672,24 @@
 | [brew](https://github.com/Homebrew/brew) | MacOS下软件包管理器 | [官网](https://brew.sh/) ||
 | [CocoaPods](https://github.com/CocoaPods/CocoaPods) | CocoaPods管理Xcode项目的依赖关系 | [官网](https://cocoapods.org/) ||
 | [Carthage](https://github.com/Carthage/Carthage) | 一个简单，分散的Cocoa依赖性经理 |  ||
-|  |  |  ||
+| [LyricsX](https://github.com/ddddxxx/LyricsX) | 🎶 iTunes，Spotify，Vox和Audirvana Plus的歌词 | [Mac App Store](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) ||
+| [TSWeChat](https://github.com/hilen/TSWeChat) | 一种[微信](https://itunes.apple.com/cn/app/wei/id414478124)替代品，已更新为Swift5 |  ||
+| [Tars](https://github.com/TarsCloud/Tars) | Tars是腾讯从2008年到今天一直在使用的后台逻辑层的统一应用框架TAF（Total Application Framework），目前支持C++,Java,PHP,Nodejs,Go语言。该框架为用户提供了涉及到开发、运维、以及测试的一整套解决方案，帮助一个产品或者服务快速开发、部署、测试、上线。 它集可扩展协议编解码、高性能RPC通信框架、名字路由与发现、发布监控、日志统计、配置管理等于一体，通过它可以快速用微服务的方式构建自己的稳定可靠的分布式应用，并实现完整有效的服务治理 |  ||
+| [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) | 百度FM |  ||
+| [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | ShadowsocksX软件 |||
+| [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) | [Shadowsocks-libev](https://shadowsocks.org/)是适用于嵌入式设备和低端盒的轻型安全SOCKS5代理 | [官网](http://shadowsocks.org/en/download/servers.html) ||
+| [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 适用于Android的Shadowsocks客户端 |  ||
+| [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 适用于windows的Shadowsocks软件 |  ||
+| [Coding-iOS](https://github.com/Coding/Coding-iOS) | 客户端源代码app | [官网](https://coding.net/u/coding/p/Coding-iOS/git) ||
+| [atom](https://github.com/atom/atom) | 可入侵的文本编辑器，建立在[Electron](https://github.com/electron/electron)的基础上，并基于我们喜欢的最喜欢的编辑器的所有内容。我们将其设计为高度可定制的，但使用默认配置仍可实现 | [官网](https://atom.io/) ||
+| [vscode](https://github.com/microsoft/vscode) | 该存储库（“Code-OSS”）是我们（Microsoft）开发[Visual Studio Code](https://code.visualstudio.com/)产品的地方 |  ||
+| [git](https://github.com/git/git) | Git是一种快速，可扩展的分布式修订版本控制系统，具有异常丰富的命令集，该命令集提供高级操作和对内部组件的完全访问权限 |  ||
+| [hhvm](https://github.com/facebook/hhvm) | 用于执行用Hack编写的程序的虚拟机 | [官网](https://hhvm.com/) ||
+| [Signal-iOS](https://github.com/signalapp/Signal-iOS) | Signal是一个免费的开源消息应用程序，用于与朋友进行简单的私人通信。也可以在[Android](https://github.com/signalapp/signal-android)和[Desktop](https://github.com/signalapp/signal-desktop)上使用 | [App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) ||
+| [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) | 高仿Bilibili客户端 - ( ゜- ゜)つロ 乾杯~ |  ||
+| [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) | 🎶将Google Play音乐变成与Mac集成的独立，精美的应用程序 |  ||
+| [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) | [ChatSecure](https://chatsecure.org/)是用于iOS 的免费开放源代码[XMPP](https://en.wikipedia.org/wiki/XMPP)消息客户端，它集成了[OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)和[OMEMO](https://en.wikipedia.org/wiki/OMEMO)加密消息传递支持，并具有可选的集成支持，以支持通过[Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network))网络的连接 | [App Store](https://itunes.apple.com/us/app/chatsecure/id464200063) ||
+| [breadwallet-ios](https://github.com/voisine/breadwallet-ios) | 比特币钱包 | [官网](http://breadapp.com/)，[App Store](https://itunes.apple.com/app/breadwallet/id885251393) ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -511,7 +702,10 @@
 | [Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客 |  |  |
 | [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) | 🇨🇳老司机iOS周报 |  |  |
 | [iOSProject](https://github.com/NJHu/iOSProject) | 收集了一些iOS项目 |||
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 关于各种有趣主题的真棒列表 |  ||
+| [awesome-swift](https://github.com/matteocrippa/awesome-swift) | 很棒的Swift库和资源的协作列表。随时贡献！ |||
 | [awesome-swift](https://github.com/Wolg/awesome-swift) | 精选的Swift框架，库和软件清单. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php). |||
+| [awesome-ios](https://github.com/vsouza/awesome-ios) | 精选的iOS组件清单，包括Objective-C和Swift项目 | [官网](http://awesomeios.com/) ||
 | [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) | 精选的ARKit项目和资源的精选清单。随时贡献！ |||
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 收集了各种类别非常好用的Mac应用程序、软件以及工具 | [官网](https://git.io/macx) ||
 | [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) | Core ML的最大型号列表（适用于iOS 11+） | [官方文件](https://developer.apple.com/documentation/coreml) ||
@@ -521,9 +715,23 @@
 | [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架 | [博客](http://tools.stanzhai.site/)，[GitBook](https://thonatos.gitbooks.io/be-a-professional-programmer/)版本 ||
 | [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) | Facebook开源的Parse源码分析【系列】 |||
 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》。[英文原版在线版](https://docs.swift.org/swift-book/) | [gitbook](https://swiftgg.gitbook.io/swift/) ||
-|  |  |||
-|  |  |||
-|  |  |||
+| [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) | 30个迷你Swift应用程序供自学 |||
+| [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) | 快速开发工具类收集 |  ||
+| [material-design-icons](https://github.com/google/material-design-icons) | Google提供的官方[图标集](https://www.google.com/design/spec/style/icons.html#icons-system-icons)。图标是根据[材料设计准则](https://material.io/guidelines/)设计的 |||
+| [LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES) | OpenGL ES的各种尝试，有详细的博客 | [简书](http://www.jianshu.com/notebooks/2135411/latest) ||
+| [gitignore](https://github.com/github/gitignore) | 这是GitHub的.gitignore文件模板集合。.gitignore创建新的存储库和文件时，我们使用此列表来填充GitHub.com界面中可用的模板选择器 |  ||
+| [docker_practice](https://github.com/yeasy/docker_practice) | 通过实际的DevOps实践学习和理解[Docker](https://www.docker.com/)技术 | [gitbook](https://www.gitbook.com/book/yeasy/docker_practice) ||
+| [remote-working](https://github.com/greatghoul/remote-working) | 中国远程工作资料大全 | [社区](https://eleduck.com/?utm_source=remote-working&utm_medium=github-banner&utm_campaign=remote-working-eleduck) ||
+| TimLiu-iOS([OC](https://github.com/Tim9Liu9/TimLiu-iOS)， [Swift](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)) | iOS开发常用三方库、插件、知名博客等等 | [iOS开发路线](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/%E5%9B%BE%E8%B0%B1.jpg) ||
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | [freeCodeCamp.org](https://www.freecodecamp.org/)的开源代码库和课程 |  ||
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚免费提供的编程书籍 | [书籍](https://ebookfoundation.github.io/free-programming-books/) ||
+| [iOSBlog](https://github.com/ChenYilong/iOSBlog) | Posted by [微博@iOS程序犭袁](http://weibo.com/luohanchenyilong/) |  ||
+| [awesome-react-native](https://github.com/jondot/awesome-react-native) | 很棒的React Native组件，新闻，工具和学习资料 | [文档](http://www.awesome-react-native.com/) ||
+| [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 📱开源iOS应用的列表 |  ||
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚免费的计算机编程类中文书籍 | [微博](http://weibo.com/justjavac) ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="程序员日常"></a>程序员日常
 | 名称 | 描述 | 备注 | 截屏 |
@@ -535,14 +743,21 @@
 | [p3c](https://github.com/alibaba/p3c) | 阿里巴巴Java编码指南pmd实现和IDE插件 | [wiki](https://github.com/alibaba/p3c/wiki) ||
 | [material-components-ios](https://github.com/material-components/material-components-ios) | iOS的材料组件（MDC-iOS）可帮助开发人员执行[材料设计](https://material.io/)。这些组件由Google的工程师和UX设计师的核心团队开发，可实现可靠的开发工作流程，以构建美观实用的iOS应用。[在Material Design Platform Adaptation指南中](https://material.io/guidelines/platforms/platform-adaptation.html)了解有关iOS的Material Components如何支持跨平台的设计和可用性最佳实践的更多信息 |||
 | [jekyll-now](https://github.com/barryclark/jekyll-now) | 在几分钟之内建立一个Jekyll博客，而无需触摸命令行 | [Jekyll](https://github.com/jekyll/jekyll)是一个静态站点生成器，非常适合GitHub托管的博客 ||
+| [hexo](https://github.com/hexojs/hexo) | 一个由[Node.js](https://nodejs.org/)支持的快速，简单且功能强大的博客框架 |||
+| [startbootstrap](https://github.com/BlackrockDigital/startbootstrap) | 一个免费和开源的[Bootstrap](http://getbootstrap.com/)主题和模板库 | [官网](https://startbootstrap.com/) ||
 | [jekyll](https://github.com/jekyll/jekyll) | 一个简单的可识别博客的静态网站生成器，非常适合个人，项目或组织网站 | [官网](https://jekyllrb.com/) ||
+| [nodeppt](https://github.com/ksky521/nodeppt) | nodeppt 2.0基于[webslides](https://github.com/webslides/WebSlides)，webpack，markdown-it，posthtml重构，[新效果](https://nodeppt.js.org/) |  ||
 | [OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | Open Live Writer使您可以轻松地编写，预览和发布到博客 | [官网](http://www.openlivewriter.org/) ||
 | [objective-c-style-guide](https://github.com/nytimes/objective-c-style-guide) | Objective-C API设计指南 |||
 | [swift-style-guide](https://github.com/github/swift-style-guide) | Swift API设计指南 |||
 | [javascript](https://github.com/airbnb/javascript) | JavaScript API 设计指南 |||
 | [google-styleguide](https://github.com/darcyliu/google-styleguide) | Google 开源项目风格指南 | [官网](http://code.google.com/p/google-styleguide/) ||
+| [Specs](https://github.com/CocoaPods/Specs) | 该存储库包含公共[CocoaPods](https://github.com/CocoaPods/CocoaPods)规范 |||
 |  |  |||
-|  |  |||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
 
 ## <a name="我自己的代码库"></a>我自己的代码库
 | 名称 | 描述 | 备注 | 截屏 |
