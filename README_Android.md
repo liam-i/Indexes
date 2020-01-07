@@ -15,6 +15,6 @@
 | [RxJava](https://github.com/ReactiveX/RxJava) | RxJava是[Reactive Extensions](http://reactivex.io/)的Java VM实现：该库用于通过使用可观察的序列来组成异步和基于事件的程序 |  ||
 | [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 |  ||
 | [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 用于将Android应用程序与Facebook平台集成 | [官网](https://developers.facebook.com/docs/android) ||
-|  |  |  ||
+| [android-open-project](https://github.com/Trinea/android-open-project) | Android开源项目分类汇总，更全更新可见[codekk.com](https://p.codekk.com/) |  ||
 |  |  |  ||
 |  |  |  ||
