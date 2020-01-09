@@ -20,7 +20,7 @@
 * [前端](#前端)
 
 ## <a name="我自己的代码库"></a>我自己的代码库
-| *[回到顶部](#Indexes)* | 描述 |
+| [回到顶部](#Indexes) | 描述 |
 | :--- | :--- |
 | [LPText](https://github.com/leo-lp/LPText) | 学习YYText |
 | [LPResourceFilter](https://github.com/leo-lp/LPResourceFilter) | 检查版本之间的Assets.xcassets差异 |
