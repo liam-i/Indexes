@@ -11,7 +11,7 @@
 * [主题（Dark Mode）](#主题DarkMode)
 * [SwiftUI](#SwiftUI)
 * [完整App](#完整App)
-* [精心收集和积累（学习资料/优秀第三方库）](#精心收集和积累)
+* [精心收集和积累（学习资料/优秀组件）](#精心收集和积累)
 * [程序员日常](#程序员日常)
 * [服务器](#服务器)
 * [游戏引擎](#游戏引擎)
@@ -893,7 +893,7 @@
 | [Lin](https://github.com/questbeat/Lin) | Xcode插件，可为NSLocalizedString提供自动完成功能 |  |
 | [mono](https://github.com/mono/mono) | Mono是一个软件平台，旨在使开发人员可以轻松创建跨平台应用程序。它是Microsoft .NET Framework的开源实现，基于C＃的ECMA标准和公共语言运行时 | [博客](http://www.mono-project.com/) |
 
-## <a name="精心收集和积累"></a>精心收集和积累（学习资料/优秀第三方库）
+## <a name="精心收集和积累"></a>精心收集和积累（学习资料/优秀组件）
 | 名称 | 描述 | 备注 |
 | --- | --- | --- |
 | [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000) | 精选的iOS前1000强库的精选列表 |  |
