@@ -16,30 +16,30 @@
 * [服务器](#服务器)
 * [游戏引擎](#游戏引擎)
 * [人工智能/深度学习](#人工智能深度学习)
-* [前端](#前端)
 * [Android](#Android)
+* [前端](#前端)
 
 ## <a name="我自己的代码库"></a>我自己的代码库
-| 名称 | 描述 | 备注 |
-| --- | --- | --- |
-| [LPText](https://github.com/leo-lp/LPText) | 学习YYText |  |
-| [LPResourceFilter](https://github.com/leo-lp/LPResourceFilter) | 检查版本之间的Assets.xcassets差异 |  |
-| [LPLayoutConstraint](https://github.com/leo-lp/LPLayoutConstraint) |  自动布局组件|  |
-| [LPInputBarAccessoryView](https://github.com/leo-lp/LPInputBarAccessoryView)|||
-| [LPInputView](https://github.com/leo-lp/LPInputView)|||
-| [LPLinkMap](https://github.com/leo-lp/LPLinkMap)| LinkMap解析工具 ||
-| [LPIM](https://github.com/leo-lp/LPIM) | 一个防网易云信的即时通讯demo ||
-| [LPPhotoPickerController](https://github.com/leo-lp/LPPhotoPickerController) |||
-| [LPPhotoBrowser](https://github.com/leo-lp/LPPhotoBrowser) |||
-| [LPKeyboardManager](https://github.com/leo-lp/LPKeyboardManager) |||
-| [LPProgressHUD](https://github.com/leo-lp/LPProgressHUD) |||
-| [LPTextView](https://github.com/leo-lp/LPTextView) |||
-| [LPDelayedSearch](https://github.com/leo-lp/LPDelayedSearch) |||
-| [https://github.com/leo-lp/LPPresentationController](https://github.com/leo-lp/LPPresentationController) |||
-| [LPPageBar](https://github.com/leo-lp/LPPageBar) |  |  |
-| [LPKit](https://github.com/leo-lp/LPKit) |  |  |
-| [LPLogger](https://github.com/leo-lp/LPLogger) |  |  |
-| [LPPage](https://github.com/leo-lp/LPPage) |  |  |
+| 名称 | 描述 |
+| --- | --- |
+| [LPText](https://github.com/leo-lp/LPText) | 学习YYText |
+| [LPResourceFilter](https://github.com/leo-lp/LPResourceFilter) | 检查版本之间的Assets.xcassets差异 |
+| [LPLayoutConstraint](https://github.com/leo-lp/LPLayoutConstraint) |  自动布局组件 |
+| [LPInputBarAccessoryView](https://github.com/leo-lp/LPInputBarAccessoryView)|  |
+| [LPInputView](https://github.com/leo-lp/LPInputView)|  |
+| [LPLinkMap](https://github.com/leo-lp/LPLinkMap)| LinkMap解析工具 |
+| [LPIM](https://github.com/leo-lp/LPIM) | 一个防网易云信的即时通讯demo |
+| [LPPhotoPickerController](https://github.com/leo-lp/LPPhotoPickerController) |  |
+| [LPPhotoBrowser](https://github.com/leo-lp/LPPhotoBrowser) |  |
+| [LPKeyboardManager](https://github.com/leo-lp/LPKeyboardManager) |  |
+| [LPProgressHUD](https://github.com/leo-lp/LPProgressHUD) |  |
+| [LPTextView](https://github.com/leo-lp/LPTextView) |  |
+| [LPDelayedSearch](https://github.com/leo-lp/LPDelayedSearch) |  |
+| [LPPresentationController](https://github.com/leo-lp/LPPresentationController) |  |
+| [LPPageBar](https://github.com/leo-lp/LPPageBar) |  |
+| [LPKit](https://github.com/leo-lp/LPKit) |  |
+| [LPLogger](https://github.com/leo-lp/LPLogger) |  |
+| [LPPage](https://github.com/leo-lp/LPPage) |  |
 
 ## <a name="控件"></a>控件
 | 名称 | 描述 | 备注 |
@@ -610,7 +610,6 @@
 | [howler.js](https://github.com/goldfire/howler.js) | [howler.js](https://howlerjs.com/)是现代网络的音频库。它默认为[Web Audio API](http://webaudio.github.io/web-audio-api/)，而后退为[HTML5 Audio](https://html.spec.whatwg.org/multipage/embedded-content.html#the-audio-element)。这使得在所有平台上使用JavaScript进行音频操作变得轻松可靠 |  |
 | [DDDKit](https://github.com/gsabran/DDDKit) | 可支持360个视频和图片。它被设计为通用3D库 |  |
 | [avcodec](https://github.com/ireader/avcodec) | 影音编码器/解码器/渲染器/播放器 |  |
-| [yasea](https://github.com/begeekmyfriend/yasea) | 适用于Android的RTMP实时流客户端 |  |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | [FFmpeg](https://ffmpeg.org/)用于处理多媒体内容（例如音频，视频，字幕和相关元数据）的库和工具的集合 ||
 | [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) | 这是一个Shell脚本，用于为iOS和tvOS应用程序构建FFmpeg库 |  |
 | [moviepy](https://github.com/Zulko/moviepy) | MoviePy（完整[文档](http://zulko.github.io/moviepy/)）是一个用于视频编辑的Python库：剪切，串联，标题插入，视频合成（也称为非线性编辑），视频处理以及自定义效果的创建。有关使用示例，请参见[图库](http://zulko.github.io/moviepy/gallery.html) |  |
@@ -625,20 +624,16 @@
 | [muplayer](https://github.com/Baidu-Music-FE/muplayer) | 百度音乐播放内核（不再维护） | [官网](https://886.enimo.cn/muplayer/doc/) |
 | [openwebrtc-examples](https://github.com/EricssonResearch/openwebrtc-examples) | 示例应用程序展示了如何使用OpenWebRTC ||
 | [DotGPUBeautyFilter](https://github.com/dotEngine/DotGPUBeautyFilter) | GUPImage脸部美容滤镜 |  |
-| [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) | 跨浏览器音频/视频/屏幕录制。它支持Chrome，Firefox，Opera和Microsoft Edge。它甚至可以在Android浏览器上使用。它遵循最新的MediaRecorder API标准，并提供类似的API | [官网](https://www.webrtc-experiment.com/msr/) |
 | [ios-live-sdk](https://github.com/upyun/ios-live-sdk) | UPYUN 直播 SDK。播放器、采集器、推流器统一集成，功能完备接口简练，可以快速安装使用。采集与音视频处理模块开源，灵活性强可以满足复杂定制需求 | [官网](http://docs.upyun.com/live/) |
 | [EasyPusher](https://github.com/EasyDarwin/EasyPusher) | 免费组件：简单、高效、稳定、免费的一款标准RTSP/RTP协议直播推送库，支持将H.264/H.265/G.711/G.726/AAC等音视频数据推送到RTSP流媒体服务器（例如EasyDarwin）进行低延时直播或者视频通信，支持Windows、Linux、ARM、Android、iOS等平台，EasyPusher配套EasyDarwin流媒体服务器、EasyPlayer RTSP播放器适用于特殊行业的低延时应急指挥需求！ [Android](https://github.com/EasyDarwin/EasyPusher-Android), [iOS](https://github.com/EasyDarwin/EasyPusher-iOS)|  |
 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | 高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡等 | [官网](http://www.easydarwin.org/) |
 | [srs](https://github.com/ossrs/srs) | 一个简单的流媒体直播集群 | [官网](https://ossrs.net/) |
 | [srs-librtmp](https://github.com/ossrs/srs-librtmp) | SRS的客户端库srs-librtmp ||
 | [ijkplayer](https://github.com/bilibili/ijkplayer) | 基于FFmpeg n3.4的Android/iOS视频播放器，带有MediaCodec，VideoToolbox支持 |  |
-| [ExoMedia](https://github.com/brianwernick/ExoMedia) | 一种媒体播放库，具有与Android MediaPlayer和VideoView相似的API，并在可能的情况下使用[ExoPlayer](https://github.com/google/ExoPlayer)作为支持，否则将使用默认的Android MediaPlayer和VideoView |  |
 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 一种先进的工具，用于面部标志检测，头部姿势估计，面部动作单位识别和视线估计 |  |
 | [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) | iOS Live Kit，H264和AAC硬编码，支持GPUImage Beauty，rtmp传输，网络丢帧弱，动态切换率高 |  |
 | [vlc](https://github.com/videolan/vlc) | VLC是一种流行的自由和开源媒体播放器和多媒体引擎 |  |
 | [openh264](https://github.com/cisco/openh264) | [OpenH264](http://www.openh264.org/)是一个编解码器库，支持H.264编码和解码。它适用于WebRTC等实时应用程序 | |
-| [LivePublisher](https://github.com/edu-lance/LivePublisher) | Android rtmp推流器 |  |
-| [AppRTCDemo](https://github.com/njovy/AppRTCDemo) | WebRTC项目的Android AppRTC演示 |  |
 | [CocoaSplit](https://github.com/zakk4223/CocoaSplit) | 流/录制您的桌面/网络摄像头以抽搐/拥有等 |  |
 | [OpenEmu](https://github.com/OpenEmu/OpenEmu) | 🕹适用于macOS的复古视频游戏仿真 | [官网](https://openemu.org/) |
 | [WMPlayer](https://github.com/zhengwenming/WMPlayer) | AVPlayer的封装，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放 ||
@@ -651,7 +646,6 @@
 | JiaoZiVideoPlayer([old](https://github.com/lipangit/JiaoZiVideoPlayer), [new](https://github.com/Jzvd/JiaoZiVideoPlayer)) | 高度自定义的安卓视频框架 ||
 | [YTLiveStreaming](https://github.com/SKrotkih/YTLiveStreaming) | YTLiveStreaming是一个框架，用于在带有Xcode 10的Swift 4.2中使用YouTube实时流API（YouTube数据API v3）在YouTube上创建实时广播和视频流 |  |
 | [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) | 使用GPUImage实现高斯滤镜 |  |
-| [HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) | [WIP]适用于Android的通过RTMP的摄像头和麦克风流媒体库 |  |
 | [BMPlayer](https://github.com/BrikerMan/BMPlayer) | 本项目是基于`AVPlayer`使用`Swift`封装的视频播放器，方便快速集成 | [官网](https://eliyar.biz/) |
 | [SGMediaKit](https://github.com/libobjc/SGMediaKit) | SGMediaKit是一个以视频，音频播放为核心的媒体资源处理框架 |  |
 | [AudioPlayer](https://github.com/delannoyk/AudioPlayer) | AudioPlayer是AVPlayer的语法和功能。它播放您的音频文件（本地和远程） |  |
@@ -689,12 +683,11 @@
 | [HLS-Demo](https://github.com/yangchao0033/HLS-Demo) | IOS HLS视频直播[样例](http://www.jianshu.com/p/8f99202ccb89) |  |
 | [rtmp_streamer_for_ios](https://github.com/Vbytes/rtmp_streamer_for_ios) | 推送h264,AAC rtmp 流到流媒体服务器，包含美颜算法和自适应码率，低延时 |  |
 | [librtmp-for-ipv6](https://github.com/zhenwu1981/librtmp-for-ipv6) | librtmp 运行在ipv6和ipv4的网络下 compile： ./build-librtmp.sh |  |
-| [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) | Android / IOS / WinPhone中的[ffmpeg示例](http://leixiaohua1020.github.com/) |  |
+| [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) | Android/IOS/WinPhone中的[ffmpeg示例](http://leixiaohua1020.github.com/) |  |
 | [MetalAcc](https://github.com/wangjwchn/MetalAcc) | 使用Swift编写的Metal的基于GPU的媒体处理库 |  |
 | [ScreenRecord](https://github.com/topws/ScreenRecord) | iOS 9.0 新增的接口，屏幕录制，游戏内声音录制，可以选择是否启用麦克风录入周边环境的声音 |  |
 | [DPFaceRecognition](https://github.com/dapiaowudi/DPFaceRecognition) | iOS人脸识别 |  |
 | [librtmpex](https://github.com/suxinde2009/librtmpex) | librtmp的改进版本 ||
-| [srs-sea](https://github.com/leo-lp/srs-sea) | SEA（Android的流编码器）通过HTTP-FLV将实时流发布到SRS(建议使用[YASEA](https://github.com/begeekmyfriend/yasea)，因为SEA只是Android编码器的演示) |  |
 | [AudioUnitSample](https://github.com/StevenKuo/AudioUnitSample) | 使用remoteIO audioUnit播放流音频 |  |
 | [JSIMWebrtcOverMQTT](https://github.com/wenghengcong/JSIMWebrtcOverMQTT) | 利用MQTT当做共振通道，实现Webrtc的视频通话 |  |
 | [AppRTCDemo](https://github.com/YK-Unit/AppRTCDemo) | 用于iOS客户端演示的WebRTC。PS：它使用XMPP构建信令服务 |  |
@@ -1086,6 +1079,52 @@
 | [Swift-AI](https://github.com/Swift-AI/Swift-AI) | Swift AI是完全用Swift编写的高性能深度学习库。我们目前为所有Apple平台提供支持，不久将提供Linux支持 |  |
 | [Bull-Live-Server](https://github.com/wenjiegit/Bull-Live-Server) | Bull Live Server，旨在使用C++语言提供强大功能和高性能的流媒体直播服务器 |  |
 
+## <a name="Android"></a>Android
+| 名称 | 描述 | 备注 |
+| --- | --- | --- |
+| [mumble-android](https://github.com/pcgod/mumble-android) | Android Mumble客户端 |  |
+| [RTMP-Video-Publishing-Android](https://github.com/harshing/RTMP-Video-Publishing-Android) | 一个用于发布和获取RTMP视频流的Android应用程序 |  |
+| [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | 一个功能强大且有趣的android应用。将手机的摄像头和麦克风流式传输到浏览器或VLC |  |
+| [kickflip-android-example](https://github.com/Kickflip/kickflip-android-example) | 集成Kickflip Android SDK的示例项目，可实现超级便捷的直播 |  |
+| [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) | Android开源图表库 |  |
+| [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) | Android架构合集 |  |
+| [CameraStreaming](https://github.com/dourgulf/CameraStreaming) | CameraStreaming 是一个Android(4.0以上)摄像头实时输出到RTMP服务器的直播演示 |  |
+| [android-gpuimage-plus](https://github.com/wysaid/android-gpuimage-plus) | 基于OpenGL的Android图像和相机滤镜 |  |
+| [Android-ffmpeg-CameraRecord](https://github.com/wysaid/Android-ffmpeg-CameraRecord) | 使用JavaCV提供的支持，使用OpenGL实时处理+显示摄像头采集的图像，并使用FFMPEG实时录制音视频 |  |
+| [kickflip-android-sdk](https://github.com/Kickflip/kickflip-android-sdk) | [Kickflip Android SDK](https://kickflip.io/)-将实时视频流传输到云 |  |
+| [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) | android开源项目的[分析实现](https://a.codekk.com/) |  |
+| [ShineButton](https://github.com/ChadCSong/ShineButton) | 这是Android的UI库。效果像闪亮 |  |
+| [VitamioBundle](https://github.com/yixia/VitamioBundle) | Vitamio是适用于Android和iOS的开放式多媒体框架，具有完整且真实的硬件加速解码器和渲染器 |  |
+| [grafika](https://github.com/google/grafika) | Grafika测试应用 |  |
+| [android_rtmppush_sdk](https://github.com/runner365/android_rtmppush_sdk) | 基于android的手机视频rtmp推流SDK |  |
+| [MD360Player4Android](https://github.com/ashqal/MD360Player4Android) | 这是一个精简库，可为Android渲染360度全景视频。VR播放器 |  |
+| [AndFix](https://github.com/alibaba/AndFix) | AndFix是[alibaba](https://github.com/alibaba/)为[Android](https://sites.google.com/a/android.com/tools/tech-docs/new-build-system/aar-format) App提供修复程序的库 |  |
+| [SoloPi](https://github.com/alipay/SoloPi) | SoloPi 自动化测试工具 ||
+| [atlas](https://github.com/alibaba/atlas) | 强大的Android动态组件框架 |  |
+| [tinker](https://github.com/Tencent/tinker) | Tinker是适用于Android的修补程序库，它支持dex，库和资源更新，而无需重新安装apk |  |
+| [gvr-android-sdk](https://github.com/googlevr/gvr-android-sdk) | 适用于Android的[Google VR SDK](http://developers.google.com/vr/android/) | 有一个适用于iOS和Android NDK 的新开源[Cardboard SDK](https://developers.google.com/cardboard)，它提供了简化的API，改进的设备兼容性以及内置的查看器配置文件QR码扫描功能 |
+| [RxKotlin](https://github.com/ReactiveX/RxKotlin) | RxKotlin是一个轻量级的库，它为[RxJava](https://github.com/ReactiveX/RxJava)添加了方便的扩展功能。您可以直接使用RxJava和Kotlin，但是Kotlin具有语言功能（例如[扩展功能](https://kotlinlang.org/docs/reference/extensions.html)），可以进一步简化RxJava的使用。RxKotlin旨在保守地在一个集中式库中收集这些便利，并标准化将RxJava与Kotlin一起使用的约定 |  |
+| [EvilsLive](https://github.com/ThinkKeep/EvilsLive) | 该项目是有关视频流直播的SDK | |
+| [ExoPlayer](https://github.com/google/ExoPlayer) | 适用于Android的可扩展媒体播放器 |  |
+| [RxAndroid](https://github.com/ReactiveX/RxAndroid) | [RxJava](http://github.com/ReactiveX/RxJava)的 Android特定绑定 |  |
+| [RxJava](https://github.com/ReactiveX/RxJava) | RxJava是[Reactive Extensions](http://reactivex.io/)的Java VM实现：该库用于通过使用可观察的序列来组成异步和基于事件的程序 |  |
+| [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 |  |
+| [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 用于将Android应用程序与Facebook平台集成 | [官网](https://developers.facebook.com/docs/android) |
+| [android-open-project](https://github.com/Trinea/android-open-project) | Android开源项目分类汇总，更全更新可见[codekk.com](https://p.codekk.com/) |  |
+| [librestreaming](https://github.com/lakeinchina/librestreaming) | Android实时效果滤镜rtmp流库。使用Mediacodec HWencoding＆librtmp流 |  |
+| [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | 一个Android动画库，可轻松将itemanimator添加到RecyclerView项目 | [android-gpuimage](https://github.com/cats-oss/android-gpuimage) | 基于OpenGL的Android过滤器（来自iOS的[GPUImage](https://github.com/BradLarson/GPUImage2)的思想） |
+| [DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) |[bilibili](http://app.bilibili.com/)在Android上开源弹幕解析绘制引擎项目 | |
+| [SopCastComponent](https://github.com/LaiFeng-Android/SopCastComponent) | 来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等 |  |
+| [libstreaming](https://github.com/fyhertz/libstreaming) | 在Android上使用RTP传输H.264，H.263，AMR，AAC的解决方案 |  |
+| [MagicCamera](https://github.com/wuhaoyu1990/MagicCamera) | 适用于Android的带有Face Beauty的实时滤镜摄像头和录像机以及ImageEditor ---包含美颜等40余种实时滤机，可拍摄，录像，图片修改 ||
+| [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) | 跨浏览器音频/视频/屏幕录制。它支持Chrome，Firefox，Opera和Microsoft Edge。它甚至可以在Android浏览器上使用。它遵循最新的MediaRecorder API标准，并提供类似的API | [官网](https://www.webrtc-experiment.com/msr/) |
+| [ExoMedia](https://github.com/brianwernick/ExoMedia) | 一种媒体播放库，具有与Android MediaPlayer和VideoView相似的API，并在可能的情况下使用[ExoPlayer](https://github.com/google/ExoPlayer)作为支持，否则将使用默认的Android MediaPlayer和VideoView |  |
+| [LivePublisher](https://github.com/edu-lance/LivePublisher) | Android rtmp推流器 |  |
+| [AppRTCDemo](https://github.com/njovy/AppRTCDemo) | WebRTC项目的Android AppRTC演示 |  |
+| [HaishinKit.kt](https://github.com/shogo4405/HaishinKit.kt) | [WIP]适用于Android的通过RTMP的摄像头和麦克风流媒体库 |  |
+| [yasea](https://github.com/begeekmyfriend/yasea) | 适用于Android的RTMP实时流客户端 |  |
+| [srs-sea](https://github.com/leo-lp/srs-sea) | SEA（Android的流编码器）通过HTTP-FLV将实时流发布到SRS(建议使用[YASEA](https://github.com/begeekmyfriend/yasea)，因为SEA只是Android编码器的演示) |  |
+
 ## <a name="前端"></a>前端
 | 名称 | 描述 | 备注 |
 | --- | --- | --- |
@@ -1134,42 +1173,3 @@
 | [redux](https://github.com/reduxjs/redux) | Redux是JavaScript应用程序的可预测状态容器（不要与WordPress框架– [Redux](https://reduxframework.com/)框架相混淆） ||
 | [plyr](https://github.com/sampotts/plyr) | 一个简单的HTML5，YouTube和Vimeo播放器，支持[现代](https://github.com/sampotts/plyr#browser-support)浏览器 | [官网](https://plyr.io/) |
 | [pili-html5-player-example](https://github.com/pili-engineering/pili-html5-player-example) | 带有Flash和Silverlight垫片的[HTML5<音频>或<视频>播放器](http://mediaelementjs.com/)，模仿HTML5 MediaElement API，从而在所有浏览器中实现一致的UI ||
-
-## <a name="Android"></a>Android
-| 名称 | 描述 | 备注 |
-| --- | --- | --- |
-| [mumble-android](https://github.com/pcgod/mumble-android) | Android Mumble客户端 |  |
-| [RTMP-Video-Publishing-Android](https://github.com/harshing/RTMP-Video-Publishing-Android) | 一个用于发布和获取RTMP视频流的Android应用程序 |  |
-| [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | 一个功能强大且有趣的android应用。将手机的摄像头和麦克风流式传输到浏览器或VLC |  |
-| [kickflip-android-example](https://github.com/Kickflip/kickflip-android-example) | 集成Kickflip Android SDK的示例项目，可实现超级便捷的直播 |  |
-| [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) | Android开源图表库 |  |
-| [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) | Android架构合集 |  |
-| [CameraStreaming](https://github.com/dourgulf/CameraStreaming) | CameraStreaming 是一个Android(4.0以上)摄像头实时输出到RTMP服务器的直播演示 |  |
-| [android-gpuimage-plus](https://github.com/wysaid/android-gpuimage-plus) | 基于OpenGL的Android图像和相机滤镜 |  |
-| [Android-ffmpeg-CameraRecord](https://github.com/wysaid/Android-ffmpeg-CameraRecord) | 使用JavaCV提供的支持，使用OpenGL实时处理+显示摄像头采集的图像，并使用FFMPEG实时录制音视频 |  |
-| [kickflip-android-sdk](https://github.com/Kickflip/kickflip-android-sdk) | [Kickflip Android SDK](https://kickflip.io/)-将实时视频流传输到云 |  |
-| [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) | android开源项目的[分析实现](https://a.codekk.com/) |  |
-| [ShineButton](https://github.com/ChadCSong/ShineButton) | 这是Android的UI库。效果像闪亮 |  |
-| [VitamioBundle](https://github.com/yixia/VitamioBundle) | Vitamio是适用于Android和iOS的开放式多媒体框架，具有完整且真实的硬件加速解码器和渲染器 |  |
-| [grafika](https://github.com/google/grafika) | Grafika测试应用 |  |
-| [android_rtmppush_sdk](https://github.com/runner365/android_rtmppush_sdk) | 基于android的手机视频rtmp推流SDK |  |
-| [MD360Player4Android](https://github.com/ashqal/MD360Player4Android) | 这是一个精简库，可为Android渲染360度全景视频。VR播放器 |  |
-| [AndFix](https://github.com/alibaba/AndFix) | AndFix是[alibaba](https://github.com/alibaba/)为[Android](https://sites.google.com/a/android.com/tools/tech-docs/new-build-system/aar-format) App提供修复程序的库 |  |
-| [SoloPi](https://github.com/alipay/SoloPi) | SoloPi 自动化测试工具 ||
-| [atlas](https://github.com/alibaba/atlas) | 强大的Android动态组件框架 |  |
-| [tinker](https://github.com/Tencent/tinker) | Tinker是适用于Android的修补程序库，它支持dex，库和资源更新，而无需重新安装apk |  |
-| [gvr-android-sdk](https://github.com/googlevr/gvr-android-sdk) | 适用于Android的[Google VR SDK](http://developers.google.com/vr/android/) | 有一个适用于iOS和Android NDK 的新开源[Cardboard SDK](https://developers.google.com/cardboard)，它提供了简化的API，改进的设备兼容性以及内置的查看器配置文件QR码扫描功能 |
-| [RxKotlin](https://github.com/ReactiveX/RxKotlin) | RxKotlin是一个轻量级的库，它为[RxJava](https://github.com/ReactiveX/RxJava)添加了方便的扩展功能。您可以直接使用RxJava和Kotlin，但是Kotlin具有语言功能（例如[扩展功能](https://kotlinlang.org/docs/reference/extensions.html)），可以进一步简化RxJava的使用。RxKotlin旨在保守地在一个集中式库中收集这些便利，并标准化将RxJava与Kotlin一起使用的约定 |  |
-| [EvilsLive](https://github.com/ThinkKeep/EvilsLive) | 该项目是有关视频流直播的SDK | |
-| [ExoPlayer](https://github.com/google/ExoPlayer) | 适用于Android的可扩展媒体播放器 |  |
-| [RxAndroid](https://github.com/ReactiveX/RxAndroid) | [RxJava](http://github.com/ReactiveX/RxJava)的 Android特定绑定 |  |
-| [RxJava](https://github.com/ReactiveX/RxJava) | RxJava是[Reactive Extensions](http://reactivex.io/)的Java VM实现：该库用于通过使用可观察的序列来组成异步和基于事件的程序 |  |
-| [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 |  |
-| [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) | 用于将Android应用程序与Facebook平台集成 | [官网](https://developers.facebook.com/docs/android) |
-| [android-open-project](https://github.com/Trinea/android-open-project) | Android开源项目分类汇总，更全更新可见[codekk.com](https://p.codekk.com/) |  |
-| [librestreaming](https://github.com/lakeinchina/librestreaming) | Android实时效果滤镜rtmp流库。使用Mediacodec HWencoding＆librtmp流 |  |
-| [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) | 一个Android动画库，可轻松将itemanimator添加到RecyclerView项目 | [android-gpuimage](https://github.com/cats-oss/android-gpuimage) | 基于OpenGL的Android过滤器（来自iOS的[GPUImage](https://github.com/BradLarson/GPUImage2)的思想） |
-| [DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) |[bilibili](http://app.bilibili.com/)在Android上开源弹幕解析绘制引擎项目 | |
-| [SopCastComponent](https://github.com/LaiFeng-Android/SopCastComponent) | 来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等 |  |
-| [libstreaming](https://github.com/fyhertz/libstreaming) | 在Android上使用RTP传输H.264，H.263，AMR，AAC的解决方案 |  |
-| [MagicCamera](https://github.com/wuhaoyu1990/MagicCamera) | 适用于Android的带有Face Beauty的实时滤镜摄像头和录像机以及ImageEditor ---包含美颜等40余种实时滤机，可拍摄，录像，图片修改 ||
