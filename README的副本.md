@@ -7,12 +7,6 @@
 	* [Button](#控件-button)
 	* [TabBarController](#控件-tabbar)
 	* [NavigationController](#控件-navbar)
-	* [CollectionView](#控件-collectionView)
-	* [RefreshControl](#控件-refreshControl)
-	* [侧滑菜单](#控件-侧滑菜单)
-	* [弹幕](#控件-弹幕)
-	* [动画View](#控件-动画View)
-	* [过渡动画](#控件-过渡动画)
 * [组件](#组件)
 * [数据存储](#数据存储)
 * [音视频](#音视频)
@@ -22,7 +16,7 @@
 * [骨骼/帧动画](#骨骼/帧动画)
 * [主题（Dark Mode）](#主题DarkMode)
 * [SwiftUI](#SwiftUI)
-* [完整APP](#完整APP)
+* [完整App](#完整App)
 * [精心收集和积累（学习资料/优秀组件）](#精心收集和积累)
 * [程序员日常](#程序员日常)
 * [服务器](#服务器)
@@ -31,7 +25,7 @@
 * [Android](#Android)
 * [前端](#前端)
 
-## <a name="我自己的代码库"></a> 我自己的代码库
+## <a name="我自己的代码库"></a>我自己的代码库
 | [回到顶部](#Indexes) | 描述 |
 | :--- | :--- |
 | [LPText](https://github.com/leo-lp/LPText) | 学习YYText |
@@ -53,68 +47,17 @@
 | [LPLogger](https://github.com/leo-lp/LPLogger) |  |
 | [LPPage](https://github.com/leo-lp/LPPage) |  |
 
-## <a name="控件"></a> 控件
-
-### <a name="控件-page"></a> Page
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-### <a name="控件-hud"></a> HUD
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-### <a name="控件-label"></a> Label
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-### <a name="控件-button"></a> Button
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-### <a name="控件-tabbar"></a> TabBarController
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [IrregularTabbarCustom](https://github.com/singer1026/IrregularTabbarCustom) | 不规则`Tabbar` |
-| [MyTabbar](https://github.com/singer1026/MyTabbar)  | 不规则`Tabbar` |
-
-### <a name="控件-navbar"></a> NavigationController
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-### <a name="控件-collectionView"></a> CollectionView
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) | CollectionView做的两级菜单，可以折叠第二级菜单 | 
-
-### <a name="控件-refreshControl"></a> RefreshControl
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) | 下拉刷新控件 | 
-
-### <a name="控件-侧滑菜单"></a> 侧滑菜单
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [FWSideMenu](https://github.com/CyonLeu/FWSideMenu) | 左右侧滑菜单，支持3D和模糊效果 | 
-
-### <a name="控件-弹幕"></a> 弹幕
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo) | 弹幕系统。[新版](https://github.com/chenqihui/QHDanmu2Demo) | 
-
-### <a name="控件-动画View"></a> 动画View
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-| [Canvas](https://github.com/CanvasPod/Canvas) | 动画View组件 | 
-| [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) | 图标过渡组件，可从一种形状平滑地转换为另一种形状 |
-| [DMHeartFlyAnimation](https://github.com/singer1026/DMHeartFlyAnimation) | 仿映客,花椒等直播APP点赞动画 |
-
-### <a name="控件-过渡动画"></a> 过渡动画
-| [回到顶部](#Indexes) | 描述 |
-| :--- | :--- |
-
-
+## <a name="控件"></a>控件
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) | CollectionView做的两级菜单，可以折叠第二级菜单 |  |
+| [FWSideMenu](https://github.com/CyonLeu/FWSideMenu) | 侧面菜单控制左右菜单，添加3D效果和模糊效果 |  |
+| [QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo) | 弹幕系统实现，[新版本](https://github.com/chenqihui/QHDanmu2Demo) |  |
+| [IrregularTabbarCustom](https://github.com/singer1026/IrregularTabbarCustom) | 定义不规则的标签栏，不规则的标签栏在推的时候可以重新上个视图一起往左边滑动，[具体参考实现](https://github.com/singer1026/MyTabbar) |  |
+| [Canvas](https://github.com/CanvasPod/Canvas) | Xcode中的动画无需代码 |  |
+| [RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) | 下拉以刷新控件 |  |
+| [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) | TBIconTransitionKit是一个易于使用的图标过渡工具包，可以从一种形状平滑地转换为另一种形状 |  |
+| [DMHeartFlyAnimation](https://github.com/singer1026/DMHeartFlyAnimation) | 仿在直播，映客，潜望镜，花椒等直播APP点赞动画 |  |
 | [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) | 水波等负载指示器 |  |
 | [cineio-broadcast-ios](https://github.com/cine-io/cineio-broadcast-ios) | 这是[cine.io](https://www.cine.io/) [Broadcast iOS SDK](https://www.cine.io/products/broadcast)。该库允许您从iOS设备到支持RTMP或HLS流的任何其他设备（iOS，Android，Web）进行实时实时视频流 |  |
 | [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) | 容器视图控制器利用UIKit Dynamics提供逼真的抽屉导航范例 |  |
@@ -880,7 +823,7 @@
 |[swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) | Swift UI库，iOS组件和动画 ||
 | [Render](https://github.com/alexdrone/Render) | CoreRender是一种受UI启发的SwiftUI API（与iOS 10+和ObjC兼容） ||
 
-## <a name="完整APP"></a>完整APP
+## <a name="完整App"></a>完整App
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
 | [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) | 炉火餐饮系统 iPad 点餐端 |  |
