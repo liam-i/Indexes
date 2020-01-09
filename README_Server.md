@@ -19,7 +19,7 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
+| [kurento-media-server](https://github.com/Kurento/kurento-media-server) | 负责媒体传输，处理，加载和记录的媒体[服务器](https://www.kurento.org/) |  ||
 | [MonaServer](https://github.com/MonaSolutions/MonaServer) | 轻量级的RTMFP，RTMP，WebSocket和HTTP服务器 | [官网](http://monaserver.ovh/) ||
 | [SwiftEngine](https://github.com/swiftengine/SwiftEngine) | 基于Apple Swift的HTTP服务器。基于Swift的，一站式，防崩溃，高规模和生产级Web服务器的答案 | [官网](http://swiftengine.io) ||
 | [Perfect](https://github.com/PerfectlySoft/Perfect) | Swift语言服务器端软件框架 |  ||
@@ -62,7 +62,7 @@
 | [jumpserver](https://github.com/jumpserver/jumpserver) | Jumpserver是全球首款完全开源的堡垒机，使用GNU GPL v2.0开源协议，是符合4A机制的运维安全审计系统 |  ||
 | [KubeOperator](https://github.com/KubeOperator/KubeOperator) | [KubeOperator](https://kubeoperator.io/)是一个开源项目，在离线网络环境下，通过可视化Web UI在VMware，Openstack或物理机上规划，部署和运营生产等级的Kubernetes。KubeOperator是[Jumpserver](https://github.com/jumpserver/jumpserver)明星开源团队在Kubernetes领域的又一新力量 |  ||
 | [FaceRecognitionSystemServer](https://github.com/z695101385/FaceRecognitionSystemServer) | 人脸识别系统服务器 |  ||
-|  |  |  ||
+| [pomelo](https://github.com/NetEase/pomelo) | 一个用于Node.js的快速，可扩展的分布式[游戏服务器框架](http://pomelo.netease.com/) |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -95,6 +95,7 @@
 | [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc) | 适用于iOS和OS X的Cocos2d，使用Objective-C构建 | [官网](http://www.cocos2d-objc.org) ||
 | [FlappySwift](https://github.com/fullstackio/FlappySwift) | Swift的Flappy Bird的iOS 8实现 | [官网](https://www.fullstackedu.com/) ||
 | [swift-2048](https://github.com/austinzheng/swift-2048) | Swift编写的2048小游戏 |||
+| [Gearboy](https://github.com/drhelius/Gearboy) | 适用于iOS，Mac，Raspberry Pi，Windows，Linux和RetroArch的Game Boy / Gameboy Color模拟器 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -125,7 +126,7 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
+| [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit) | 适用于Apple iOS，OS X和tvOS的开源深度学习[框架](http://deeplearningkit.org/) |  ||
 | [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) | 为TensorFlow的C语言接口试验性封装函数库，用于Swift在人工智能深度学习上的应用  |||
 | [sonnet](https://github.com/deepmind/sonnet) | 基于[TensorFlow](https://www.tensorflow.org/)的神经网络库 | [官网](https://sonnet.dev/) ||
 | [neon](https://github.com/NervanaSystems/neon) | [neon](https://github.com/NervanaSystems/neon)是英特尔参考深度学习框架，致力于在所有硬件上实现[最佳性能](https://github.com/soumith/convnet-benchmarks)。专为易用性和可扩展性而设计 |||
@@ -149,7 +150,7 @@
 | [Forge](https://github.com/hollance/Forge) | 用于Metal的神经网络工具包 |  ||
 | [SwiftOCR](https://github.com/garnele007/SwiftOCR) | 用Swift编写的快速简单的OCR库。它使用神经网络进行图像识别 |  ||
 | [Swift-AI](https://github.com/Swift-AI/Swift-AI) | Swift AI是完全用Swift编写的高性能深度学习库。我们目前为所有Apple平台提供支持，不久将提供Linux支持 |  ||
-|  |  |  ||
+| [Bull-Live-Server](https://github.com/wenjiegit/Bull-Live-Server) | Bull Live Server，旨在使用C++语言提供强大功能和高性能的流媒体直播服务器 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||

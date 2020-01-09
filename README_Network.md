@@ -44,10 +44,10 @@
 | [socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) | Socket.IO客户端的C ++ 11实现 |  ||
 | [Reachability](https://github.com/tonymillion/Reachability) | 适用于iOS和MacOS的ARC和GCD兼容可达性类。替代苹果可及性 |  ||
 | [Reachability.swift](https://github.com/ashleymills/Reachability.swift) |替代了Apple的Reachability示例，该示例在Swift中使用闭包进行了重写 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [SGWiFiUpload](https://github.com/Soulghost/SGWiFiUpload) | 通过WiFi上传文件。通过WiFi上传文件 |  ||
+| [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) | 适用于Mac OS X或iOS应用程序的小型，轻巧，可嵌入式HTTP服务器 |  ||
+| [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 可以调用114等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的主机域名配置 |  ||
+| [pomelo-iosclient](https://github.com/NetEase/pomelo-iosclient) | 网易[Pomelo](https://github.com/NetEase/pomelo)的iOS客户端库 |  ||
 |  |  |  ||
 |  |  |  ||
 

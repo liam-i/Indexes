@@ -1,27 +1,27 @@
 # Android Indexes
 
 
-## 程序员日常
+## Android
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [mumble-android](https://github.com/pcgod/mumble-android) | Android Mumble客户端 |  ||
+| [RTMP-Video-Publishing-Android](https://github.com/harshing/RTMP-Video-Publishing-Android) | 一个用于发布和获取RTMP视频流的Android应用程序 |  ||
+| [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | 一个功能强大且有趣的android应用。将手机的摄像头和麦克风流式传输到浏览器或VLC |  ||
+| [kickflip-android-example](https://github.com/Kickflip/kickflip-android-example) | 集成Kickflip Android SDK的示例项目，可实现超级便捷的直播 |  ||
+| [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) | Android开源图表库 |  ||
+| [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) | Android架构合集 |  ||
+| [CameraStreaming](https://github.com/dourgulf/CameraStreaming) | CameraStreaming 是一个Android(4.0以上)摄像头实时输出到RTMP服务器的直播演示 |  ||
+| [android-gpuimage-plus](https://github.com/wysaid/android-gpuimage-plus) | 基于OpenGL的Android图像和相机滤镜 |  ||
+| [Android-ffmpeg-CameraRecord](https://github.com/wysaid/Android-ffmpeg-CameraRecord) | 使用JavaCV提供的支持，使用OpenGL实时处理+显示摄像头采集的图像，并使用FFMPEG实时录制音视频 |  ||
+| [kickflip-android-sdk](https://github.com/Kickflip/kickflip-android-sdk) | [Kickflip Android SDK](https://kickflip.io/)-将实时视频流传输到云 |  ||
+| [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) | android开源项目的[分析实现](https://a.codekk.com/) |  ||
+| [ShineButton](https://github.com/ChadCSong/ShineButton) | 这是Android的UI库。效果像闪亮 |  ||
+| [VitamioBundle](https://github.com/yixia/VitamioBundle) | Vitamio是适用于Android和iOS的开放式多媒体框架，具有完整且真实的硬件加速解码器和渲染器 |  ||
+| [grafika](https://github.com/google/grafika) | Grafika测试应用 |  ||
+| [android_rtmppush_sdk](https://github.com/runner365/android_rtmppush_sdk) | 基于android的手机视频rtmp推流SDK |  ||
 | [MD360Player4Android](https://github.com/ashqal/MD360Player4Android) | 这是一个精简库，可为Android渲染360度全景视频。VR播放器 |  ||
 | [AndFix](https://github.com/alibaba/AndFix) | AndFix是[alibaba](https://github.com/alibaba/)为[Android](https://sites.google.com/a/android.com/tools/tech-docs/new-build-system/aar-format) App提供修复程序的库 |  ||
 | [SoloPi](https://github.com/alipay/SoloPi) | SoloPi 自动化测试工具 |||

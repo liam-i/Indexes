@@ -1,4 +1,4 @@
-# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNi0xMC0yNlQxNzoxODo1NSswODowMM4El7hE&language=&q=&tab=repositories&utf8=%E2%9C%93)
+# Swift Indexes [...](https://github.com/leo-lp?after=Y3Vyc29yOnYyOpK5MjAxNi0wMS0yMFQwOTozMjozMyswODowMM4El7xA&language=&q=&tab=repositories&utf8=%E2%9C%93)
 
 * [控件](#控件)
 * [组件](#组件)
@@ -18,6 +18,7 @@
 * [第三方的精心收集和积累（学习资料/优秀第三方库）](#第三方的精心收集和积累（学习资料/优秀第三方库）)
 * [程序员日常](#程序员日常)
 * [我自己的代码库](#我自己的代码库)
+* [Android](https://github.com/leo-lp/Indexes/blob/master/README_Android.md)
 
 ## <a name="控件"></a>控件
 | 名称 | 描述 | 备注 | 截屏 |
@@ -25,12 +26,27 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [FWSideMenu](https://github.com/CyonLeu/FWSideMenu) | 侧面菜单控制左右菜单，添加3D效果和模糊效果 |  ||
+| [QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo) | 弹幕系统实现，[新版本](https://github.com/chenqihui/QHDanmu2Demo) |  ||
+| [IrregularTabbarCustom](https://github.com/singer1026/IrregularTabbarCustom) | 定义不规则的标签栏，不规则的标签栏在推的时候可以重新上个视图一起往左边滑动，[具体参考实现](https://github.com/singer1026/MyTabbar) |  ||
+| [Canvas](https://github.com/CanvasPod/Canvas) | Xcode中的动画无需代码 |  ||
+| [RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) | 下拉以刷新控件 |  ||
+| [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) | TBIconTransitionKit是一个易于使用的图标过渡工具包，可以从一种形状平滑地转换为另一种形状 |  ||
+| [DMHeartFlyAnimation](https://github.com/singer1026/DMHeartFlyAnimation) | 仿在直播，映客，潜望镜，花椒等直播APP点赞动画 |  ||
+| [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) | 水波等负载指示器 |  ||
+| [cineio-broadcast-ios](https://github.com/cine-io/cineio-broadcast-ios) | 这是[cine.io](https://www.cine.io/) [Broadcast iOS SDK](https://www.cine.io/products/broadcast)。该库允许您从iOS设备到支持RTMP或HLS流的任何其他设备（iOS，Android，Web）进行实时实时视频流 |  ||
+| [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) | 容器视图控制器利用UIKit Dynamics提供逼真的抽屉导航范例 |  ||
+| [LNBRippleEffect](https://github.com/bharathlalgudinatarajan/LNBRippleEffect) | 创建带有波纹动画的类似Tinder的按钮 |  ||
+| [QBPopupMenu](https://github.com/questbeat/QBPopupMenu) | iOS的可自定义弹出菜单 |  ||
+| [StickyCollectionView](https://github.com/matbeich/StickyCollectionView) |  UICollectionView布局，用于显示重叠的单元格.[Swift版](https://github.com/matbeich/StickyCollectionView-Swift)|  ||
+| [RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) | 具有模糊背景和切换动画的Control Center式控件 |  ||
+| [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) | iOS7动画控制器和交互控制器的集合，提供翻转，折叠和各种其他过渡 |  ||
+| [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) | iOS[弹幕解决方案](http://www.olinone.com/?p=755) |  ||
+| [WZLBadge](https://github.com/weng1250/WZLBadge) | 一行代码实现Badge效果 |  ||
+| [UAProgressView](https://github.com/UrbanApps/UAProgressView) |  |  ||
+| [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) | 在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能 |  ||
+| [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) | TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示 |  ||
+| [BubbleTransition](https://github.com/andreamazz/BubbleTransition) | 一个自定义的模态过渡，用于呈现和消除具有扩展气泡效果的控制器 |  ||
 | [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) | 这是iOS应用弹簧滑菜单，一个弹性侧滑菜单 |  ||
 | [TYAlertController](https://github.com/12207480/TYAlertController) | 功能强大，易于使用的警报视图或控制器和窗口上的弹出视图，支持模糊效果，自定义视图和动画 |  ||
 | [STPopup](https://github.com/kevin0571/STPopup) | STPopup提供了STPopupController，与iPhone和iPad上的UINavigationController以弹出式样式一样 |  ||
@@ -43,23 +59,8 @@
 | [Messenger](https://github.com/relatedcode/Messenger) | 开源的本机iOS [Messenger](http://related.blog/)，具有音频/视频通话和实时聊天对话（全面的离线支持） |  ||
 | [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) | 用Swift编写的灵活进度条 |  ||
 | [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) | UISegmentedControl的直接替代品，模仿了Google Currents和其他各种Google产品中使用的分段控件的样式 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) | 一个UITextView子类，它增加了对用Swift编写的多行占位符的支持 |  ||
+| [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) | 加载时播放BreakOut-使用SpriteKit进行可播放拉动以刷新视图 |  ||
 | [Tabman](https://github.com/uias/Tabman) |  带有交互式指示器栏的功能强大的分页视图控制器 | [博客](https://uias.github.io/Tabman/master/) |  |
 | [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | | |
 | [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图 | | |
@@ -83,8 +84,10 @@
 | [YNSearch](https://github.com/younatics/YNSearch) | 🔍令人敬畏的完全自定义搜索视图 | [官网](https://www.cocoacontrols.com/controls/ynsearch) ||
 | [PYSearch](https://github.com/ko1o/PYSearch) | 🔍 一个优雅的搜索控制器，它取代了UISearchController |  ||
 | [paper-onboarding](https://github.com/Ramotion/paper-onboarding) | PaperOnboarding是一种材质设计UI滑块. Swift UI library by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |||
+| [navigation-stack](https://github.com/Ramotion/navigation-stack) | 一个堆栈模型的UI导航控制器. Swift UI library made by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |  ||
 | [paper-switch](https://github.com/Ramotion/paper-switch) | 🎚RAMPaperSwitch是一个Swift材质设计UI模块，在打开开关时会在父视图上绘画. iOS library by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |  ||
 | [folding-cell](https://github.com/Ramotion/folding-cell) | 📃FoldingCell是使用@Ramotion制作的动画的扩展内容单元. iOS library by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |  ||
+| [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) | AdaptiveController是一个“渐进缩减” Swift UI模块，用于向本机或自定义iOS UI元素添加自定义状态. Swift UI component by @Ramotion - [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) |  ||
 | [Magnetic](https://github.com/efremidze/Magnetic) | 一种可自定义的气泡选择器，类似于Apple Music类型的选择 |||
 | [DeepDiff](https://github.com/onmyway133/DeepDiff) | DeepDiff通过编辑步骤告诉2个集合之间的差异以及所做的更改。它还支持[Texture](https://github.com/TextureGroup/Texture)，请参见[Texture示例](https://github.com/onmyway133/DeepDiff/tree/master/Example/DeepDiffTexture)；阅读更多[使用diff框架在Swift中更新UICollectionView数据的更好方法](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86) |||
 | [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) | 一个用于轻松构建复杂的iOS UIView动画的库 |||
@@ -171,6 +174,7 @@
 | [M13Checkbox](https://github.com/Marxon13/M13Checkbox) | 适用于iOS的可自定义复选框 |  ||
 | [Koloda](https://github.com/Yalantis/Koloda) | KolodaView是一个旨在简化Tinder类卡在iOS上的实现的类。它添加了方便的功能，例如用于动态加载视图的UITableView样式的dataSource / delegate接口，以及有效的视图加载和卸载 | [博客](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/) ||
 | [PNChart](https://github.com/kevinzhow/PNChart) | [Piner](https://itunes.apple.com/us/app/piner/id637706410)和[CoinsMan](https://itunes.apple.com/us/app/coinsman/id772163893) for iOS中使用的简单美观的图表库 |  ||
+| [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) | 一个简单漂亮的[图表库](https://github.com/kevinzhow/PNChart) |||
 | [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) | UICollectionView的瀑布（即类似[Pinterest](http://pinterest.com/)的）布局。它还与[PSTCollectionView](https://github.com/steipete/PSTCollectionView)兼容 |  ||
 | [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 适用于您的iOS和tvOS应用的干净轻便的进度HUD |  ||
 | [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) | 本项目是将百度的ECharts(Echarts2)工具封装成对应的iOS和Mac的控件，并且将其中javascript的属性封装成对应的对象。并且提供了链式编程，方面大家进行配置Echarts的属性 |  ||
@@ -208,6 +212,34 @@
 | [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | UIWebView进度界面 |  ||
 | [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) | 使UIImageView的cornerRadius没有Offscreen-Rendered的类别，可以提高效率 |  ||
 | [Shimmer](https://github.com/facebook/Shimmer) | [facebook](https://github.com/facebook)的闪光是向应用程序中任何视图添加闪光效果的简便方法。用作不显眼的加载指示器很有用 |  ||
+| [FlatUIKit](https://github.com/Grouper/FlatUIKit) | 适用于iOS的很棒的平面UI组件的集合 |  ||
+| [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ) | 再造“手机QQ”[侧滑菜单](http://lvwenhan.com/ios/445.html) |  ||
+| [DownloadButton](https://github.com/PavelKatunin/DownloadButton) | 可自定义的App Store样式下载[按钮](http://pavelkatunin.github.io/DownloadButton) |  ||
+| [iCarousel](https://github.com/nicklockwood/iCarousel) | [iCarousel](http://www.charcoaldesign.co.uk/source/cocoa#icarousel)是一个类，旨在简化在iPhone，iPad和Mac OS上各种类型的轮播（页面，滚动视图）的实现。iCarousel实现了许多常见的效果，例如圆柱形，扁平和“ CoverFlow”风格的旋转木马，并提供了挂钩来实现您自己的定制效果 |  ||
+| [JSDownloadView](https://github.com/Josin22/JSDownloadView) | 精巧顺滑的[下载动画](http://qiaotongxin.cc/2016/08/30/20160830/) |  ||
+| [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl) | UIRefreshControl的自定义动画。受此[运球镜头](https://dribbble.com/shots/1974767-gear-powered-pull[-to-refresh-animation?list=animated&sort=popular&timeframe=now&offset=19)和[本教程](http://www.jackrabbitmobile.com/design/ios-custom-pull-to-refresh-control/)的启发 |  ||
+| [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController) | 出现在视图控制器顶部的iOS 7/8样式模糊视图控制器 |  ||
+| [PopMenu](https://github.com/xhzengAIB/PopMenu) | PopMenu是受新浪微博/网易应用启发的流行动画菜单 |  ||
+| [DAKeyboardControl](https://github.com/danielamitay/DAKeyboardControl) | DAKeyboardControl仅需一行代码即可向任何视图添加键盘识别功能和滚动关闭功能 |  ||
+| [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) |  轻巧易用的侧边抽屉导航控制器 |  ||
+| [QQBubbleView](https://github.com/Yasic/QQBubbleView) | 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效 |  ||
+| [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) | 一个不错的粘稠效果菜单 |  ||
+| [RxWebViewController](https://github.com/Roxasora/RxWebViewController) | 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController |  ||
+| [HYBImageCliped](https://github.com/CoderJackyHuang/HYBImageCliped) | 开源高效处理圆角的扩展，包括UIImageView、UIView、UIButton、UIImage的扩展API，可根据图片颜色生成图片带任意圆角，可给UIButton根据不同状态处理图片 |  ||
+| [JazzHands](https://github.com/IFTTT/JazzHands) | 一个简单的基于关键帧的UIKit动画框架。非常适合滚动应用介绍 |  ||
+| [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) | 实现非常美观的灌水动画 |  ||
+| [CocoaPicker](https://github.com/nsleejian/CocoaPicker) | 仿QQ图片选择器 |  ||
+| [RBBAnimation](https://github.com/robb/RBBAnimation) | `RBBAnimation`是的子类，`CAKeyframeAnimation`它允许您**使用块**声明**动画**，而不用写出所有单独的关键帧 |  ||
+| [CoreLock](https://github.com/CharlinFeng/CoreLock) | 高仿支付宝解锁 |  ||
+| [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) | POP（来自facebook）自定义动画的扩展。受[tweaner](https://code.google.com/p/tweaner)的启发，MMTweanerAnimation 在使用POP时提供10种类型的自定义动画 |  ||
+| [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) | 下拉菜单以刷新控件，例如Apple的iOS6 Mail App中的控件 |  ||
+| [CardAnimation](https://github.com/seedante/CardAnimation) | 卡平移手势翻转动画 |  ||
+| [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) | 创建像在Facebook，Square Cash和Safari iOS应用程序中看到的冷凝标题栏 |  ||
+| [FancyTabBar](https://github.com/marvelapp/FancyTabBar) | 适用于iOS的可扩展和可自定义的标签栏 |  ||
+| [TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton) | 受[1](http://robb.is/working-on/a-hamburger-button-transition/)和[2](https://dribbble.com/shots/1631598-On-Off)启发的动画复选按钮 |  ||
+| [BCGenieEffect](https://github.com/Ciechan/BCGenieEffect) | iOS应用程序内的**OSX**风格精灵效果 |  ||
+| [iOS-blur](https://github.com/JagCesar/iOS-blur) | 在iOS 7中，新视图在多个位置显示，该视图是透明的并且具有很好的模糊效果。但是，Apple尚未向我们提供公共API来使用这种令人惊叹的视图 |  ||
+| [RadioButton-ios](https://github.com/onegray/RadioButton-ios) | 扩展了标准的UIButton功能。可以为每个按钮配置默认和选定状态 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -216,6 +248,39 @@
 ## <a name="组件"></a>组件
 | 名称 | 描述 | 备注 | 截屏 |
 | --- | --- | --- | --- |
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+|  |  |  ||
+| [M13OrderedDictionary](https://github.com/Marxon13/M13OrderedDictionary) |  M13OrderedDictionary是NSArray和NSDictionary之间的交叉。它包含对象和键的有序列表 |  ||
+| [JSONKit](https://github.com/johnezang/JSONKit) | 一个非常高性能的Objective-C JSON库 |  ||
+| [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) | Git和Dropbox之间的[透明桥梁](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)-将Dropbox（共享）文件夹用作Git远程！ 🎁 |  ||
+| [FastImageCache](https://github.com/path/FastImageCache) | 快速图像缓存是一种高效，持久且最重要的快速方式，用于在iOS应用程序中存储和检索图像 |  ||
+| [apng-canvas](https://github.com/davidmz/apng-canvas) | 在画布上执行[APNG](https://davidmz.github.io/apng-canvas/) |  ||
+| [lumen](https://github.com/anishathalye/lumen) | 基于屏幕内容的魔术[自动亮度](http://www.anishathalye.com/2016/07/31/lumen/)💡 |  ||
+| [KakaJSON](https://github.com/kakaopensource/KakaJSON) | Swift版[MJExtension](https://github.com/CoderMJLee/MJExtension) |  ||
+| [MJExtension](https://github.com/CoderMJLee/MJExtension) | JSON和模型之间的快速，便捷且非侵入式的转换框架。您的模型类不需要扩展任何基类。您无需修改​​任何模型文件 |  ||
+| [Neon](https://github.com/mamaral/Neon) | 强大的Swift程序化UI布局框架 |  ||
+| [NSGIF](https://github.com/NSRare/NSGIF) | 🔮iOS库，用于将视频转换为GIF动画 |  ||
+| [masonry](https://github.com/desandro/masonry) | 🏩级联网格[布局插件](https://masonry.desandro.com/) |  ||
+| [KVOController](https://github.com/facebook/KVOController) | 键值观察是用于在模型-视图-控制器应用程序中的各层之间进行通信的一种特别有用的技术 |  ||
+| [YYText](https://github.com/ibireme/YYText) | 适用于iOS的强大文本框架，用于显示和编辑RTF。（它是[YYKit](https://github.com/ibireme/YYKit)的组件） |  ||
+| [YYWebImage](https://github.com/ibireme/YYWebImage) | 一个异步图像加载框架（[YYKit](https://github.com/ibireme/YYKit)的组件 |  ||
 | [FLEX](https://github.com/Flipboard/FLEX) | 适用于iOS的应用内调试和探索工具 |  ||
 | [ZipArchive](https://github.com/ZipArchive/ZipArchive) | ZipArchive是一个简单的实用程序类，用于在iOS，macOS和tvOS上压缩和解压缩文件 |  ||
 | [Parse-SDK-iOS-OSX](https://github.com/parse-community/Parse-SDK-iOS-OSX) | 一个[库](https://parseplatform.org/)，可让您从iOS或macOS应用访问强大的Parse Server后端 |  ||
@@ -227,26 +292,9 @@
 | [facebook-swift-sdk](https://github.com/facebookarchive/facebook-swift-sdk) | 将您的iOS应用程序与Swift集成到[Facebook](https://developers.facebook.com/docs/swift)平台中 |  ||
 | [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) | 一行代码实现自动布局。支持单元和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。autoLayout的最简单方法。基于运行时 |  ||
 | [nimbus](https://github.com/jverkoey/nimbus) | [Nimbus](http://nimbuskit.info/)是一个iOS框架，其功能集的增长仅与其文档一样快 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [FileBrowser](https://github.com/marmelroy/FileBrowser) | 使用Swift编写的Finder风格的iOS文件浏览器 |  ||
+| [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) | 使用RGBA十六进制字符串创建颜色的便捷方法 |  ||
+| [PureLayout](https://github.com/PureLayout/PureLayout) | iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容 |  ||
 | [YYCache](https://github.com/ibireme/YYCache) | 适用于iOS的高性能缓存框架。它是[YYKit](https://github.com/ibireme/YYKit)的组件 |  ||
 | [BlocksKit](https://github.com/BlocksKit/BlocksKit) | 您一直希望拥有的Objective-C块实用程序 |  ||
 | [peertalk](https://github.com/rsms/peertalk) | [PeerTalk](https://rsms.me/peertalk/)是一个iOS和Mac Cocoa库，用于通过USB进行通信 |  ||
@@ -283,7 +331,6 @@
 | [Kingfisher](https://github.com/onevcat/Kingfisher) | 用于从网络下载和缓存图像。它为您提供了使用纯Swift方法在​​下一个应用程序中处理远程图像的机会 |||
 | [twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) | TwitterKit是一个本地SDK，用于在移动应用程序中包含Twitter内容。Twitter工具包旨在使与Twitter的交互无缝且高效 |||
 | [Swifter](https://github.com/mattdonnelly/Swifter) | 🐦用Swift编写的iOS和OS X的Twitter框架 |  ||
-| [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) | SwiftyStoreKit是适用于iOS 8.0 +，tvOS 9.0+和macOS 10.10+的轻量级In App Purchases框架 |  ||
 | [swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) | libdispatch项目（又名Grand Central Dispatch），用于多核硬件上的并发性 | [官网](http://swift.org) ||
 | [swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) | 基础项目，提供核心实用程序，国际化和操作系统独立性 | [官网](http://swift.org) ||
 | [HanekeSwift](https://github.com/Haneke/HanekeSwift) | 用Swift编写的iOS轻量级通用缓存，对图像特别钟爱 |  ||
@@ -413,6 +460,7 @@
 | [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) | 从GitHub上的标签，问题，标签和拉取请求自动生成更改日志 |  ||
 | [Chameleon](https://github.com/viccalexander/Chameleon) | Swift和Objective-C的颜色框架（渐变颜色，十六进制代码支持，图像颜色等等） |  ||
 | [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) | 在Objective-C和Swift中易于阅读和编写可链接动画 |  ||
+| [DKChainableAnimationKit](https://github.com/draveness/DKChainableAnimationKit) | 使用DSL可以在Swift上的iOS上轻松制作动画，该项目受到[JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations)的极大启发 |  ||
 | [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) | 这是一个通用的嵌入式解决方案，用于将文本字段移出iOS中的键盘 | [博客](http://atastypixel.com/blog/a-drop-in-universal-solution-for-moving-text-fields-out-of-the-way-of-the-keyboard/) ||
 | [TYDownloadManager](https://github.com/12207480/TYDownloadManager) | 下载文件管理器包装了NSURLSessionDataTask和NSURLSessionDownloadTask，提供了进度更新和状态更改 |  ||
 | [Permission](https://github.com/delba/Permission) | 权限公开了一个统一的API，可以在iOS上请求权限 |  ||
@@ -424,10 +472,29 @@
 | [STMURLCache](https://github.com/ming1016/STMURLCache) | iOS预加载Web页面方案 |  ||
 | [YYModel](https://github.com/ibireme/YYModel) | 适用于iOS/OSX的高性能模型框架，它是[YYKit](https://github.com/ibireme/YYKit)的组件 |  ||
 | [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | Xcode插件，可帮助您为Objective-C和Swift轻松编写文档注释 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [gulps](https://github.com/FancyPixel/gulps) | Gulps是适用于iOS和Apple Watch的开源应用程序，可让您跟踪每日的用水量 |  ||
+| [IntentKit](https://github.com/intentkit/IntentKit) | 在iOS应用中处理第三方URL方案的更简便方法 | [官网](http://intentkit.github.io/) ||
+| [RMStore](https://github.com/robotmedia/RMStore) | 适用于应用内购买的轻量级iOS库 |  ||
+| [IAPHelper](https://github.com/saturngod/IAPHelper) | 苹果在应用购买中的IAP助手。它使用ARC和块来简化使用 |  ||
+| [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) | SwiftyStoreKit是适用于iOS 8.0 +，tvOS 9.0+和macOS 10.10+的轻量级In App Purchases框架 |  ||
+| [Colours](https://github.com/bennyguitar/Colours) | 一组漂亮的预定义颜色和一组颜色方法，使您的iOS / OSX开发工作更加轻松 |  ||
+| [OrderedDictionary](https://github.com/nicklockwood/OrderedDictionary) | 未定义存储在NSDictionary中的对象的顺序。通常，能够遍历一组键/值对并按插入顺序返回对象很有用。该库提供实现该行为的两个类OrderedDictionary和MutableOrderedDictionary |  ||
+| [PopoverView](https://github.com/runway20/PopoverView) | [PopoverView](http://www.getosito.com/blog/engineering/popoverview-a-flexible-modal-content-view-for-ios/)一个用CoreGraphics编写的iPhone / iPad的简单UIView弹出控件 |  ||
+| [AutoLayout](https://github.com/johnlui/AutoLayout) | 一个自动布局组件 |  ||
+| [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) | iOS UIWebView，WKWebView与html5 JavaScript的深度交互，iOS和安卓同时与html5 JavaScript的深度交互 |  ||
+| [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) | 实现波浪正弦动画并带有小鱼跳跃溅起水花 |  ||
+| [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) | 具有多个动画的自定义UIPageControl |  ||
+| [RESideMenu](https://github.com/romaonthego/RESideMenu) | 具有视差效果的iOS 7/8样式侧面菜单 |  ||
+| [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) | UILabel替换为细粒度的出现/消失动画 |  ||
+| [AGGeometryKit-POP](https://github.com/agens-no/AGGeometryKit-POP) | 使用POP将AGGeometryKit与POP桥接，可实现惊人的动态效果和动画效果 |  ||
+| [ShareKit](https://github.com/ShareKit/ShareKit) | 提供所有iPhone和iPad应用程序的共享功能 |  ||
+| [PushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) | 您可以在iOS推送通知开发期间使用此应用，以从Mac推送设备上的通知 |  ||
+| [CargoBay](https://github.com/mattt/CargoBay) | [StoreKit](http://developer.apple.com/library/ios/#documentation/StoreKit/Reference/StoreKit_Collection/)是进行[应用内购买](https://developer.apple.com/library/IOS/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html)的Apple框架。很好，但是边缘有些粗糙 |  ||
+| [MKStoreKit](https://github.com/MugunthKumar/MKStoreKit) | 这是MKStoreKit的6.1版。仅适用于iOS 8+。MKStoreKit 6是一个完整的改进，与以前的MKStoreKit版本不兼容。但是，重构应该相当简单 |  ||
+| [XMLReader](https://github.com/amarcadet/XMLReader) | 基于NSXMLParser的Objective-C XML阅读器 |  ||
+| [SmartPush](https://github.com/shaojiankui/SmartPush) | SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App |  ||
+| [iHasApp](https://github.com/danielamitay/iHasApp) | iHasApp iOS框架允许您检测用户设备上已安装的应用程序 |  ||
+| [TMCache](https://github.com/TumblrArchive/TMCache) | 适用于iOS和OS X的快速并行对象缓存（不再维护） |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
@@ -502,7 +569,7 @@
 | [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) | XCGLogger是用于Swift项目的原始调试日志模块 |||
 | [glog](https://github.com/google/glog) | [Google](https://github.com/google)日志记录模块的C ++实现 |||
 | [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 适用于Mac和iOS的快速，简单，功能强大且灵活的日志记录框架 | [官网](https://cocoalumberjack.github.io/) ||
-|  |  |  ||
+| [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) | CollectionView做的两级菜单，可以折叠第二级菜单 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||

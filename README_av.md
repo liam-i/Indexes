@@ -5,12 +5,48 @@
 | --- | --- | --- | --- |
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [RecordMyScreen](https://github.com/coolstar/RecordMyScreen) | 即使在未越狱的iPhone上也要记录显示内容 |  ||
+| [KSYLiveiOSSDK](https://github.com/xxfenxx/KSYLiveiOSSDK) | **KSYLiveSDK for iOS**是基于RTMP的推流器 |  ||
+| [openmeeting2](https://github.com/onlycoder/openmeeting2) | openmeeting2视频会议，仿QQ群视频，实现多人视频，多人语音，文字聊天，表情，共享PPT功能，自由发言，主持人控制发言，按F2发言三种语音模式 ,客户端使用vs2010+qt4.85开发，服务器使用php+go语言，数据库采用mysql 演示系统所有密码都是123456，演示用户 8001~8010 [客户端下载地址](http://pan.baidu.com/s/1gdCikSV) [服务器下载地址](http://pan.baidu.com/s/1bnAo2zP) ,安装包压缩文件内有安装说明书 |  ||
+| [Bull-Live-Encoder](https://github.com/wenjiegit/Bull-Live-Encoder) | 公牛直播编码器 AND([srs-ble](https://github.com/leo-lp/srs-ble)) |  ||
+| [SayHi](https://github.com/illuspas/SayHi) | 本地音频记录/播放（OpenSL ES）和speex编码/解码，由rtmp传输 |  ||
+| [SayHey](https://github.com/illuspas/SayHey) | Rtmp协议speex编码网络音频聊天的iOS版 |  ||
+| [openkickflip-ios-sdk](https://github.com/hugoerg56/openkickflip-ios-sdk) | 这是最初的[Kickflip](https://github.com/Kickflip/kickflip-ios-sdk)开源项目和商业平台的[衍生产品](http://kickflip.io/) |  ||
+| [kickflip-ios-example](https://github.com/Kickflip/kickflip-ios-example) | 集成[Kickflip iOS SDK](http://kickflip.io/)的示例项目，可实现超级便捷的直播 |  ||
+| [kickflip-python](https://github.com/Kickflip/python-kickflip) | Kickflip Python库和命令行客户端 |  ||
+| [facepp-ios-sdk](https://github.com/FacePlusPlus/facepp-ios-sdk) | Fce ++相关[API接口](https://www.faceplusplus.com.cn/)，更新功能：银行卡识别，车牌识别，照片美化 |  ||
+| [AudioStreamer](https://github.com/mattgallagher/AudioStreamer) | Mac OS X和iPhone的[流音频播放器](http://cocoawithlove.com/)类 |  ||
+| [LiveSDK-for-iOS](https://github.com/liveservices/LiveSDK-for-iOS) | Live SDK已被[OneDrive API](https://dev.onedrive.com/)和iOS的[OneDrive SDK](https://github.com/OneDrive/onedrive-sdk-ios)取代。所有新项目都应使用OneDrive API而不是Live SDK与OneDrive集成 |  ||
+| [iOSHardwareDecoder](https://github.com/stevenyao/iOSHardwareDecoder) | 这是iOS硬解码H.264视频的例子 |  ||
+| [eleVR-Web-Player](https://github.com/hawksley/eleVR-Web-Player) | Oculus上用于360视频的Web播放器 |  ||
+| [kickflip-ios-sdk](https://github.com/Kickflip/kickflip-ios-sdk) | 该[Kickflip](http://kickflip.io/)平台为iOS应用程序的完整视频广播解决方案 |  ||
+| [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) | 很酷的AlertView |  ||
+| [ALMoviePlayerController](https://github.com/lobianco/ALMoviePlayerController) | MPMoviePlayerController的直接替代品 |  ||
+| [IjkVRPlayer](https://github.com/yrom/IjkVRPlayer) | 此示例展示了基于[ijkplayer](https://github.com/Bilibili/ijkplayer)实现VR视频播放器的简单方法 |  ||
+| [Video-Edit](https://github.com/lishichao/Video-Edit) | 视频剪辑：添加水印，裁剪，合并，添加背景音乐 |  ||
+| [BeautifyFaceAndDetection](https://github.com/YBYHunter/BeautifyFaceAndDetection) | 使用GPUImage实现人脸美白和人脸识别(磨皮，人脸检测) |  ||
+| [CLiveVideo](https://github.com/wayne798/CLiveVideo) | iOS端librtmp+h264+aac实现的推流demo |  ||
+| [GotyeLive](https://github.com/QPlus/GotyeLive) | 亲加全民直播 ([GotyeLive](http://www.gotye.com.cn/)) —— 互动视频技术整体解决方案 |  ||
+| [PerchBroadcast-iOS-SDK](https://github.com/PerchLive/PerchBroadcast-iOS-SDK) | PerchBroadcast是用于直播视频的轻量级iOS SDK，旨在与[django-broadcast](https://github.com/PerchLive/django-broadcast)结合使用。该SDK在[Perch](https://www.perchlive.com/) iOS应用中使用，并且我们尝试使其尽可能通用和模块化，以提供将来的灵活性 |  ||
+| [iOS-H.264-hareware-encode-and-decode](https://github.com/LevyGG/iOS-H.264-hareware-encode-and-decode) | 使用视频工具箱进行H.264编码 |  ||
+| [linjiaMusic](https://github.com/ashen-zhao/linjiaMusic) | 模仿天天动听音乐，数据也是抓的天天动听 |  ||
+| [novocaine](https://github.com/alexbw/novocaine) | iOS和Mac OS X上的无痛高[性能音频](http://alexbw.github.com/novocaine/) |  ||
+| [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) | 一个简单的类似Faceu贴纸效果的iOS演示 |  ||
+| [MiaowShow](https://github.com/SunLiner/MiaowShow) | iOS视频直播项目 |  ||
+| [DFStreamDisplayKit](https://github.com/doumafang/DFStreamDisplayKit) | 基于GPUImage和VideoCore的直播组件 |  ||
+| [GPUImageBeautifyFilter](https://github.com/ClaudeLi/GPUImageBeautifyFilter) | 基于GPUImage美颜滤镜GPUImageBeautifyFilter,GPUImageBeautyFilter |  ||
+| [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS) | 这是一个精简库，可为iOS渲染360度全景视频。VR播放器 |  ||
+| [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) | 带有[Periscope](https://itunes.apple.com/us/app/periscope/id972909677?mt=8)快速倒带控制的视频视图控制器 |  ||
+| [obs-studio](https://github.com/jp9000/obs-studio) | [OBS Studio](https://obsproject.com/)-免费和开源软件，用于实时流媒体和屏幕录制 |  ||
+| [OBS](https://github.com/jp9000/OBS) | Open Broadcaster软件（不建议使用：请参见[OBS Studio](https://github.com/jp9000/obs-studio)存储库） |  ||
+| [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) | IOS Live，H264和AAC硬编码，支持GPUImage Beauty，rtmp和flv传输，网络丢失帧弱，动态切换速率 |  ||
+| [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) | 基于IOS的手机视频直播SDK |  ||
+| [pili-ios-camera-recorder](https://github.com/yuyedaidao/pili-ios-camera-recorder) | PLRecorderKit 是为 pili.io 流媒体云服务提供的一套推送直播流 SDK, 旨在解决 iOS 端快速、轻松实现 iOS 设备利用摄像头直播接入，便于 pili.io 的开发者专注于产品业务本身，而不必在技术细节上花费不必要的时间 |  ||
+| [clappr-ios](https://github.com/clappr/clappr-ios) | iOS的可扩展媒体播放器 |  ||
+| [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) | 类似Weico的播放器，支持竖屏模式下全屏播放 |  ||
+| [kxmovie](https://github.com/kolyvan/kxmovie) | 基于[FFmpeg](http://ffmpeg.org/index.html)的iOS电影播放器​​ |  ||
+| [iOS-ffmpeg-player-iosvideokit-trial](https://github.com/tnadus/iOS-ffmpeg-player-iosvideokit-trial) | 基于FFmpeg的iOS播放器（名为[VideoKit](http://iosvideokit.com/)）是面向iOS和tvOS开发人员的功能强大的视频播放和流框架，并使用Objective-C语言进行编码。它支持播放本地和远程文件（mkv，divx，xvid，ogg，vorbis等），并支持流式传输流行的协议和格式（mms，http，rtsp，rtmp，rtp，mjpeg） |  ||
+| [CardboardSDK-iOS](https://github.com/rsanchezsaez/CardboardSDK-iOS) | Google的[CardboardSDK](https://developers.google.com/cardboard/ios/get-started#downloading_and_building_the_app)的iOS端口（移动VR工具包） |  ||
 | [MTAudioStreamer](https://github.com/Coderii/MTAudioStreamer) | 基于DOUAudioStreamer设计的可断点加载，并且播放缓存与下载缓存逻辑处理节省流量的Demo |  ||
 | [TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) | Cordially的Core Audio：针对iOS音频应用程序的复杂框架，因此无需构建 |  ||
 | [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) | ESTMusicPlayer是基于DOUAudioStreamer开发的一个优雅简洁的音乐播放器 |  ||
@@ -108,6 +144,8 @@
 | [libmumble](https://github.com/mumble-voip/libmumble) | libmumble是一种尝试编写用于实现[Mumble](http://mumble.info/)客户端的跨平台C ++库的尝试 |  ||
 | [mumble-releng](https://github.com/mumble-voip/mumble-releng) | [Mumble](http://mumble.info/)的一个发布引擎 |  ||
 | [mumble-opus](https://github.com/mumble-voip/opus) | [Opus](https://github.com/xiph/opus)的git存储库的镜像 |  ||
+| [mumo](https://github.com/mumble-voip/mumo) | [mumo](https://wiki.mumble.info/wiki/Mumo)是Mumble主持人框架，它简化了通过Ice连接到Mumble服务器的插件的开发。mumo处理基本的ICE连接，并包含基本的模块加载和消息多路复用 |  ||
+| [grumble](https://github.com/mumble-voip/grumble) | 备用[Mumble](http://mumble.info/grumble)服务器 |  ||
 | [Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro) | Swift Radio是一款开源广播电台应用程序，具有强大而专业的功能 |  ||
 | [apprtc](https://github.com/webrtc/apprtc) | 基于[WebRTC](https://github.com/webrtc/)的视频聊天演示应用程序。该项目目前处于暂停状态，维护需求最少。[开发人员指南](https://docs.google.com/document/d/1tn1t6LW2ffzGuYTK3366w1fhTkkzsSvHsBnOHoDfRzY/edit?pli=1#heading=h.e3366rrgmkdk) |  ||
 | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | **XCDYouTubeKit**是适用于iOS，tvOS和macOS的YouTube视频播放器 |  ||
@@ -128,12 +166,33 @@
 | [LFRtmp](https://github.com/liuf1986/LFRtmp) | 一个全开源的纯OC实现的RTMP推流SDK支持AAC、H264、美颜滤镜、AMF编解码 |  ||
 | [LeanCloudLiveKit-iOS](https://github.com/leancloud/LeanCloudLiveKit-iOS) | LiveKit是一个专门为视频直播业务提供的一个UI组件，展示如何将[IM](https://github.com/leancloud/ChatKit-OC)模块添加到Live应用 |  ||
 | [linke](https://github.com/stlndm/linke) | 本项目实现了一个作为一个直播App的基本功能，本地视频流采集，播放，美颜，礼物，点赞出心等。提供一个构造思路，很久没有更新了，望谅解！🤡 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [StreamingKit](https://github.com/tumtumtum/StreamingKit) | 适用于iOS和Mac OSX的音频播放和流媒体库 |  ||
+| [apple-tv](https://github.com/Auntie-Player/apple-tv) | 一个Apple TV应用程序，可从BBC访问点播节目 |  ||
+| [IM_APP](https://github.com/zhuwensheng1987/IM_APP) | IOS视频聊天使用ffmpeg库crtmpserver作为中间转流服务器 |  ||
+| [HLS-Demo](https://github.com/yangchao0033/HLS-Demo) | IOS HLS视频直播[样例](http://www.jianshu.com/p/8f99202ccb89) |  ||
+| [rtmp_streamer_for_ios](https://github.com/Vbytes/rtmp_streamer_for_ios) | 推送h264,AAC rtmp 流到流媒体服务器，包含美颜算法和自适应码率，低延时 |  ||
+| [librtmp-for-ipv6](https://github.com/zhenwu1981/librtmp-for-ipv6) | librtmp 运行在ipv6和ipv4的网络下 compile： ./build-librtmp.sh |  ||
+| [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) | Android / IOS / WinPhone中的[ffmpeg示例](http://leixiaohua1020.github.com/) |  ||
+| [MetalAcc](https://github.com/wangjwchn/MetalAcc) | 使用Swift编写的Metal的基于GPU的媒体处理库 |  ||
+| [ScreenRecord](https://github.com/topws/ScreenRecord) | iOS 9.0 新增的接口，屏幕录制，游戏内声音录制，可以选择是否启用麦克风录入周边环境的声音 |  ||
+| [DPFaceRecognition](https://github.com/dapiaowudi/DPFaceRecognition) | iOS人脸识别 |  ||
+| [librtmpex](https://github.com/suxinde2009/librtmpex) | librtmp的改进版本 |  ||
+| [srs-sea](https://github.com/leo-lp/srs-sea) | SEA（Android的流编码器）通过HTTP-FLV将实时流发布到SRS(建议使用[YASEA](https://github.com/begeekmyfriend/yasea)，因为SEA只是Android编码器的演示) |  ||
+| [AudioUnitSample](https://github.com/StevenKuo/AudioUnitSample) | 使用remoteIO audioUnit播放流音频 |  ||
+| [JSIMWebrtcOverMQTT](https://github.com/wenghengcong/JSIMWebrtcOverMQTT) | 利用MQTT当做共振通道，实现Webrtc的视频通话 |  ||
+| [AppRTCDemo](https://github.com/YK-Unit/AppRTCDemo) | 用于iOS客户端演示的WebRTC。PS：它使用XMPP构建信令服务 |  ||
+| [TPAACAudioConverter](https://github.com/michaeltyson/TPAACAudioConverter) | 易于使用的Objective-C包装器，用于AAC音频转换 |  ||
+| [AudioUnitSample](https://github.com/leo-lp/AudioUnitSample-1) | RemoteIO和多通道混音器音频单元的用法示例 |  ||
+| [douyuTV](https://github.com/xiaomaxuetu/douyuTV) | 实现了斗鱼TV直播视频的播放，播放器采用的是36氪的三方开源播放器,播放源是(Http Live streaming) |  ||
+| [iOSEchoCancellation](https://github.com/lixing123/iOSEchoCancellation) | 具有/不具有回声消除功能的实时记录和播放示例 |  ||
+| [rtmp-wrapper](https://github.com/minsikzzang/rtmp-wrapper) | 适用于iOS的librtmp包装器类
+ |  ||
+| [ASScreenRecorder](https://github.com/alskipp/ASScreenRecorder) | 将iOS屏幕内容记录为.mp4视频文件 |  ||
+| [Eleven](https://github.com/sinabio/Eleven) | 一个简单而强大的视频播放器。支持m4v，wmv，3gp，mp4，mov，avi，mkv，mpeg，mpg，flv，VOB格式，输入任何HTTP，RTSP，RTMP，RTP地址播放网络流媒体或直播.11个播放器使用ffmpeg |  ||
+| [SkyRTC](https://github.com/LingyuCoder/SkyRTC) | 服务器端的webRTC库，用于在浏览器中建立实时通信 |  ||
+| [SkyRTC-demo](https://github.com/LingyuCoder/SkyRTC-demo) | 一个使用[SkyRTC](https://github.com/LingyuCoder/SkyRTC)和[SkyRTC-client](https://github.com/LingyuCoder/SkyRTC-client)构建浏览器中音频，视频，文字聊天室的演示 |  ||
+| [iOSP2PVideoStreaming](https://github.com/trentbrooks/iOSP2PVideoStreaming) | 具有OF前端的iOS设备之间的P2P视频流的各种测试/示例 |  ||
+| [AirCame](https://github.com/chenliming777/AirCame) | 视频直播，先要配置red5服务器，通过rtmp流将h264数据与aac数据上传服务器，做到直播的效果 |  ||
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||

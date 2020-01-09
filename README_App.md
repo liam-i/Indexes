@@ -9,13 +9,13 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) | 炉火餐饮系统 iPad 点餐端 |  ||
+| [kityminder](https://github.com/fex-team/kityminder) | [百度脑图](http://naotu.baidu.com/) |  ||
+| [SwiftHN](https://github.com/Dimillian/SwiftHN) | Swift中的Hacker News阅读器 |  ||
+| [JokeClient-Swift](https://github.com/YANGReal/JokeClient-Swift) | 用糗事百科的API简单做成一个糗百客户端，可以浏览各种段子，浏览搞笑图片，查看精彩评论等 |  ||
+| [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) | 以设计师的身份构建[Swift App](http://designcode.io/) |  ||
+| [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | Youtube iOS模板由[Haik Aslanyan](https://twitter.com/aslanyanhaik)开发并用Swift 3编写 |  ||
+| [stackedit](https://github.com/benweet/stackedit) | 浏览器内Markdown[编辑器](https://stackedit.io/) | ||
 | [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) | 该存储库包含[GitBucket](https://itunes.apple.com/cn/app/id961330940?mt=8) iOS应用程序的源代码。它是GitHub的移动客户端应用程序，使用[MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel)架构模式和一些很棒的框架（例如[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)，[Mantle](https://github.com/MantleFramework/Mantle)，[octokit.objc](https://github.com/octokit/octokit.objc)等）进行[构建](https://github.com/octokit/octokit.objc)。您可以免费将其用于任何目的 |  ||
 | [GitHawk](https://github.com/GitHawkApp/GitHawk) | 适用于GitHub的最佳iOS应用 | [官网](http://githawk.com) ||
 | [iSparta](https://github.com/iSparta/iSparta) | APNG，WebP转换器 | [官网](http://isparta.github.io/) ||
@@ -75,9 +75,10 @@
 | [eidolon](https://github.com/artsy/eidolon) | [装饰主义](https://www.artsy.net/)拍卖亭应用 |  ||
 | [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) | NXDrawKit是一个用于iPhone的简单易用但有用的绘图工具 |  ||
 | [VPNOn](https://github.com/lexrus/VPNOn) | 像英雄一样打开您的VPN |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [DSLolita](https://github.com/sam408130/DSLolita) | 模仿新浪微博做的一款app，有发送博文，评论，点赞，私聊功能 |  ||
+| [iBBS-Swift](https://github.com/iAugux/iBBS-Swift) | Swift中的BBS客户端 |  ||
+| [Eleven](https://github.com/kaixinsoft/Eleven) | Eleven Player是一款简单而强大的视频播放器。请使用ffmpeg |  ||
+| [meituan](https://github.com/lookingstars/meituan) | 高仿美团iOS版，版本号5.7 |  ||
+| [Lin](https://github.com/questbeat/Lin) | Xcode插件，可为NSLocalizedString提供自动完成功能 |  ||
 |  |  |  ||
 |  |  |  ||

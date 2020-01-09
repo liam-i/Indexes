@@ -47,5 +47,5 @@
 | [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) | 用于[Streamlink](https://streamlink.github.io/)的多平台[Twitch.tv](https://twitch.tv/)浏览器 |  ||
 | [redux](https://github.com/reduxjs/redux) | Redux是JavaScript应用程序的可预测状态容器（不要与WordPress框架– [Redux](https://reduxframework.com/)框架相混淆） |  ||
 | [plyr](https://github.com/sampotts/plyr) | 一个简单的HTML5，YouTube和Vimeo播放器，支持[现代](https://github.com/sampotts/plyr#browser-support)浏览器 | [官网](https://plyr.io/) ||
-|  |  |  ||
+| [pili-html5-player-example](https://github.com/pili-engineering/pili-html5-player-example) | 带有Flash和Silverlight垫片的[HTML5<音频>或<视频>播放器](http://mediaelementjs.com/)，模仿HTML5 MediaElement API，从而在所有浏览器中实现一致的UI |  ||
 |  |  |  ||

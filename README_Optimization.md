@@ -14,8 +14,8 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) | 有助于分析iOS内存使用情况的iOS工具 |  ||
+| [QT4i](https://github.com/Tencent/QT4i) | [Tencent](https://github.com/Tencent).QT4i（适用于iOS的快速测试）是适用于iOS应用程序的QTA测试自动化驱动程序 |  ||
 | [xctool](https://github.com/facebook/xctool) | 苹果公司xcodebuild的扩展，可以更轻松地测试iOS和macOS应用程序 |  ||
 |[Pecker](https://github.com/woshiccm/Pecker) | 是一个自动检测无用代码的工具，它基于 IndexStoreDB 和 SwiftSyntax。 | [Twitter](https://twitter.com/Roy78463507) | |
 | [MTHawkeye](https://github.com/meitu/MTHawkeye) | MTHawkeye是iOS下的调试优化辅助工具集，旨在帮助iOS开发者提升开发效率、辅助优化性能体验 |  ||
@@ -36,6 +36,6 @@
 | [KSCrash](https://github.com/kstenerud/KSCrash) | iOS下崩溃监控 |||
 | [HockeySDK-iOS](https://github.com/bitstadium/HockeySDK-iOS) | 实现了在您的iOS应用程序中使用HockeyApp的支持 | [官网](http://hockeyapp.net/releases) ||
 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) | 保留周期是造成内存泄漏的最常见方法之一。创建保留周期非常容易，而且往往很难发现它。FBRetainCycleDetector的目标是帮助在运行时查找保留周期。该项目的功能受到[Circle](https://github.com/mikeash/Circle)的影响 |  ||
-|  |  |  ||
-|  |  |  ||
+| [iOS-qiniu-tools](https://github.com/leo-lp/iOS-qiniu-tools) | iOS手机网络测试工具 |  ||
+| [NetworkFlow-iOS](https://github.com/1043426357/NetworkFlow-iOS) | 监控流量、测网速 |  ||
 |  |  |  ||

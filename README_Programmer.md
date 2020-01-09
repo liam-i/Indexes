@@ -7,17 +7,17 @@
 |  |  |  ||
 |  |  |  ||
 |  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000) | 精选的iOS前1000强库的精选列表 |  ||
+| [awesome-animation](https://github.com/Animatious/awesome-animation) | [Animatious Group](http://anius.io/)制作的大量开源UI Motion库 |  ||
+| [apple-ios-samples](https://github.com/robovm/apple-ios-samples) | [苹果iOS示例](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)的镜像 |  ||
+| [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) | Markdown 语法[简体中文版](http://wow.kuapp.com/markdown/)（fork于[繁体中文版](http://markdown.tw/)） |  ||
+| [iOSTech](https://github.com/kaiyiwang/iOSTech) | 适用于iOS应用程序开发的有用工具或提示列表 |  ||
+| [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) | 一份关于**“资料汇总”**的汇总 |  ||
+| [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) | 中文 iOS/Mac 开发博客列表 |  ||
+| [dev-blog](https://github.com/nixzhu/dev-blog) | 翻译，开发心得或学习笔记 |  ||
+| [swift-summary](https://github.com/jakarmy/swift-summary) | 在Playgrounds上编写的Apple Swift语言摘要 |  ||
+| [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) | Google开源项目风格指南（[中文版](http://zh-google-styleguide.readthedocs.org/)） |  ||
+| [DevLiveBook](https://github.com/DyncLang/DevLiveBook) | 励志成为较全的直播技术导航_AnyRTC(采集、前处理、编码、传输、解码、渲染, 推流, 拉流、连麦、直播、互动、RTMP) |  ||
 | [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) | ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总 |  ||
 | [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) | 🔥学习一些Swift |  ||
 | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 一个自学的项目，用于学习Swift |  ||
@@ -67,11 +67,11 @@
 | [translations](https://github.com/oldratlee/translations) | 一些不错英文资料的中文翻译 |  ||
 | [Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) | Laravel 系列入门教程 |  ||
 | [iOS-Core-Animation-Advanced-Techniques](https://github.com/qunten/iOS-Core-Animation-Advanced-Techniques) | iOS核心动画高级技术（翻译） |  ||
-| [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖 Swift 5.0中实现的设计模式 |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
-|  |  |  ||
+| [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) | 📖Swift 5.0中实现的设计模式 |  ||
+| [30dayMakeOS](https://github.com/yourtion/30dayMakeOS) | 《30天自制操作系统》源码中文版。自己制作一个操作系统（[OSASK](https://github.com/yourtion/YOS)）的过程 |  ||
+| [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) | 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件 |  ||
+| [iOS-Pro](https://github.com/tangqiaoboy/iOS-Pro) | 《 iOS 开发进阶》随书示例程序和勘误 |  ||
+| [iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering) | 全球第一本非常详尽的iOS App逆向工程技能书:) |  ||
 |  |  |  ||
 |  |  |  ||
 
