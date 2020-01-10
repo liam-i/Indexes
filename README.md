@@ -211,7 +211,7 @@
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
 | [Charts](https://github.com/danielgindi/Charts) | 精美图表！跨平台MPAndroidChart的Apple端 ||
-| [PNChart](https://github.com/kevinzhow/PNChart) | [Piner](https://itunes.apple.com/us/app/piner/id637706410)和[CoinsMan](https://itunes.apple.com/us/app/coinsman/id772163893) for iOS中使用的简单美观的图表库 ||
+| [PNChart](https://github.com/kevinzhow/PNChart) | Piner和[CoinsMan for iOS中使用的简单美观的图表库 ||
 | [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) | 一个简单漂亮的[图表库](https://github.com/kevinzhow/PNChart) ||
 | [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) | 本项目是将百度的ECharts(Echarts2)工具封装成对应的iOS和Mac的控件，并且将其中javascript的属性封装成对应的对象。并且提供了链式编程，方面大家进行配置Echarts的属性 |  |
 | [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) | 适用于iOS的自适应可滚动图形视图，用于可视化简单的离散数据集。用Swift编写 |  |
@@ -399,8 +399,8 @@
 ## <a name="组件"></a>组件
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
-| [M13OrderedDictionary](https://github.com/Marxon13/M13OrderedDictionary) |  M13OrderedDictionary是NSArray和NSDictionary之间的交叉。它包含对象和键的有序列表 ||
-| [OrderedDictionary](https://github.com/nicklockwood/OrderedDictionary) | 未定义存储在NSDictionary中的对象的顺序。通常，能够遍历一组键/值对并按插入顺序返回对象很有用。该库提供实现该行为的两个类OrderedDictionary和MutableOrderedDictionary |  |
+| [M13OrderedDictionary](https://github.com/Marxon13/M13OrderedDictionary) |  NSArray和NSDictionary之间的交叉。它包含对象和键的有序列表 ||
+| [OrderedDictionary](https://github.com/nicklockwood/OrderedDictionary) | OC中**有序字典**数据结构 ||
 | [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) | Swift中**有序字典**数据结构的轻量级实现 |  |
 | [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) | Git和Dropbox之间的[透明桥梁](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)-将Dropbox（共享）文件夹用作Git远程！ 🎁 |  |
 | [lumen](https://github.com/anishathalye/lumen) | 基于屏幕内容的魔术[自动亮度](http://www.anishathalye.com/2016/07/31/lumen/)💡 |  |
@@ -635,18 +635,18 @@
 ## <a name="数据存储"></a>数据存储
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
-| [Valet](https://github.com/square/Valet) | Valet使您可以安全地将数据存储在iOS，tvOS，watchOS或macOS钥匙串中，而无需了解钥匙串的工作原理。这简单。我们承诺 |  |
 | [wcdb](https://github.com/Tencent/wcdb) | [腾讯](https://github.com/Tencent/)开源的一个高效、完整、易用的移动数据库框架，基于[SQLCipher](https://github.com/sqlcipher/sqlcipher)，支持iOS, macOS和Android |  |
 | [fmdb](https://github.com/ccgus/fmdb) | 这是一个围绕[SQLite](http://sqlite.org/)的Objective-C包装器 |  |
+| [GRDB.swift](https://github.com/groue/GRDB.swift) | 用于SQLite数据库的工具包，重点是应用程序开发 | [官网](http://groue.github.io/GRDB.swift/) |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 该存储库包含Firebase iOS SDK源的子集 | [官网](https://firebase.google.com/) |
+| [Valet](https://github.com/square/Valet) | Valet使您可以安全地将数据存储在iOS，tvOS，watchOS或macOS钥匙串中，而无需了解钥匙串的工作原理。这简单。我们承诺 |  |
 | [realm-cocoa](https://github.com/realm/realm-cocoa) | Realm是一个移动数据库：替代了Core Data＆SQLite | [官网](https://realm.io/) |
 | [rocksdb](https://github.com/facebook/rocksdb) | [facebook](https://opensource.facebook.com)提供快速可存储的可嵌入(闪存和RAM存储)持久键值存储的库 | [官网](http://rocksdb.org) |
 | [presto](https://github.com/prestodb/presto) | 用于大数据的Presto分布式SQL查询引擎 | [官网](http://prestodb.github.io/) |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 该存储库包含Firebase iOS SDK源的子集 | [官网](https://firebase.google.com/) |
 | [druid](https://github.com/alibaba/druid) | 阿里巴巴数据库事业部出品，为监控而生的数据库连接池 | [wiki](https://github.com/alibaba/druid/wiki) |
 | [pouch](https://github.com/alibaba/pouch) | [alibaba](https://github.com/alibaba)的高效的企业级容器引擎 | [官网](https://pouchcontainer.io/) |
 | [Disk](https://github.com/saoudrizwan/Disk) | 一个功能强大且简单的文件管理库，考虑了Apple的[iOS数据存储指南](https://developer.apple.com/icloud/documentation/data-storage/index.html)。磁盘使用CodableSwift 4中引入的新协议来发挥其最大的优势，它使您能够持久保存结构，而不必担心编码/解码。磁盘还可以帮助您以最少的一行代码将图像和其他数据类型保存到磁盘 |  |
 | [CoreStore](https://github.com/JohnEstropia/CoreStore) | 一个对CoreData的包装，提供了数据安全的特性，CoreStore现在是[Swift Source Compatibility](https://swift.org/source-compatibility/#current-list-of-projects)项目的一部分 |  |
-| [GRDB.swift](https://github.com/groue/GRDB.swift) | 用于SQLite数据库的工具包，重点是应用程序开发 | [官网](http://groue.github.io/GRDB.swift/) |
 | [](https://github.com/stephencelis/SQLite.swift) | [SQLite3](http://www.sqlite.org/)上的类型安全的[Swift](https://swift.org/)语言层；[SQLite.swift](https://github.com/stephencelis/SQLite.swift)提供了对SQL语句语法和意图的编译时置信度 |  |
 | [GYDataCenter](https://github.com/Zepo/GYDataCenter) | 建立在[FMDB](https://github.com/ccgus/fmdb)之上。它提供了面向对象的接口，同时仍然具有使用原始SQL的灵活性 |  |
 | [SugarRecord](https://github.com/modo-studio/SugarRecord) | SugarRecord是一个持久性包装器，旨在以更简单的方式使用诸如CoreData之类的持久性解决方案 |  |
@@ -662,24 +662,16 @@
 ## <a name="音视频"></a>音视频
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
-| [GPUImage](https://github.com/BradLarson/GPUImage) | GPUImage框架是BSD许可的iOS库，可让您将GPU加速的滤镜和其他效果应用于图像，实时摄像机视频和电影 ||
-| [GPUImage2](https://github.com/BradLarson/GPUImage2) | GPUImage 2是[GPUImage框架](https://github.com/BradLarson/GPUImage)的第二代，这是一个开源项目，用于在Mac，iOS和现在的Linux上执行GPU加速的图像和视频处理。最初的GPUImage框架是用Objective-C编写的，并且针对Mac和iOS，但是此最新版本完全是用Swift编写的，也可以针对Linux和支持Swift代码的未来平台 |  |
-| [GPUImage3](https://github.com/BradLarson/GPUImage3) | 用于使用Metal进行GPU加速的视频和图像处理 ||
 | [RecordMyScreen](https://github.com/coolstar/RecordMyScreen) | 即使在未越狱的iPhone上也要记录显示内容 |  |
-| [KSYLiveiOSSDK](https://github.com/xxfenxx/KSYLiveiOSSDK) | **KSYLiveSDK for iOS**是基于RTMP的推流器 |  |
 | [openmeeting2](https://github.com/onlycoder/openmeeting2) | openmeeting2视频会议，仿QQ群视频，实现多人视频，多人语音，文字聊天，表情，共享PPT功能，自由发言，主持人控制发言，按F2发言三种语音模式 ,客户端使用vs2010+qt4.85开发，服务器使用php+go语言，数据库采用mysql 演示系统所有密码都是123456，演示用户 8001~8010 [客户端下载地址](http://pan.baidu.com/s/1gdCikSV) [服务器下载地址](http://pan.baidu.com/s/1bnAo2zP) ,安装包压缩文件内有安装说明书 |  |
 | [Bull-Live-Encoder](https://github.com/wenjiegit/Bull-Live-Encoder) | 公牛直播编码器 AND([srs-ble](https://github.com/leo-lp/srs-ble)) |  |
-| [SayHi](https://github.com/illuspas/SayHi) | 本地音频记录/播放（OpenSL ES）和speex编码/解码，由rtmp传输 |  |
-| [SayHey](https://github.com/illuspas/SayHey) | Rtmp协议speex编码网络音频聊天的iOS版 |  |
 | [openkickflip-ios-sdk](https://github.com/hugoerg56/openkickflip-ios-sdk) | 这是最初的[Kickflip](https://github.com/Kickflip/kickflip-ios-sdk)开源项目和商业平台的[衍生产品](http://kickflip.io/) |  |
-| [kickflip-ios-example](https://github.com/Kickflip/kickflip-ios-example) | 集成[Kickflip iOS SDK](http://kickflip.io/)的示例项目，可实现超级便捷的直播 |  |
 | [kickflip-python](https://github.com/Kickflip/python-kickflip) | Kickflip Python库和命令行客户端 |  |
 | [facepp-ios-sdk](https://github.com/FacePlusPlus/facepp-ios-sdk) | Fce ++相关[API接口](https://www.faceplusplus.com.cn/)，更新功能：银行卡识别，车牌识别，照片美化 |  |
 | [AudioStreamer](https://github.com/mattgallagher/AudioStreamer) | Mac OS X和iPhone的[流音频播放器](http://cocoawithlove.com/)类 |  |
 | [LiveSDK-for-iOS](https://github.com/liveservices/LiveSDK-for-iOS) | Live SDK已被[OneDrive API](https://dev.onedrive.com/)和iOS的[OneDrive SDK](https://github.com/OneDrive/onedrive-sdk-ios)取代。所有新项目都应使用OneDrive API而不是Live SDK与OneDrive集成 |  |
 | [iOSHardwareDecoder](https://github.com/stevenyao/iOSHardwareDecoder) | 这是iOS硬解码H.264视频的例子 |  |
 | [eleVR-Web-Player](https://github.com/hawksley/eleVR-Web-Player) | Oculus上用于360视频的Web播放器 |  |
-| [kickflip-ios-sdk](https://github.com/Kickflip/kickflip-ios-sdk) | 该[Kickflip](http://kickflip.io/)平台为iOS应用程序的完整视频广播解决方案 |  ||
 | [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) | 很酷的AlertView |  |
 | [ALMoviePlayerController](https://github.com/lobianco/ALMoviePlayerController) | MPMoviePlayerController的直接替代品 |  |
 | [IjkVRPlayer](https://github.com/yrom/IjkVRPlayer) | 此示例展示了基于[ijkplayer](https://github.com/Bilibili/ijkplayer)实现VR视频播放器的简单方法 ||
@@ -696,15 +688,12 @@
 | [DFStreamDisplayKit](https://github.com/doumafang/DFStreamDisplayKit) | 基于GPUImage和VideoCore的直播组件 |  |
 | [GPUImageBeautifyFilter](https://github.com/ClaudeLi/GPUImageBeautifyFilter) | 基于GPUImage美颜滤镜GPUImageBeautifyFilter,GPUImageBeautyFilter |  |
 | [MD360Player4iOS](https://github.com/ashqal/MD360Player4iOS) | 这是一个精简库，可为iOS渲染360度全景视频。VR播放器 |  |
-| [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) | 带有[Periscope](https://itunes.apple.com/us/app/periscope/id972909677?mt=8)快速倒带控制的视频视图控制器 |  |
+| [Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) | 带有Periscope快速倒带控制的视频视图控制器 |  |
 | [obs-studio](https://github.com/jp9000/obs-studio) | [OBS Studio](https://obsproject.com/)-免费和开源软件，用于实时流媒体和屏幕录制 |  |
 | [OBS](https://github.com/jp9000/OBS) | Open Broadcaster软件（不建议使用：请参见[OBS Studio](https://github.com/jp9000/obs-studio)存储库） |  |
-| [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) | IOS Live，H264和AAC硬编码，支持GPUImage Beauty，rtmp和flv传输，网络丢失帧弱，动态切换速率 |  |
-| [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) | 基于IOS的手机视频直播SDK |  |
 | [pili-ios-camera-recorder](https://github.com/yuyedaidao/pili-ios-camera-recorder) | PLRecorderKit 是为 pili.io 流媒体云服务提供的一套推送直播流 SDK, 旨在解决 iOS 端快速、轻松实现 iOS 设备利用摄像头直播接入，便于 pili.io 的开发者专注于产品业务本身，而不必在技术细节上花费不必要的时间 |  |
 | [clappr-ios](https://github.com/clappr/clappr-ios) | iOS的可扩展媒体播放器 ||
 | [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) | 类似Weico的播放器，支持竖屏模式下全屏播放 |  |
-| [kxmovie](https://github.com/kolyvan/kxmovie) | 基于[FFmpeg](http://ffmpeg.org/index.html)的iOS电影播放器​​ |  |
 | [iOS-ffmpeg-player-iosvideokit-trial](https://github.com/tnadus/iOS-ffmpeg-player-iosvideokit-trial) | 基于FFmpeg的iOS播放器（名为[VideoKit](http://iosvideokit.com/)）是面向iOS和tvOS开发人员的功能强大的视频播放和流框架，并使用Objective-C语言进行编码。它支持播放本地和远程文件（mkv，divx，xvid，ogg，vorbis等），并支持流式传输流行的协议和格式（mms，http，rtsp，rtmp，rtp，mjpeg） ||
 | [CardboardSDK-iOS](https://github.com/rsanchezsaez/CardboardSDK-iOS) | Google的[CardboardSDK](https://developers.google.com/cardboard/ios/get-started#downloading_and_building_the_app)的iOS端口（移动VR工具包） |  |
 | [MTAudioStreamer](https://github.com/Coderii/MTAudioStreamer) | 基于DOUAudioStreamer设计的可断点加载，并且播放缓存与下载缓存逻辑处理节省流量的Demo |  |
@@ -715,14 +704,11 @@
 | [SCRecorder](https://github.com/rFlex/SCRecorder) | iOS摄像头引擎，具有类似于Vine的拍击功能，可进行录制，动画滤镜，慢动作，片段编辑 |  |
 | [ffmpeg-avplayer-for-ios-tvos](https://github.com/imoreapps/ffmpeg-avplayer-for-ios-tvos) | 一个小巧但功能强大的iOS和Apple TV OS影音播放器框架，基于FFmpeg库 ||
 | [FaceRecognitionSystem](https://github.com/z695101385/FaceRecognitionSystem) | 基于opencv的人脸识别Demo |  |
-| [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) | 通过RTMP，适用于iOS的HLS，macOS，tvOS的摄像头和麦克风流媒体库 |  |
-| [SRTHaishinKit.swift](https://github.com/shogo4405/SRTHaishinKit.swift) | 通过SRT for iOS的摄像头和麦克风流媒体库 |  |
 | [HandBrake](https://github.com/HandBrake/HandBrake) | 用于Linux，Mac和Windows的开源视频代码转换器 | [博客](https://handbrake.fr) |
 | [SJMP3Player](https://github.com/changsanjiang/SJMP3Player) | mp3播放器, 边下载边播放, 支持调速, 控制台操作 ||
 | [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) | React Native的WebRTC模块 | [官网](https://react-native-webrtc.discourse.group/) |
 | [video.js](https://github.com/videojs/video.js) | 开源HTML5和Flash视频播放器 | [官网](https://videojs.com) |
 | [ROMPlayer](https://github.com/AudioKit/ROMPlayer) | AudioKit样本播放器（ROM播放器）-EXS24，声音字体，Wave播放器 | [官网](http://audiokitpro.com) |
-| [pili-librtmp](https://github.com/pili-engineering/pili-librtmp) | [七牛云音视频客户端团队](https://github.com/pili-engineering)维护的一个rtmp协议库 ||
 | [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) | 使用CoreImage.framework实现[高通滤镜](https://www.google.com/search?ie=UTF-8&q=photoshop+high+pass+skin+smoothing) |  |
 | [Vivid](https://github.com/YuAo/Vivid) | Apple的[Core Image](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html)框架滤镜 |  |
 | [iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) | 滤镜库 |  |
@@ -732,7 +718,6 @@
 | [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) | 适用于iOS和OS X的可可[系统声音服务](https://developer.apple.com/library/ios/documentation/AudioToolbox/Reference/SystemSoundServicesReference/Reference/reference.html)的精美Obj-C包装器 | [官网](https://jessesquires.github.io/JSQSystemSoundPlayer/) |
 | [ZFPlayer](https://github.com/renzifeng/ZFPlayer) | 支持定制任何播放器SDK和控制层 | [博客](https://www.jianshu.com/p/90e55deb4d51) |
 | [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) | ARKit的代码示例 |  |
-| [Live](https://github.com/ltebean/Live) | 一个直播应用程序，包含了iOS客户端和服务器 |  |
 | [iina](https://github.com/iina/iina) | 适用于macOS的现代视频播放器，基于[mpv](https://github.com/mpv-player/mpv). | [微博](https://iina.io) |
 | [mpv](https://github.com/mpv-player/mpv) | 命令行视频播放器 | [官网](https://mpv.io/) |
 | [Swift-MMP](https://github.com/johnlui/Swift-MMP) | 使用 Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器，简称 MMP。基于 [DOUAudioStreamer-Swift](https://github.com/johnlui/DOUAudioStreamer-Swift) |  |
@@ -747,14 +732,10 @@
 | [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣开源的基于Core Audio的流音频播放器 |  |
 | [PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer) | 一款基于iOS的轻量级音乐播放器，基于AudioKit | [博客](https://applikeysolutions.com/) |
 | [GDLiveStreaming](https://github.com/goodow/GDLiveStreaming) | 实时音频和视频直播库 |  |
-| [mumble](https://github.com/mumble-voip/mumble) | Mumble是在Qt和Opus之上编写的面向游戏玩家的语音聊天程序 | [官网](https://www.mumble.info/) |
 | [react-360](https://github.com/facebook/react-360) | 用于创建在您的Web浏览器中运行的交互式360体验的框架 | [官网](https://facebook.github.io/react-360) |
-| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio-免费和开源软件，用于实时流媒体和屏幕录制 | [官网](https://obsproject.com/) |
 | [howler.js](https://github.com/goldfire/howler.js) | [howler.js](https://howlerjs.com/)是现代网络的音频库。它默认为[Web Audio API](http://webaudio.github.io/web-audio-api/)，而后退为[HTML5 Audio](https://html.spec.whatwg.org/multipage/embedded-content.html#the-audio-element)。这使得在所有平台上使用JavaScript进行音频操作变得轻松可靠 |  |
 | [DDDKit](https://github.com/gsabran/DDDKit) | 可支持360个视频和图片。它被设计为通用3D库 |  |
 | [avcodec](https://github.com/ireader/avcodec) | 影音编码器/解码器/渲染器/播放器 |  |
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | [FFmpeg](https://ffmpeg.org/)用于处理多媒体内容（例如音频，视频，字幕和相关元数据）的库和工具的集合 ||
-| [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) | 这是一个Shell脚本，用于为iOS和tvOS应用程序构建FFmpeg库 |  |
 | [moviepy](https://github.com/Zulko/moviepy) | MoviePy（完整[文档](http://zulko.github.io/moviepy/)）是一个用于视频编辑的Python库：剪切，串联，标题插入，视频合成（也称为非线性编辑），视频处理以及自定义效果的创建。有关使用示例，请参见[图库](http://zulko.github.io/moviepy/gallery.html) |  |
 | [artoolkit5](https://github.com/artoolkit/artoolkit5) | ARToolKit v5.x |  ||
 | [XJTV](https://github.com/Paulpang/XJTV) | XJ直播是一款基于Swift3.0开发的直播平台,所有接口都是通过抓包工具获得,仅供学习和交流,不用于商业用途 |  |
@@ -768,14 +749,11 @@
 | [muplayer](https://github.com/Baidu-Music-FE/muplayer) | 百度音乐播放内核（不再维护） | [官网](https://886.enimo.cn/muplayer/doc/) |
 | [openwebrtc-examples](https://github.com/EricssonResearch/openwebrtc-examples) | 示例应用程序展示了如何使用OpenWebRTC ||
 | [DotGPUBeautyFilter](https://github.com/dotEngine/DotGPUBeautyFilter) | GUPImage脸部美容滤镜 |  |
-| [ios-live-sdk](https://github.com/upyun/ios-live-sdk) | UPYUN 直播 SDK。播放器、采集器、推流器统一集成，功能完备接口简练，可以快速安装使用。采集与音视频处理模块开源，灵活性强可以满足复杂定制需求 | [官网](http://docs.upyun.com/live/) |
 | [EasyPusher](https://github.com/EasyDarwin/EasyPusher) | 免费组件：简单、高效、稳定、免费的一款标准RTSP/RTP协议直播推送库，支持将H.264/H.265/G.711/G.726/AAC等音视频数据推送到RTSP流媒体服务器（例如EasyDarwin）进行低延时直播或者视频通信，支持Windows、Linux、ARM、Android、iOS等平台，EasyPusher配套EasyDarwin流媒体服务器、EasyPlayer RTSP播放器适用于特殊行业的低延时应急指挥需求！ [Android](https://github.com/EasyDarwin/EasyPusher-Android), [iOS](https://github.com/EasyDarwin/EasyPusher-iOS)|  |
 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | 高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡等 | [官网](http://www.easydarwin.org/) |
 | [srs](https://github.com/ossrs/srs) | 一个简单的流媒体直播集群 | [官网](https://ossrs.net/) |
-| [srs-librtmp](https://github.com/ossrs/srs-librtmp) | SRS的客户端库srs-librtmp ||
 | [ijkplayer](https://github.com/bilibili/ijkplayer) | 基于FFmpeg n3.4的Android/iOS视频播放器，带有MediaCodec，VideoToolbox支持 |  |
 | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 一种先进的工具，用于面部标志检测，头部姿势估计，面部动作单位识别和视线估计 |  |
-| [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) | iOS Live Kit，H264和AAC硬编码，支持GPUImage Beauty，rtmp传输，网络丢帧弱，动态切换率高 |  |
 | [vlc](https://github.com/videolan/vlc) | VLC是一种流行的自由和开源媒体播放器和多媒体引擎 |  |
 | [openh264](https://github.com/cisco/openh264) | [OpenH264](http://www.openh264.org/)是一个编解码器库，支持H.264编码和解码。它适用于WebRTC等实时应用程序 | |
 | [CocoaSplit](https://github.com/zakk4223/CocoaSplit) | 流/录制您的桌面/网络摄像头以抽搐/拥有等 |  |
@@ -783,7 +761,6 @@
 | [WMPlayer](https://github.com/zhengwenming/WMPlayer) | AVPlayer的封装，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放 ||
 | [AudioKit](https://github.com/AudioKit/AudioKit) | 适用于iOS，macOS和tvOS的音频合成，处理和分析平台 | [官网](http://audiokit.io/) |
 | [AWLive](https://github.com/hardman/AWLive) | 简单的iOS推流代码，视频捕获，软编码(faac，x264)，硬编码（aac，h264），横屏直播，美颜，flv编码，rtmp协议 | [博客](http://www.jianshu.com/u/1240d2400ca1) |
-| [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) | 🔥视频直播:仿腾讯旗下 < NOW > 直播 斗鱼 抖音 火山视频 花椒 熊猫 YY 陌陌 映客 直播APP ||
 | [Surround360](https://github.com/facebook/Surround360) | [Facebook](https://github.com/facebook)的开源硬件和软件，用于捕获VR的立体3D 360视频。该回购包含硬件设计以及用于相机控制和渲染的软件 |  |
 | [streamlink](https://github.com/streamlink/streamlink) | 用于从各种网站将流提取到您选择的视频播放器的CLI | [官网](https://streamlink.github.io/) |
 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | 命令行程序，用于从YouTube.com和其他视频网站下载视频 | [官网](http://ytdl-org.github.io/youtube-dl/) |
@@ -793,22 +770,14 @@
 | [BMPlayer](https://github.com/BrikerMan/BMPlayer) | 本项目是基于`AVPlayer`使用`Swift`封装的视频播放器，方便快速集成 | [官网](https://eliyar.biz/) |
 | [SGMediaKit](https://github.com/libobjc/SGMediaKit) | SGMediaKit是一个以视频，音频播放为核心的媒体资源处理框架 |  |
 | [AudioPlayer](https://github.com/delannoyk/AudioPlayer) | AudioPlayer是AVPlayer的语法和功能。它播放您的音频文件（本地和远程） |  |
-| [mumble](https://github.com/mumble-voip/mumble) | [Mumble](https://www.mumble.info/)是一款开源，低延迟，高质量的语音聊天软件，主要用于游戏时使用 |  |
-| [mumble-iphoneos](https://github.com/mumble-voip/mumble-iphoneos) | 适用于基于iOS的设备的[Mumble](https://www.mumble.info/)客户端，专注于游戏的社交语音聊天实用程序 ||
-| [mumblekit](https://github.com/mumble-voip/mumblekit) | 适用于iOS和Mac OS X的基于Objective-C的[Mumble](http://mumble-voip.github.com/mumblekit/)客户端框架，[Mumble](http://mumble.info/)是专注于游戏的社交语音聊天实用程序 ||
-| [libmumble](https://github.com/mumble-voip/libmumble) | libmumble是一种尝试编写用于实现[Mumble](http://mumble.info/)客户端的跨平台C ++库的尝试 ||
-| [mumble-releng](https://github.com/mumble-voip/mumble-releng) | [Mumble](http://mumble.info/)的一个发布引擎 |  |
-| [mumble-opus](https://github.com/mumble-voip/opus) | [Opus](https://github.com/xiph/opus)的git存储库的镜像 |  |
-| [mumo](https://github.com/mumble-voip/mumo) | [mumo](https://wiki.mumble.info/wiki/Mumo)是Mumble主持人框架，它简化了通过Ice连接到Mumble服务器的插件的开发。mumo处理基本的ICE连接，并包含基本的模块加载和消息多路复用 |  |
 | [grumble](https://github.com/mumble-voip/grumble) | 备用[Mumble](http://mumble.info/grumble)服务器 |  |
 | [Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro) | Swift Radio是一款开源广播电台应用程序，具有强大而专业的功能 |  |
 | [apprtc](https://github.com/webrtc/apprtc) | 基于[WebRTC](https://github.com/webrtc/)的视频聊天演示应用程序。该项目目前处于暂停状态，维护需求最少。[开发人员指南](https://docs.google.com/document/d/1tn1t6LW2ffzGuYTK3366w1fhTkkzsSvHsBnOHoDfRzY/edit?pli=1#heading=h.e3366rrgmkdk) |  |
 | [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) | **XCDYouTubeKit**是适用于iOS，tvOS和macOS的YouTube视频播放器 |  |
-| [gvr-ios-sdk](https://github.com/googlevr/gvr-ios-sdk) | 适用于iOS的[Google VR SDK](http://developers.google.com/vr/ios/)，有一个适用于iOS和Android NDK 的新开源[Cardboard SDK](https://developers.google.com/cardboard)，它提供了简化的API，改进的设备兼容性以及内置的查看器配置文件QR码扫描功能 |  |
+| [gvr-ios-sdk](https://github.com/googlevr/gvr-ios-sdk)| 适用于iOS的[Google VR SDK](http://developers.google.com/vr/ios/)，有一个适用于iOS和Android NDK 的新开源[Cardboard SDK](https://developers.google.com/cardboard)，它提供了简化的API，改进的设备兼容性以及内置的查看器配置文件QR码扫描功能 ||
 | [openwebrtc](https://github.com/EricssonResearch/openwebrtc) | 基于[GStreamer](http://gstreamer.freedesktop.org/)的跨平台WebRTC客户端框架 | [官网](http://www.openwebrtc.org/) |
 | [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) | VRDemo是用Swift3.0配合OpenGL ES实现的360度全景播放器，本Demo参考了[HTY360Player](https://github.com/hanton/HTY360Player)和[SGPlayer](https://github.com/libobjc/SGPlayer)的实现方式，并拆了一些功能类，简单的实现了播放器的大体功能 |  |
-| [HTY360Player](https://github.com/hanton/HTY360Player) | 开源iOS 360度全景视频播放器 | [App Store](https://itunes.apple.com/hk/app/360-vr-player/id1061464612?mt=8) |
-| [anyRTC-RTMP-OpenSource](https://github.com/anyRTC/anyRTC-RTMP-OpenSource) | RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android） | [官网](https://www.anyrtc.io/) |
+| [HTY360Player](https://github.com/hanton/HTY360Player) | 开源iOS 360度全景视频播放器 ||
 | [openHEVC](https://github.com/OpenHEVC/openHEVC) | HEVC解码器 | [官网](http://openhevc.github.io/openHEVC/) |
 | [FreeStreamer](https://github.com/muhku/FreeStreamer) | 适用于iOS和OS X的低内存占用的流式音频播放器 | [官网](http://muhku.github.io/FreeStreamer/) ||
 | [HysteriaPlayer](https://github.com/StreetVoice/HysteriaPlayer) | 有用的基本播放器功能 |  |
@@ -818,20 +787,15 @@
 | [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) | [WebRTC](https://www.webrtc-experiment.com/)，WebRTC和WebRTC。这里的一切都与WebRTC有关！！ |  |
 | [TBPlayer](https://github.com/suifengqjn/TBPlayer) | 视频边下边播播，把播放器播放过的数据流缓存到本地，支持重置。采用avplayer |  |
 | [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) | 一个基于GPUImage的实时面部美化的简单演示 |  |
-| [LFRtmp](https://github.com/liuf1986/LFRtmp) | 一个全开源的纯OC实现的RTMP推流SDK支持AAC、H264、美颜滤镜、AMF编解码 |  |
 | [LeanCloudLiveKit-iOS](https://github.com/leancloud/LeanCloudLiveKit-iOS) | LiveKit是一个专门为视频直播业务提供的一个UI组件，展示如何将[IM](https://github.com/leancloud/ChatKit-OC)模块添加到Live应用 |  |
 | [linke](https://github.com/stlndm/linke) | 本项目实现了一个作为一个直播App的基本功能，本地视频流采集，播放，美颜，礼物，点赞出心等。提供一个构造思路，很久没有更新了，望谅解！🤡 |  |
-| [StreamingKit](https://github.com/tumtumtum/StreamingKit) | 适用于iOS和Mac OSX的音频播放和流媒体库 |  |
 | [apple-tv](https://github.com/Auntie-Player/apple-tv) | 一个Apple TV应用程序，可从BBC访问点播节目 |  |
 | [IM_APP](https://github.com/zhuwensheng1987/IM_APP) | IOS视频聊天使用ffmpeg库crtmpserver作为中间转流服务器 |  |
 | [HLS-Demo](https://github.com/yangchao0033/HLS-Demo) | IOS HLS视频直播[样例](http://www.jianshu.com/p/8f99202ccb89) |  |
-| [rtmp_streamer_for_ios](https://github.com/Vbytes/rtmp_streamer_for_ios) | 推送h264,AAC rtmp 流到流媒体服务器，包含美颜算法和自适应码率，低延时 |  |
-| [librtmp-for-ipv6](https://github.com/zhenwu1981/librtmp-for-ipv6) | librtmp 运行在ipv6和ipv4的网络下 compile： ./build-librtmp.sh |  |
 | [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) | Android/IOS/WinPhone中的[ffmpeg示例](http://leixiaohua1020.github.com/) |  |
 | [MetalAcc](https://github.com/wangjwchn/MetalAcc) | 使用Swift编写的Metal的基于GPU的媒体处理库 |  |
 | [ScreenRecord](https://github.com/topws/ScreenRecord) | iOS 9.0 新增的接口，屏幕录制，游戏内声音录制，可以选择是否启用麦克风录入周边环境的声音 |  |
 | [DPFaceRecognition](https://github.com/dapiaowudi/DPFaceRecognition) | iOS人脸识别 |  |
-| [librtmpex](https://github.com/suxinde2009/librtmpex) | librtmp的改进版本 ||
 | [AudioUnitSample](https://github.com/StevenKuo/AudioUnitSample) | 使用remoteIO audioUnit播放流音频 |  |
 | [JSIMWebrtcOverMQTT](https://github.com/wenghengcong/JSIMWebrtcOverMQTT) | 利用MQTT当做共振通道，实现Webrtc的视频通话 |  |
 | [AppRTCDemo](https://github.com/YK-Unit/AppRTCDemo) | 用于iOS客户端演示的WebRTC。PS：它使用XMPP构建信令服务 |  |
@@ -839,14 +803,51 @@
 | [AudioUnitSample](https://github.com/leo-lp/AudioUnitSample-1) | RemoteIO和多通道混音器音频单元的用法示例 |  |
 | [douyuTV](https://github.com/xiaomaxuetu/douyuTV) | 实现了斗鱼TV直播视频的播放，播放器采用的是36氪的三方开源播放器,播放源是(Http Live streaming) |  |
 | [iOSEchoCancellation](https://github.com/lixing123/iOSEchoCancellation) | 具有/不具有回声消除功能的实时记录和播放示例 |  |
-| [rtmp-wrapper](https://github.com/minsikzzang/rtmp-wrapper) | 适用于iOS的librtmp包装器类 |  |
 | [ASScreenRecorder](https://github.com/alskipp/ASScreenRecorder) | 将iOS屏幕内容记录为.mp4视频文件 |  |
 | [Eleven](https://github.com/sinabio/Eleven) | 一个简单而强大的视频播放器。支持m4v，wmv，3gp，mp4，mov，avi，mkv，mpeg，mpg，flv，VOB格式，输入任何HTTP，RTSP，RTMP，RTP地址播放网络流媒体或直播.11个播放器使用ffmpeg |  |
-| [SkyRTC](https://github.com/LingyuCoder/SkyRTC) | 服务器端的webRTC库，用于在浏览器中建立实时通信 |  |
-| [SkyRTC-demo](https://github.com/LingyuCoder/SkyRTC-demo) | 一个使用[SkyRTC](https://github.com/LingyuCoder/SkyRTC)和[SkyRTC-client](https://github.com/LingyuCoder/SkyRTC-client)构建浏览器中音频，视频，文字聊天室的演示 |  |
 | [iOSP2PVideoStreaming](https://github.com/trentbrooks/iOSP2PVideoStreaming) | 具有OF前端的iOS设备之间的P2P视频流的各种测试/示例 |  |
 | [AirCame](https://github.com/chenliming777/AirCame) | 视频直播，先要配置red5服务器，通过rtmp流将h264数据与aac数据上传服务器，做到直播的效果 |  |
 | [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) | 将AR的高精度与GPS数据的规模相结合 ||
+| [回到顶部](#Indexes) | 描述 | 备注 |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio-免费和开源软件，用于实时流媒体和屏幕录制 | [官网](https://obsproject.com/) |
+| [GPUImage](https://github.com/BradLarson/GPUImage) | GPUImage框架是BSD许可的iOS库，可让您将GPU加速的滤镜和其他效果应用于图像，实时摄像机视频和电影 ||
+| [GPUImage2](https://github.com/BradLarson/GPUImage2) | GPUImage 2是[GPUImage框架](https://github.com/BradLarson/GPUImage)的第二代，这是一个开源项目，用于在Mac，iOS和现在的Linux上执行GPU加速的图像和视频处理。最初的GPUImage框架是用Objective-C编写的，并且针对Mac和iOS，但是此最新版本完全是用Swift编写的，也可以针对Linux和支持Swift代码的未来平台 |  |
+| [GPUImage3](https://github.com/BradLarson/GPUImage3) | 用于使用Metal进行GPU加速的视频和图像处理 ||
+| [SayHi](https://github.com/illuspas/SayHi) | 本地音频记录/播放（OpenSL ES）和speex编码/解码，由rtmp传输 |  |
+| [SayHey](https://github.com/illuspas/SayHey) | Rtmp协议speex编码网络音频聊天的iOS版 |  |
+| [kickflip-ios-example](https://github.com/Kickflip/kickflip-ios-example) | 集成[Kickflip iOS SDK](http://kickflip.io/)的示例项目，可实现超级便捷的直播 |  |
+| [kickflip-ios-sdk](https://github.com/Kickflip/kickflip-ios-sdk) | 该[Kickflip](http://kickflip.io/)平台为iOS应用程序的完整视频广播解决方案 |  ||
+| [SRTHaishinKit.swift](https://github.com/shogo4405/SRTHaishinKit.swift) | 通过SRT for iOS的摄像头和麦克风流媒体库 |  |
+| [Live](https://github.com/ltebean/Live) | 一个直播应用程序，包含了iOS客户端和服务器 |  |
+| [ios-live-sdk](https://github.com/upyun/ios-live-sdk) | UPYUN 直播 SDK。播放器、采集器、推流器统一集成，功能完备接口简练，可以快速安装使用。采集与音视频处理模块开源，灵活性强可以满足复杂定制需求 | [官网](http://docs.upyun.com/live/) |
+| [anyRTC-RTMP-OpenSource](https://github.com/anyRTC/anyRTC-RTMP-OpenSource) | RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android） | [官网](https://www.anyrtc.io/) |
+| [StreamingKit](https://github.com/tumtumtum/StreamingKit) | 适用于iOS和Mac OSX的音频播放和流媒体库 |  |
+| [SkyRTC](https://github.com/LingyuCoder/SkyRTC) | 服务器端的webRTC库，用于在浏览器中建立实时通信 |  |
+| [SkyRTC-demo](https://github.com/LingyuCoder/SkyRTC-demo) | 一个使用[SkyRTC](https://github.com/LingyuCoder/SkyRTC)和[SkyRTC-client](https://github.com/LingyuCoder/SkyRTC-client)构建浏览器中音频，视频，文字聊天室的演示 |  |
+| [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) | 通过RTMP，适用于iOS的HLS，macOS，tvOS的摄像头和麦克风流媒体库 |  |
+| [KSYLiveiOSSDK](https://github.com/xxfenxx/KSYLiveiOSSDK) | **KSYLiveSDK for iOS**是基于RTMP的推流器 |  |
+| [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) | IOS Live，H264和AAC硬编码，支持GPUImage Beauty，rtmp和flv传输，网络丢失帧弱，动态切换速率 |  |
+| [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) | 基于IOS的手机视频直播SDK |  |
+| [kxmovie](https://github.com/kolyvan/kxmovie) | 基于[FFmpeg](http://ffmpeg.org/index.html)的iOS电影播放器​​ |  |
+| [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) | iOS Live Kit，H264和AAC硬编码，支持GPUImage Beauty，rtmp传输，网络丢帧弱，动态切换率高 |  |
+| [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) | 🔥视频直播:仿腾讯旗下 < NOW > 直播 斗鱼 抖音 火山视频 花椒 熊猫 YY 陌陌 映客 直播APP ||
+| [srs-librtmp](https://github.com/ossrs/srs-librtmp) | SRS的客户端库srs-librtmp ||
+| [LFRtmp](https://github.com/liuf1986/LFRtmp) | 一个全开源的纯OC实现的RTMP推流SDK支持AAC、H264、美颜滤镜、AMF编解码 |  |
+| [librtmpex](https://github.com/suxinde2009/librtmpex) | librtmp的改进版本 ||
+| [rtmp-wrapper](https://github.com/minsikzzang/rtmp-wrapper) | 适用于iOS的librtmp包装器类 |  |
+| [librtmp-for-ipv6](https://github.com/zhenwu1981/librtmp-for-ipv6) | librtmp 运行在ipv6和ipv4的网络下 compile： ./build-librtmp.sh |  |
+| [rtmp_streamer_for_ios](https://github.com/Vbytes/rtmp_streamer_for_ios) | 推送h264,AAC rtmp 流到流媒体服务器，包含美颜算法和自适应码率，低延时 |  |
+| [pili-librtmp](https://github.com/pili-engineering/pili-librtmp) | [七牛云音视频客户端团队](https://github.com/pili-engineering)维护的一个rtmp协议库 ||
+| [mumble](https://github.com/mumble-voip/mumble) | Mumble是在Qt和Opus之上编写的面向游戏玩家的语音聊天程序 | [官网](https://www.mumble.info/) |
+| [mumble](https://github.com/mumble-voip/mumble) | [Mumble](https://www.mumble.info/)是一款开源，低延迟，高质量的语音聊天软件，主要用于游戏时使用 |  |
+| [mumble-iphoneos](https://github.com/mumble-voip/mumble-iphoneos) | 适用于基于iOS的设备的[Mumble](https://www.mumble.info/)客户端，专注于游戏的社交语音聊天实用程序 ||
+| [mumblekit](https://github.com/mumble-voip/mumblekit) | 适用于iOS和Mac OS X的基于Objective-C的[Mumble](http://mumble-voip.github.com/mumblekit/)客户端框架，[Mumble](http://mumble.info/)是专注于游戏的社交语音聊天实用程序 ||
+| [libmumble](https://github.com/mumble-voip/libmumble) | libmumble是一种尝试编写用于实现[Mumble](http://mumble.info/)客户端的跨平台C ++库的尝试 ||
+| [mumble-releng](https://github.com/mumble-voip/mumble-releng) | [Mumble](http://mumble.info/)的一个发布引擎 |  |
+| [mumble-opus](https://github.com/mumble-voip/opus) | [Opus](https://github.com/xiph/opus)的git存储库的镜像 |  |
+| [mumo](https://github.com/mumble-voip/mumo) | [mumo](https://wiki.mumble.info/wiki/Mumo)是Mumble主持人框架，它简化了通过Ice连接到Mumble服务器的插件的开发。mumo处理基本的ICE连接，并包含基本的模块加载和消息多路复用 |  |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | [FFmpeg](https://ffmpeg.org/)用于处理多媒体内容（例如音频，视频，字幕和相关元数据）的库和工具的集合 ||
+| [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) | 这是一个Shell脚本，用于为iOS和tvOS应用程序构建FFmpeg库 |  |
 
 ## <a name="优化/性能调优/ipa瘦身"></a>优化/性能调优/ipa瘦身
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -879,52 +880,52 @@
 ## <a name="HTTP/TCP/UDP"></a>HTTP/TCP/UDP/SMTP/XMPP等网络协议库
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
-| [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 适用于Mac和iOS的异步套接字网络库 | [wiki](https://github.com/robbiehanson/CocoaAsyncSocket/wiki) |
-| [Swift-SMTP](https://github.com/IBM-Swift/Swift-SMTP) | Swift SMTP邮件客户端 | |
-| [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) | Swift中用于Swiftfire Web服务器项目的套接字实用程序的集合 | [博客](http://swiftfire.nl/) |
-| [aurora-imui](https://github.com/jpush/aurora-imui) | 通用IM聊天UI组件，已经同时支持Android/iOS/RN ||
-| [SwiftAsnycSocket](https://github.com/chouheiwa/SwiftAsnycSocket) | Swift版的[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) ||
-| [GCDWebServer](https://github.com/swisspol/GCDWebServer) | 适用于iOS，macOS和tvOS的＃1 HTTP服务器（还包括基于Web的上传器和WebDAV服务器） ||
-| [swift-nio](https://github.com/apple/swift-nio) | 跨平台的异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端，类似于[Netty](https://netty.io/). | [官网](https://apple.github.io/swift-nio/) |
-| [grpc-swift](https://github.com/grpc/grpc-swift) | 基于gRPC-Core的gRPC Swift版 将很快被基于[SwiftNIO](https://github.com/apple/swift-nio)的重新实现所取代 ||
-| [swift-protobuf](https://github.com/apple/swift-protobuf) | Swift版protobuf ||
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Google的数据交换格式 | [官网](https://developers.google.com/protocol-buffers/) |
-| [grpc](https://github.com/grpc/grpc) | gRPC是一个现代的，开源的，高性能的远程过程调用（RPC）框架，可以在任何地方运行。gRPC使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建 | [官网](https://grpc.io) |
 | [Alamofire](https://github.com/Alamofire/Alamofire) | Swift中的优雅HTTP网络 |  |
+| [Moya](https://github.com/Moya/Moya) | 用Swift编写的网络抽象层 | [官网](https://moya.github.io/) |
+| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 一个适用于iOS，macOS，watchOS和tvOS的令人愉悦的网络库。它建立在[Foundation URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system)的基础上，扩展了Cocoa中内置的强大的高级网络抽象 | [官网](http://afnetworking.com/) |
+| [YTKNetwork](https://github.com/yuantiku/YTKNetwork) | 猿题库iOS研发团队基于[AFNetworking](https://github.com/AFNetworking/AFNetworking)封装的iOS网络库，其实现了一套High Level的API，提供了更高层次的网络访问抽象 |  |
+| [aurora-imui](https://github.com/jpush/aurora-imui) | 通用IM聊天UI组件，已经同时支持Android/iOS/RN ||
 | [phxrpc](https://github.com/Tencent/phxrpc) | PhxRPC是微信后台团队推出的一个非常简洁小巧的RPC框架，编译生成的库只有450K | [文档](https://github.com/Tencent/phxrpc/wiki) |
 | [dubbo](https://github.com/apache/dubbo) | Apache Dubbo是一个高性能的，基于Java的开源RPC框架 | [官网](http://dubbo.apache.org/) |
 | [swoole-src](https://github.com/swoole/swoole-src) | 一个为PHP用C和C++编写的基于事件的高性能异步&协程并行网络通信引擎 | [官网](https://www.swoole.com/) |
 | [tcpcopy](https://github.com/session-replay-tools/tcpcopy) | 在线请求复制工具，也是tcp流重播工具，适用于真实测试，性能测试，稳定性测试，压力测试，负载测试，冒烟测试等 ||
 | [tcpdive](https://github.com/fastos/tcpdive) | TCP性能分析工具 |  |
-| [SocketRocket](https://github.com/facebook/SocketRocket) | 符合标准的Objective-C WebSocket客户端库 |  |
-| [BlueSocket](https://github.com/IBM-Swift/BlueSocket) | [IBM](https://github.com/IBM-Swift)的使用Swift软件包管理器的Swift套接字框架。适用于iOS，macOS和Linux |  |
-| [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) | SwiftSocket库为服务器或客户端上基于套接字的连接提供了易于使用的接口。同时支持TCP和UDP套接字 |  |
 | [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) | 适用于Mac和iOS的Objective-C中的XMPP框架 |  |
-| [socket.io](https://github.com/socketio/socket.io) | 实时应用程序框架（Node.JS服务器） | [官网](http://socket.io/) |
-| [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) | 适用于iOS/OS X的Socket.IO客户端 |  |
 | [Hedwig](https://github.com/onevcat/Hedwig) | Hedwig是一个Swift软件包，它提供了一组高级API，使您可以轻松地将电子邮件发送到SMTP服务器 |  |
 | [pomelo-ioschat](https://github.com/NetEase/pomelo-ioschat) | Pomelo [iOS客户端](https://github.com/NetEase/pomelo-iosclient)的聊天演示[服务器](https://github.com/NetEase/chatofpomelo) |  |
-| [Moya](https://github.com/Moya/Moya) | 用Swift编写的网络抽象层 | [官网](https://moya.github.io/) |
-| [sockets](https://github.com/vapor-community/sockets) | 🔌 非阻塞TCP套接字层，具有事件驱动的服务器和客户端 |  |
 | [NEKit](https://github.com/zhuhaow/NEKit) | 网络扩展框架的工具包。下一代[libnekit](https://github.com/zhuhaow/libnekit) | [官网](https://zhuhaow.github.io/NEKit) |
-| [fastsocket](https://github.com/fastos/fastsocket) | Fastsocket是一个高度可扩展的套接字及其Linux内核的基础网络实现。凭借直线线性可扩展性，Fastsocket可以在多核计算机中提供出色的性能。此外，它非常易于使用和维护。结果，它已经被部署在新浪的生产环境中 |  |
 | [ChatKit-OC](https://github.com/leancloud/ChatKit-OC) | LeanCloud OC SDK ||
 | [swift-sdk](https://github.com/leancloud/swift-sdk) | LeanCloud Swift SDK | [demo](https://github.com/leancloud/swift-sdk-demo) |
-| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 一个适用于iOS，macOS，watchOS和tvOS的令人愉悦的网络库。它建立在[Foundation URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system)的基础上，扩展了Cocoa中内置的强大的高级网络抽象 | [官网](http://afnetworking.com/) |
-| [YTKNetwork](https://github.com/yuantiku/YTKNetwork) | 猿题库iOS研发团队基于[AFNetworking](https://github.com/AFNetworking/AFNetworking)封装的iOS网络库，其实现了一套High Level的API，提供了更高层次的网络访问抽象 |  |
 | [Starscream](https://github.com/daltoniam/Starscream) | Swift中符合标准的WebSocket（[RFC 6455](http://tools.ietf.org/html/rfc6455)）库 |  |
 | [RealReachability](https://github.com/dustturtle/RealReachability) | 网络实时监控 |  |
-| [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) | 适用于iOS和Mac OSX的符合WebSocket（[RFC 6455](https://tools.ietf.org/html/rfc6455)）客户端库 |  |
-| [go-socket.io](https://github.com/googollee/go-socket.io) | go-socket.io是Golang中[Socket.IO](http://socket.io/) 的实现，[Golang](http://socket.io/)是一个实时应用程序框架 |  |
 | [kcp](https://github.com/skywind3000/kcp) | KCP是一个快速可靠协议，能以比 TCP浪费10%-20%的带宽的代价，换取平均延迟降低 30%-40%，且最大延迟降低三倍的传输效果 |  |
-| [socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) | Socket.IO客户端的C ++ 11实现 |  |
 | [Reachability](https://github.com/tonymillion/Reachability) | 适用于iOS和MacOS的ARC和GCD兼容可达性类。替代苹果可及性 |  |
 | [Reachability.swift](https://github.com/ashleymills/Reachability.swift) |替代了Apple的Reachability示例，该示例在Swift中使用闭包进行了重写 |  |
 | [SGWiFiUpload](https://github.com/Soulghost/SGWiFiUpload) | 通过WiFi上传文件。通过WiFi上传文件 |  |
-| [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) | 适用于Mac OS X或iOS应用程序的小型，轻巧，可嵌入式HTTP服务器 |  |
 | [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 可以调用114等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的主机域名配置 |  |
 | [pomelo-iosclient](https://github.com/NetEase/pomelo-iosclient) | 网易[Pomelo](https://github.com/NetEase/pomelo)的iOS客户端库 |  |
 | [HTTPDNS-Swift](https://github.com/yourtion/HTTPDNS-Swift) | HTTPDNS库Swift实现，支持DNSPod，AliYunDNS，Google等 | [Pods](http://cocoapods.org/pods/HTTPDNS-Swift) |
+| [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) | 适用于Mac OS X或iOS应用程序的小型，轻巧，可嵌入式HTTP服务器 |  |
+| [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 适用于Mac和iOS的异步套接字网络库 | [wiki](https://github.com/robbiehanson/CocoaAsyncSocket/wiki) |
+| [SwiftAsnycSocket](https://github.com/chouheiwa/SwiftAsnycSocket) | Swift版的[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) ||
+| [swift-nio](https://github.com/apple/swift-nio) | 跨平台的异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端，类似于[Netty](https://netty.io/). | [官网](https://apple.github.io/swift-nio/) |
+| [grpc-swift](https://github.com/grpc/grpc-swift) | 基于gRPC-Core的gRPC Swift版 将很快被基于[SwiftNIO](https://github.com/apple/swift-nio)的重新实现所取代 ||
+| [grpc](https://github.com/grpc/grpc) | gRPC是一个现代的，开源的，高性能的远程过程调用（RPC）框架，可以在任何地方运行。gRPC使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建 | [官网](https://grpc.io) |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Google的数据交换格式 | [官网](https://developers.google.com/protocol-buffers/) |
+| [swift-protobuf](https://github.com/apple/swift-protobuf) | Swift版protobuf ||
+| [SocketRocket](https://github.com/facebook/SocketRocket) | 符合标准的Objective-C WebSocket客户端库 |  |
+| [BlueSocket](https://github.com/IBM-Swift/BlueSocket) | [IBM](https://github.com/IBM-Swift)的使用Swift软件包管理器的Swift套接字框架。适用于iOS，macOS和Linux |  |
+| [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) | SwiftSocket库为服务器或客户端上基于套接字的连接提供了易于使用的接口。同时支持TCP和UDP套接字 |  |
+| [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) | Swift中用于Swiftfire Web服务器项目的套接字实用程序的集合 | [博客](http://swiftfire.nl/) |
+| [GCDWebServer](https://github.com/swisspol/GCDWebServer) | 适用于iOS，macOS和tvOS的＃1 HTTP服务器（还包括基于Web的上传器和WebDAV服务器） ||
+| [socket.io](https://github.com/socketio/socket.io) | 实时应用程序框架（Node.JS服务器） | [官网](http://socket.io/) |
+| [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) | 适用于iOS/OS X的Socket.IO客户端 |  |
+| [fastsocket](https://github.com/fastos/fastsocket) | Fastsocket是一个高度可扩展的套接字及其Linux内核的基础网络实现。凭借直线线性可扩展性，Fastsocket可以在多核计算机中提供出色的性能。此外，它非常易于使用和维护。结果，它已经被部署在新浪的生产环境中 |  |
+| [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) | 适用于iOS和Mac OSX的符合WebSocket（[RFC 6455](https://tools.ietf.org/html/rfc6455)）客户端库 |  |
+| [go-socket.io](https://github.com/googollee/go-socket.io) | go-socket.io是Golang中[Socket.IO](http://socket.io/) 的实现，[Golang](http://socket.io/)是一个实时应用程序框架 |  |
+| [socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp) | Socket.IO客户端的C ++ 11实现 |  |
+| [sockets](https://github.com/vapor-community/sockets) | 🔌 非阻塞TCP套接字层，具有事件驱动的服务器和客户端 |  |
+| [Swift-SMTP](https://github.com/IBM-Swift/Swift-SMTP) | Swift SMTP邮件客户端 | |
 
 ## <a name="日志收集"></a>日志收集
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -947,7 +948,7 @@
 | [lottie-ios](https://github.com/airbnb/lottie-ios) | 一个iOS库，用于原生渲染After Effects矢量动画 | [官网](http://airbnb.io/lottie/) |
 | [lottie-android](https://github.com/airbnb/lottie-android) | 在Android和iOS，Web和React Native上本地渲染After Effects动画 | [官网](http://airbnb.io/lottie/) |
 | [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) | 宝宝特效 AiyaEffectsSDK 涵盖Android、iOS两个平台，基于自主研发的人脸识别模块，作为一款动态贴纸和动画特效高效渲染的解决方案 | [官网](http://www.aiyaapp.com/product/bbtx) |
-| [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) | SpriteKit粒子动画播放器 | 使用Xcode的内置[“粒子发射器”编辑器](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-particle_emitter/Introduction/Introduction.html)，ParticlesLoadingView您可以创建自己的惊人SpriteKit粒子动画，如下图所示。继续并通过执行File创建自己的粒子动画➡️ 新文件 ➡️ iOS资源 ➡️ SpriteKit粒子文件 |
+| [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) | SpriteKit粒子动画播放器 ||
 | [Gifu](https://github.com/kaishin/Gifu) | Gifu向UIKit添加了基于协议，性能感知的动画GIF支持 |  |
 
 ## <a name="主题DarkMode"></a>主题（Dark Mode）
@@ -955,6 +956,11 @@
 | :--- | :--- | :--- |
 | [DKNightVersion](https://github.com/draveness/DKNightVersion) | 管理色彩、整合白天/夜间多个主题 |  |
 | [SwiftTheme](https://github.com/wxxsw/SwiftTheme) | iOS 8+ 主题/换肤, 暗色模式 ||
+| [JXTheme](https://github.com/pujiaxin33/JXTheme) | 主题、换肤、暗黑模式 ||
+| [QMUITheme](https://github.com/Tencent/QMUI_iOS/tree/master/QMUIKit/QMUIComponents/QMUITheme) | 使用 QMUITheme 实现换肤并适配 iOS 13 Dark Mode ||
+| [Gestalt](https://github.com/regexident/Gestalt) | 一款轻巧的iOS应用主题库，支持动画主题切换 ||
+| [LEETheme](https://github.com/lixiang1994/LEETheme) | 优雅的主题管理库- 一行代码完成多样式切换 ||
+| [NightNight](https://github.com/draveness/NightNight) | 将夜间模式集成到快速项目的优雅方式 ||
 
 ## <a name="SwiftUI"></a>SwiftUI
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -973,7 +979,7 @@
 | [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) | 以设计师的身份构建[Swift App](http://designcode.io/) |  |
 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | Youtube iOS模板由[Haik Aslanyan](https://twitter.com/aslanyanhaik)开发并用Swift 3编写 |  |
 | [stackedit](https://github.com/benweet/stackedit) | 浏览器内Markdown[编辑器](https://stackedit.io/) | |
-| [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) | 该存储库包含[GitBucket](https://itunes.apple.com/cn/app/id961330940?mt=8) iOS应用程序的源代码。它是GitHub的移动客户端应用程序，使用[MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel)架构模式和一些很棒的框架（例如[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)，[Mantle](https://github.com/MantleFramework/Mantle)，[octokit.objc](https://github.com/octokit/octokit.objc)等）进行[构建](https://github.com/octokit/octokit.objc)。您可以免费将其用于任何目的 |  |
+| [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) | 该存储库包含GitBucket iOS应用程序的源代码。它是GitHub的移动客户端应用程序，使用[MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel)架构模式和一些很棒的框架（例如[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)，[Mantle](https://github.com/MantleFramework/Mantle)，[octokit.objc](https://github.com/octokit/octokit.objc)等）进行[构建](https://github.com/octokit/octokit.objc)。您可以免费将其用于任何目的 |  |
 | [GitHawk](https://github.com/GitHawkApp/GitHawk) | 适用于GitHub的最佳iOS应用 | [官网](http://githawk.com) |
 | [iSparta](https://github.com/iSparta/iSparta) | APNG，WebP转换器 | [官网](http://isparta.github.io/) |
 | [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) | 这是[TinyPNG](https://tinypng.com/)的Mac客户端。TinyPNG提供了PNG图片的有损压缩服务。使用TinyPNG4Mac，你可以通过简单的拖拽完成对PNG图片的压缩，无需打开浏览器，无需手动下载图片 ||
@@ -987,7 +993,7 @@
 | [atom](https://github.com/atom/atom) | 可入侵的文本编辑器 | [官网](https://atom.io) |
 | [electron](https://github.com/electron/electron) | Electron框架使您可以使用JavaScript，HTML和CSS编写跨平台的桌面应用程序 | [官网](https://electronjs.org/) |
 | [ios-oss](https://github.com/kickstarter/ios-oss) | 适用于iOS的Kickstarter。随时随地将新想法带入生活 | [官网](https://www.kickstarter.com/mobile) |
-| [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 适用于iOS的Firefox | 在[App Store](https://itunes.apple.com/app/firefox-web-browser/id989804926)上下载 ||
+| [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 适用于iOS的Firefox | |
 | [m-cli](https://github.com/rgcr/m-cli) | MacOS命令行工具 |  |
 | [echo](https://github.com/labstack/echo) | 高性能，简约的Go Web框架 | [官网](https://echo.labstack.com/) |
 | [vim-go](https://github.com/fatih/vim-go) | Go Vim开发插件 | [官网](https://www.patreon.com/bhcleek) |
@@ -995,12 +1001,12 @@
 | [U17](https://github.com/spicyShrimp/U17) | 精仿有妖气漫画 |  |
 | [editor.md](https://github.com/pandao/editor.md) | 基于CodeMirror和jQuery＆Marked的开源可嵌入在线降价编辑器（组件） | [官网](http://editor.md.ipandao.com/) |
 | [ofodemo](https://github.com/yagamis/ofodemo) | 仿ofo小黄车的iOS版本源码,教学视频请见[小波说雨燕](http://www.xiaoboswift.com/) |  |
-| [Celluloid](https://github.com/100mango/Celluloid) | 照片扩展程序 | [App Store](https://itunes.apple.com/app/celluloid/id1124966798) |
+| [Celluloid](https://github.com/100mango/Celluloid) | 照片扩展程序 ||
 | [brew](https://github.com/Homebrew/brew) | MacOS下软件包管理器 | [官网](https://brew.sh/) |
 | [CocoaPods](https://github.com/CocoaPods/CocoaPods) | CocoaPods管理Xcode项目的依赖关系 | [官网](https://cocoapods.org/) |
 | [Carthage](https://github.com/Carthage/Carthage) | 一个简单，分散的Cocoa依赖性经理 |  |
-| [LyricsX](https://github.com/ddddxxx/LyricsX) | 🎶 iTunes，Spotify，Vox和Audirvana Plus的歌词 | [Mac App Store](https://itunes.apple.com/us/app/lyricsx/id1254743014?mt=12) |
-| [TSWeChat](https://github.com/hilen/TSWeChat) | 一种[微信](https://itunes.apple.com/cn/app/wei/id414478124)替代品，已更新为Swift5 |  |
+| [LyricsX](https://github.com/ddddxxx/LyricsX) | 🎶 iTunes，Spotify，Vox和Audirvana Plus的歌词 ||
+| [TSWeChat](https://github.com/hilen/TSWeChat) | 一种微信替代品，已更新为Swift5 |  |
 | [Tars](https://github.com/TarsCloud/Tars) | Tars是腾讯从2008年到今天一直在使用的后台逻辑层的统一应用框架TAF（Total Application Framework），目前支持C++,Java,PHP,Nodejs,Go语言。该框架为用户提供了涉及到开发、运维、以及测试的一整套解决方案，帮助一个产品或者服务快速开发、部署、测试、上线。 它集可扩展协议编解码、高性能RPC通信框架、名字路由与发现、发布监控、日志统计、配置管理等于一体，通过它可以快速用微服务的方式构建自己的稳定可靠的分布式应用，并实现完整有效的服务治理 ||
 | [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) | 百度FM ||
 | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | ShadowsocksX软件 ||
@@ -1012,11 +1018,11 @@
 | [vscode](https://github.com/microsoft/vscode) | 该存储库（“Code-OSS”）是我们（Microsoft）开发[Visual Studio Code](https://code.visualstudio.com/)产品的地方 |  |
 | [git](https://github.com/git/git) | Git是一种快速，可扩展的分布式修订版本控制系统，具有异常丰富的命令集，该命令集提供高级操作和对内部组件的完全访问权限 |  |
 | [hhvm](https://github.com/facebook/hhvm) | 用于执行用Hack编写的程序的虚拟机 | [官网](https://hhvm.com/) |
-| [Signal-iOS](https://github.com/signalapp/Signal-iOS) | Signal是一个免费的开源消息应用程序，用于与朋友进行简单的私人通信。也可以在[Android](https://github.com/signalapp/signal-android)和[Desktop](https://github.com/signalapp/signal-desktop)上使用 | [App Store](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) |
+| [Signal-iOS](https://github.com/signalapp/Signal-iOS) | Signal是一个免费的开源消息应用程序，用于与朋友进行简单的私人通信。也可以在[Android](https://github.com/signalapp/signal-android)和[Desktop](https://github.com/signalapp/signal-desktop)上使用 ||
 | [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) | 高仿Bilibili客户端 - ( ゜- ゜)つロ 乾杯~ |  |
 | [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) | 🎶将Google Play音乐变成与Mac集成的独立，精美的应用程序 |  |
-| [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) | [ChatSecure](https://chatsecure.org/)是用于iOS 的免费开放源代码[XMPP](https://en.wikipedia.org/wiki/XMPP)消息客户端，它集成了[OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)和[OMEMO](https://en.wikipedia.org/wiki/OMEMO)加密消息传递支持，并具有可选的集成支持，以支持通过[Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network))网络的连接 | [App Store](https://itunes.apple.com/us/app/chatsecure/id464200063) |
-| [breadwallet-ios](https://github.com/voisine/breadwallet-ios) | 比特币钱包 | [官网](http://breadapp.com/)，[App Store](https://itunes.apple.com/app/breadwallet/id885251393) |
+| [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) | [ChatSecure](https://chatsecure.org/)是用于iOS 的免费开放源代码[XMPP](https://en.wikipedia.org/wiki/XMPP)消息客户端，它集成了[OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)和[OMEMO](https://en.wikipedia.org/wiki/OMEMO)加密消息传递支持，并具有可选的集成支持，以支持通过[Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network))网络的连接 ||
+| [breadwallet-ios](https://github.com/voisine/breadwallet-ios) | 比特币钱包 | [官网](http://breadapp.com/) |
 | [vim](https://github.com/vim/vim) | Vim是旧的UNIX编辑器Vi的大大改进版本。添加了许多新功能：多级撤消，语法突出显示，命令行历史记录，在线帮助，拼写检查，文件名完成，块操作，脚本语言等。还提供了图形用户界面（GUI） |  |
 | [JSONExport](https://github.com/Ahmed-Ali/JSONExport) | Mac OS X的桌面应用程序，它使您能够使用自己喜欢的语言将JSON对象作为关联的构造函数，实用程序方法，setter和getter导出为模型类 ||
 | [Aerial](https://github.com/JohnCoates/Aerial) | Aero是基于新Apple TV屏幕保护程序的Mac屏幕保护程序，可显示Apple在纽约，旧金山，夏威夷，中国等地拍摄的空中电影 |  |
@@ -1071,12 +1077,12 @@
 | [awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) | 精选的iOS动画精选，包括Objective-C和Swift库 ||
 | [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) | 精选的ARKit项目和资源的精选清单。随时贡献！ ||
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 收集了各种类别非常好用的Mac应用程序、软件以及工具 | [官网](https://git.io/macx) |
-| [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) | Core ML的最大型号列表（适用于iOS 11+） | [官方文件](https://developer.apple.com/documentation/coreml) |
+| [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) | Core ML的最大型号列表（适用于iOS 11+） | [官网](https://developer.apple.com/documentation/coreml) |
 | [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) | ☔️iOS动画库的集合 | [官网](https://onmyway133.github.io/) |
 | [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) | iOS 11 新API的代码示例 ||
 | [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) | iOS 10 新API的代码示例 ||
 | [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) | iOS9适应系列教程 |  |
-| [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架 | [博客](http://tools.stanzhai.site/)，[GitBook](https://thonatos.gitbooks.io/be-a-professional-programmer/)版本 |
+| [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架.[GitBook](https://thonatos.gitbooks.io/be-a-professional-programmer/) | [博客](http://tools.stanzhai.site/) |
 | [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) | Facebook开源的Parse源码分析【系列】 ||
 | [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》。[英文原版在线版](https://docs.swift.org/swift-book/) | [gitbook](https://swiftgg.gitbook.io/swift/) |
 | [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) | 30个迷你Swift应用程序供自学 ||
@@ -1117,7 +1123,7 @@
 | [gold-miner](https://github.com/xitu/gold-miner) | [掘金翻译计划](https://juejin.im/tag/%E6%8E%98%E9%87%91%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92)是一个翻译优质互联网技术文章的社区，文章来源为 [掘金](https://juejin.im/) 上的英文分享文章。内容覆盖[区块链](https://github.com/xitu/gold-miner#%E5%8C%BA%E5%9D%97%E9%93%BE)、[人工智能](https://github.com/xitu/gold-miner#ai--deep-learning--machine-learning)、[Android](https://github.com/xitu/gold-miner#android)、[iOS](https://github.com/xitu/gold-miner#ios)、[前端](https://github.com/xitu/gold-miner#%E5%89%8D%E7%AB%AF)、[后端](https://github.com/xitu/gold-miner#%E5%90%8E%E7%AB%AF)、[设计](https://github.com/xitu/gold-miner#%E8%AE%BE%E8%AE%A1)、[产品](https://github.com/xitu/gold-miner#%E4%BA%A7%E5%93%81)和[其他](https://github.com/xitu/gold-miner#%E5%85%B6%E4%BB%96) 等领域，以及各大型优质 [官方文档及手册](https://github.com/xitu/gold-miner#%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E5%8F%8A%E6%89%8B%E5%86%8C)，读者为热爱新技术的新锐开发者 ||
 | [p3c](https://github.com/alibaba/p3c) | 阿里巴巴Java编码指南pmd实现和IDE插件 | [wiki](https://github.com/alibaba/p3c/wiki) |
 | [material-components-ios](https://github.com/material-components/material-components-ios) | iOS的材料组件（MDC-iOS）可帮助开发人员执行[材料设计](https://material.io/)。这些组件由Google的工程师和UX设计师的核心团队开发，可实现可靠的开发工作流程，以构建美观实用的iOS应用。[在Material Design Platform Adaptation指南中](https://material.io/guidelines/platforms/platform-adaptation.html)了解有关iOS的Material Components如何支持跨平台的设计和可用性最佳实践的更多信息 ||
-| [jekyll-now](https://github.com/barryclark/jekyll-now) | 在几分钟之内建立一个Jekyll博客，而无需触摸命令行 | [Jekyll](https://github.com/jekyll/jekyll)是一个静态站点生成器，非常适合GitHub托管的博客 |
+| [jekyll-now](https://github.com/barryclark/jekyll-now) | 在几分钟之内建立一个Jekyll博客，而无需触摸命令行；[Jekyll](https://github.com/jekyll/jekyll)是一个静态站点生成器，非常适合GitHub托管的博客 | |
 | [hexo](https://github.com/hexojs/hexo) | 一个由[Node.js](https://nodejs.org/)支持的快速，简单且功能强大的博客框架 ||
 | [startbootstrap](https://github.com/BlackrockDigital/startbootstrap) | 一个免费和开源的[Bootstrap](http://getbootstrap.com/)主题和模板库 | [官网](https://startbootstrap.com/) |
 | [jekyll](https://github.com/jekyll/jekyll) | 一个简单的可识别博客的静态网站生成器，非常适合个人，项目或组织网站 | [官网](https://jekyllrb.com/) |
