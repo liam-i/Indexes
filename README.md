@@ -56,7 +56,7 @@
 ## <a name="控件"></a> 控件
 
 ### <a name="控件-page"></a> Page
-| [回到顶部](#Indexes) | 描述 |
+| **[回到顶部](#Indexes)** | 描述 |
 | :--- | :--- |
 
 ### <a name="控件-hud"></a> HUD
@@ -84,7 +84,7 @@
 ### <a name="控件-collectionView"></a> CollectionView
 | [回到顶部](#Indexes) | 描述 |
 | :--- | :--- |
-| [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) | CollectionView做的两级菜单，可以折叠第二级菜单 | 
+| [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) | `CollectionView`做的两级菜单，可以折叠第二级菜单 | 
 
 ### <a name="控件-refreshControl"></a> RefreshControl
 | [回到顶部](#Indexes) | 描述 |
