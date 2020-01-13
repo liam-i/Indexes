@@ -455,6 +455,7 @@
 | [Hue](https://github.com/zenangst/Hue) | 🎨色相是您永远需要的多功能着色工具 ||
 | [WechatKit](https://github.com/Xinguang/WechatKit) | 一种快速实现微信第三方登录的框架 | [文档](https://xinguang.github.io/WechatKit) |
 | [Hodor](https://github.com/Aufree/Hodor) | Hodor 是一套可让你的应用快速支持**本地化**的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信 |  |
+| [Guide-to-Swift-Strings-Sample-Code](https://github.com/Flight-School/Guide-to-Swift-Strings-Sample-Code) | 该存储库包含《[飞行学校Swift字符串指南](https://flight.school/books/strings)》中使用的示例代码 |  |
 | [Unicoder4Mac](https://github.com/gifjoke/Unicoder4Mac) | Swift实现，Mac端字符串编码、解码小工具 | [官网](http://unicoder.cn/) |
 | [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) | 一个非常容易使用的蓝牙库,适用于ios和os |  |
 | [PromiseKit](https://github.com/mxcl/PromiseKit) | Promises简化了异步编程，使您可以腾出时间专注于更重要的事情。它们易于学习，易于掌握，并且代码更清晰，可读性更好 ||
