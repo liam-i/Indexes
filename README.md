@@ -82,6 +82,7 @@
 | [YYKit](https://github.com/ibireme/YYKit) | [ibireme](https://blog.ibireme.com/)大神的iOS组件的集合 |  |
 | [FSCalendar](https://github.com/WenchaoD/FSCalendar) | 完全可定制的iOS日历库，与Objective-C和Swift兼容 |  |
 | [CVCalendar](https://github.com/CVCalendar/CVCalendar) | 可自定义日历控件 ||
+| [DateScrollPicker](https://github.com/alberdev/DateScrollPicker) | 一个完全可自定义的日期视图，该日历包含无限日期单元格和动画选择的集合，您可以使用自己的字体和颜色来自定义 ||
 | [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) | iOS7样式取代UISwitch ||
 | [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch) | 在Swift 2.0中开发的Runkeeper设计开关控件（两部分控件） ||
 | [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) | IASK是一个开放源代码解决方案，可轻松将应用程序内设置添加到您的iPhone应用程序 |  |
@@ -166,8 +167,9 @@
 | :--- | :--- | :--- |
 | [Interpolate](https://github.com/marmelroy/Interpolate) | App启动引导框架 ||
 | [BWWalkthrough](https://github.com/ariok/BWWalkthrough) | App启动引导组件 ||
-| [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) | 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad |  |
-| [JazzHands](https://github.com/IFTTT/JazzHands) | 一个简单的基于关键帧的UIKit动画框架。非常适合滚动应用介绍 |  |
+| [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) | 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad ||
+| [JazzHands](https://github.com/IFTTT/JazzHands) | 一个简单的基于关键帧的UIKit动画框架。非常适合滚动应用介绍 ||
+| [liquid-swipe](https://github.com/Cuberto/liquid-swipe) | 一种易于使用的滑动容器控件，可在您的应用程序中使用-例如，用于首次运行的教程 ||
 
 ### <a name="控件-侧滑菜单"></a> 侧滑菜单
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -332,6 +334,7 @@
 ### <a name="控件-转场动画"></a> 转场动画
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [FloatingPanel](https://github.com/SCENEE/FloatingPanel) | 适用于 iOS 应用程序（如Apple Maps）的干净轻巧的浮动面板UI ||
 | [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) | iOS7动画控制器和交互控制器的集合，提供翻转，折叠和各种其他过渡 |  |
 | [BubbleTransition](https://github.com/andreamazz/BubbleTransition) | 一个自定义的模态过渡，用于呈现和消除具有扩展气泡效果的控制器 |  |
 | [Hero](https://github.com/HeroTransitions/Hero) | 用于构建iOS视图控制器过渡的库。它在UIKit繁琐的过渡API之上提供了一个声明性层-使自定义过渡对于开发人员而言是一项轻松的任务 | [博客](http://lkzhao.com/2016/12/28/hero.html) |
@@ -400,6 +403,7 @@
 ## <a name="组件"></a>组件
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) | 一个完全由Swift 5.0制作的轻量级iOS库，用于解析、格式化和验证国际电话号码 ||
 | [M13OrderedDictionary](https://github.com/Marxon13/M13OrderedDictionary) |  NSArray和NSDictionary之间的交叉。它包含对象和键的有序列表 ||
 | [OrderedDictionary](https://github.com/nicklockwood/OrderedDictionary) | OC中**有序字典**数据结构 ||
 | [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) | Swift中**有序字典**数据结构的轻量级实现 |  |
@@ -514,7 +518,8 @@
 | [glm](https://github.com/g-truc/glm) | [OpenGL Mathematics](http://glm.g-truc.net/)（GLM）是基于[OpenGL Shading Language（GLSL）规范](https://www.opengl.org/registry/doc/GLSLangSpec.4.50.diff.pdf)的图形软件的仅头C ++数学库 ||
 | [GitUp](https://github.com/git-up/GitUp) | 快速，安全，无头痛地工作。您一生都想念的[Git界面](http://gitup.co/)终于来了 |  |
 | [SwiftMoment](https://github.com/akosma/SwiftMoment) | 一时间和日历处理库的iOS 9+，MACOS 10.11+，tvOS 9+，watchOS 2+ | [官网](http://akosma.github.io/SwiftMoment) |
-| [Surge](https://github.com/Jounce/Surge) | 一个使用Accelerate框架的Swift库，为矩阵数学，数字信号处理和图像处理提供高性能的功能 |  |
+| [Surge](https://github.com/Jounce/Surge) | 一个使用Accelerate框架的Swift库，为矩阵数学，数字信号处理和图像处理提供高性能的功能 ||
+| [PostalCodeValidator](https://github.com/FormatterKit/PostalCodeValidator) | 支持200多个地区的邮政编码的验证器 ||
 | [google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) | 该库由Google编写，是用于访问JSON API的灵活高效的Objective-C框架 |  |
 | [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) | 使用这个Docker镜像快速搭建IPsec VPN服务器。支持`IPsec/L2TP`和`Cisco IPsec`协议 ||
 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 在Ubuntu，Debian和CentOS上使用IPsec / L2TP和Cisco IPsec来构建自己的IPsec VPN服务器的脚本 ||
@@ -975,12 +980,13 @@
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
 | [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 ||
-| [py12306](https://github.com/pjialin/py12306) | 🚂12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 ||
-| [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) | 炉火餐饮系统 iPad 点餐端 |  |
-| [kityminder](https://github.com/fex-team/kityminder) | [百度脑图](http://naotu.baidu.com/) |  |
+| [py12306](https://github.com/pjialin/py12306) | 🚂12306 购票助手，支持集群，多账号，多任务购票以及Web页面管理 ||
+| [easy12306](https://github.com/zhaipro/easy12306) | 使用机器学习算法完成对12306验证码的自动识别 ||
+| [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) | 炉火餐饮系统 iPad 点餐端 ||
+| [kityminder](https://github.com/fex-team/kityminder) | [百度脑图](http://naotu.baidu.com/) ||
 | [SwiftHN](https://github.com/Dimillian/SwiftHN) | Swift中的Hacker News阅读器 ||
 | [JokeClient-Swift](https://github.com/YANGReal/JokeClient-Swift) | 用糗事百科的API简单做成一个糗百客户端，可以浏览各种段子，浏览搞笑图片，查看精彩评论等 ||
-| [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) | 以设计师的身份构建[Swift App](http://designcode.io/) |  |
+| [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) | 以设计师的身份构建[Swift App](http://designcode.io/) ||
 | [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS) | Youtube iOS模板由[Haik Aslanyan](https://twitter.com/aslanyanhaik)开发并用Swift 3编写 |  |
 | [stackedit](https://github.com/benweet/stackedit) | 浏览器内Markdown[编辑器](https://stackedit.io/) | |
 | [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) | 该存储库包含GitBucket iOS应用程序的源代码。它是GitHub的移动客户端应用程序，使用[MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel)架构模式和一些很棒的框架（例如[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)，[Mantle](https://github.com/MantleFramework/Mantle)，[octokit.objc](https://github.com/octokit/octokit.objc)等）进行[构建](https://github.com/octokit/octokit.objc)。您可以免费将其用于任何目的 |  |
