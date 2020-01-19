@@ -974,6 +974,8 @@
 ## <a name="完整APP"></a>完整APP
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 ||
+| [py12306](https://github.com/pjialin/py12306) | 🚂12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 ||
 | [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) | 炉火餐饮系统 iPad 点餐端 |  |
 | [kityminder](https://github.com/fex-team/kityminder) | [百度脑图](http://naotu.baidu.com/) |  |
 | [SwiftHN](https://github.com/Dimillian/SwiftHN) | Swift中的Hacker News阅读器 ||
