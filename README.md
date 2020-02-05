@@ -572,6 +572,7 @@
 | [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) | 适用于iOS的高性能动画GIF引擎 |  |
 | [HanekeSwift](https://github.com/Haneke/HanekeSwift) | 用Swift编写的iOS轻量级通用缓存，对图像特别钟爱 ||
 | [apng-canvas](https://github.com/davidmz/apng-canvas) | 在画布上执行[APNG](https://davidmz.github.io/apng-canvas/) |  |
+| [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) | 一个可让您打开.car文件并浏览/提取其图像的应用程序 ||
 
 ### <a name="组件-JSONModel"></a> JSON / XML & Model
 | [回到顶部](#Indexes) | 描述 | 备注 |
