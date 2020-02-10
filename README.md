@@ -884,6 +884,11 @@
 | [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) | 保留周期是造成内存泄漏的最常见方法之一。创建保留周期非常容易，而且往往很难发现它。FBRetainCycleDetector的目标是帮助在运行时查找保留周期。该项目的功能受到[Circle](https://github.com/mikeash/Circle)的影响 ||
 | [iOS-qiniu-tools](https://github.com/leo-lp/iOS-qiniu-tools) | iOS手机网络测试工具 ||
 | [NetworkFlow-iOS](https://github.com/1043426357/NetworkFlow-iOS) | 监控流量、测网速 ||
+| [android-netdiag](https://github.com/qiniu/android-netdiag) | 网络诊断库，支持Ping/TcpPing/Rtmp/TraceRoute/DNS/外部IP/外部DNS ||
+| [iOS-netdiag](https://github.com/qiniu/iOS-netdiag) | 网络诊断库，支持Ping/TcpPing/Rtmp/TraceRoute/DNS/外部IP/外部DNS ||
+| [LDNetDiagnoService_IOS](https://github.com/Lede-Inc/LDNetDiagnoService_IOS) | 利用ping和traceroute的原理，对指定域名（通常为后台API的提供域名）进行网络诊断，并收集诊断日志 ||
+| [net-diagnosis](https://github.com/mediaios/net-diagnosis) | 网络诊断SDK，支持对ip和域名的ping,traceroute(udp,icmp协议)，支持tcp ping, 端口扫描，nslookup,局域网活跃ip扫描等功能 ||
+| [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 调用系统底层Dns解析库，可以使用114 等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的hosts 域名配置 ||
 
 ## <a name="HTTP/TCP/UDP"></a>HTTP/TCP/UDP/SMTP/XMPP等网络协议库
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -1216,6 +1221,11 @@
 ## <a name="人工智能深度学习"></a>人工智能/深度学习
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [MNNKit](https://github.com/alibaba/MNNKitDemo) | 阿里巴巴重磅开源MNNKit：基于端上推理引擎[MNN](https://github.com/alibaba/MNN)的移动端深度学习SDK，支持安卓和iOS ||
+| [mace](https://github.com/XiaoMi/mace) | 小米的面向移动端的深度学习框架 ||
+| [FeatherCNN](https://github.com/Tencent/FeatherCNN) | 腾讯的面向移动端的深度学习框架（腾讯 AI） ||
+| [ncnn](https://github.com/Tencent/ncnn) | 腾讯的面向移动端的深度学习框架（腾讯 优图） ||
+| [Paddle](https://github.com/PaddlePaddle/Paddle) | 『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署 | [官网](http://www.paddlepaddle.org/) |
 | [DeepLearningKit](https://github.com/DeepLearningKit/DeepLearningKit) | 适用于Apple iOS，OS X和tvOS的开源深度学习[框架](http://deeplearningkit.org/) |  |
 | [Perfect-TensorFlow](https://github.com/PerfectlySoft/Perfect-TensorFlow) | 为TensorFlow的C语言接口试验性封装函数库，用于Swift在人工智能深度学习上的应用  ||
 | [sonnet](https://github.com/deepmind/sonnet) | 基于[TensorFlow](https://www.tensorflow.org/)的神经网络库 | [官网](https://sonnet.dev/) |
@@ -1229,7 +1239,6 @@
 | [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) | 深度学习 |  |
 | [pattern](https://github.com/clips/pattern) | 用于Python的Web挖掘模块，具有用于抓取，自然语言处理，机器学习，网络分析和可视化的工具 | [官网](https://www.clips.uantwerpen.be/pages/pattern) |
 | [caffe](https://github.com/BVLC/caffe) | 一个深度学习框架 | [官网](http://caffe.berkeleyvision.org/) |
-| [Paddle](https://github.com/PaddlePaddle/Paddle) | 『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署 | [官网](http://www.paddlepaddle.org/) |
 | [openface](https://github.com/cmusatyalab/openface) | 深度神经网络的人脸识别 | [官网](http://cmusatyalab.github.io/openface/) |
 | [face_recognition](https://github.com/ageitgey/face_recognition) | 使用[dlib](http://dlib.net/)和深度学习构建的最新人脸识别功能构建。该模型在[Wild](http://vis-www.cs.umass.edu/lfw/)基准中的[Labeled Faces](http://vis-www.cs.umass.edu/lfw/)上的准确性为99.38％ |  |
 | [tensorflow](https://github.com/tensorflow/tensorflow) | 适用于所有人的开源机器学习框架 | [官网](https://tensorflow.org/) |
