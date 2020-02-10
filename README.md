@@ -888,6 +888,7 @@
 | [iOS-netdiag](https://github.com/qiniu/iOS-netdiag) | 网络诊断库，支持Ping/TcpPing/Rtmp/TraceRoute/DNS/外部IP/外部DNS ||
 | [LDNetDiagnoService_IOS](https://github.com/Lede-Inc/LDNetDiagnoService_IOS) | 利用ping和traceroute的原理，对指定域名（通常为后台API的提供域名）进行网络诊断，并收集诊断日志 ||
 | [net-diagnosis](https://github.com/mediaios/net-diagnosis) | 网络诊断SDK，支持对ip和域名的ping,traceroute(udp,icmp协议)，支持tcp ping, 端口扫描，nslookup,局域网活跃ip扫描等功能 ||
+| [SimplePing](https://developer.apple.com/library/archive/samplecode/SimplePing/Introduction/Intro.html#//apple_ref/doc/uid/DTS10000716) | Apple的**SimplePing**封装了ping的功能，它利用resolve host，create socket(send & recv data), 解析ICMP包验证checksum等实现了ping功能。并且支持iPv4和iPv6 ||
 | [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 调用系统底层Dns解析库，可以使用114 等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的hosts 域名配置 ||
 
 ## <a name="HTTP/TCP/UDP"></a>HTTP/TCP/UDP/SMTP/XMPP等网络协议库
