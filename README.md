@@ -552,6 +552,7 @@
 | [cloc](https://github.com/AlDanial/cloc) | cloc计算许多编程语言中源代码的空行，注释行和物理行 ||
 | [ex-baiduyunpan](https://github.com/gxvv/ex-baiduyunpan) | 百度云盘企业版解除大文件限制，批量复制链接 ||
 | [FileBrowser](https://github.com/marmelroy/FileBrowser) | 使用Swift编写的Finder风格的iOS文件浏览器 ||
+| [wechaty](https://github.com/Wechaty/wechaty) | Wechaty是适用于微信个人帐户的Bot SDK ，可以帮助您使用6行javascript创建一个机器人，并具有包括[Linux，Windows，MacOS](https://github.com/wechaty/wechaty/actions?query=workflow%3ANPM)和[Docker](https://github.com/wechaty/wechaty/actions?query=workflow%3ADocker)在内的跨平台支持 ||
 
 ### <a name="组件-WebImage"></a> WebImage
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -987,6 +988,8 @@
 ## <a name="完整APP"></a>完整APP
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [cli](https://github.com/cli/cli) | GitHub上新官方命令行工具 ||
+| [stretchly](https://github.com/hovancik/stretchly) | **定时休息提醒软件**，可以设置, 全屏, 设置小休息间隔和正常间隔, 改变界面颜色和提示音等 ||
 | [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 ||
 | [py12306](https://github.com/pjialin/py12306) | 🚂12306 购票助手，支持集群，多账号，多任务购票以及Web页面管理 ||
 | [easy12306](https://github.com/zhaipro/easy12306) | 使用机器学习算法完成对12306验证码的自动识别 ||
@@ -1135,6 +1138,7 @@
 ## <a name="程序员日常"></a>程序员日常
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [interviews](https://github.com/kdn251/interviews) | 软件工程技术面试指南 ||
 | [github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) | GitHub不禁止我们进入开源世界 ||
 | [FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) | 开源项目挣钱实用手册 ||
 | [996.ICU](https://github.com/996icu/996.ICU) | 996的工作模式 | [微博](https://996.icu) |
@@ -1223,6 +1227,7 @@
 ## <a name="人工智能深度学习"></a>人工智能/深度学习
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [faceai](https://github.com/vipstone/faceai) | 一款入门级的人脸、视频、文字检测以及识别的项目. ||
 | [MNNKit](https://github.com/alibaba/MNNKitDemo) | 阿里巴巴重磅开源MNNKit：基于端上推理引擎[MNN](https://github.com/alibaba/MNN)的移动端深度学习SDK，支持安卓和iOS ||
 | [mace](https://github.com/XiaoMi/mace) | 小米的面向移动端的深度学习框架 ||
 | [FeatherCNN](https://github.com/Tencent/FeatherCNN) | 腾讯的面向移动端的深度学习框架（腾讯 AI） ||
