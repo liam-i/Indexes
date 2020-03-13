@@ -62,7 +62,7 @@
 | [LPPhotoPickerController](https://github.com/leo-lp/LPPhotoPickerController) |  ||
 | [LPPhotoBrowser](https://github.com/leo-lp/LPPhotoBrowser) |  ||
 | [LPKeyboardManager](https://github.com/leo-lp/LPKeyboardManager) |  ||
-| [LPProgressHUD](https://github.com/leo-lp/LPProgressHUD) |  ||
+| [LPProgressHUD](https://github.com/leo-lp/LPProgressHUD) | 一个**Swift**版的[MBProgressHUD](https://github.com/jdg/MBProgressHUD) ||
 | [LPTextView](https://github.com/leo-lp/LPTextView) |  ||
 | [LPDelayedSearch](https://github.com/leo-lp/LPDelayedSearch) |  ||
 | [LPPresentationController](https://github.com/leo-lp/LPPresentationController) |  ||
