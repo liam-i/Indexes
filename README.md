@@ -894,6 +894,8 @@
 | [net-diagnosis](https://github.com/mediaios/net-diagnosis) | 网络诊断SDK，支持对ip和域名的ping,traceroute(udp,icmp协议)，支持tcp ping, 端口扫描，nslookup,局域网活跃ip扫描等功能 ||
 | [SimplePing](https://developer.apple.com/library/archive/samplecode/SimplePing/Introduction/Intro.html#//apple_ref/doc/uid/DTS10000716) | Apple的**SimplePing**封装了ping的功能，它利用resolve host，create socket(send & recv data), 解析ICMP包验证checksum等实现了ping功能。并且支持iPv4和iPv6 ||
 | [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 调用系统底层Dns解析库，可以使用114 等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的hosts 域名配置 ||
+| [GT](https://github.com/Tencent/GT) | GT（随身调）是APP的随身调试平台，它是直接运行在手机上的“集成调试环境”。利用GT，仅凭一部手机，无需连接电脑，即可对APP进行快速的性能测试(CPU、内存、流量、电量、帧率/流畅度等等)、开发日志的查看、Crash日志查看、网络数据包的抓取、APP内部参数的调试、真机代码耗时统计等 ||
+| [PPDNSMapping](https://github.com/music4kid/PPDNSMapping) | DNS映射 ||
 
 ## <a name="HTTP/TCP/UDP"></a>HTTP/TCP/UDP/SMTP/XMPP等网络协议库
 | [回到顶部](#Indexes) | 描述 | 备注 |
@@ -920,7 +922,6 @@
 | [Reachability](https://github.com/tonymillion/Reachability) | 适用于iOS和MacOS的ARC和GCD兼容可达性类。替代苹果可及性 |  |
 | [Reachability.swift](https://github.com/ashleymills/Reachability.swift) |替代了Apple的Reachability示例，该示例在Swift中使用闭包进行了重写 |  |
 | [SGWiFiUpload](https://github.com/Soulghost/SGWiFiUpload) | 通过WiFi上传文件。通过WiFi上传文件 |  |
-| [happy-dns-objc](https://github.com/qiniu/happy-dns-objc) | 可以调用114等第三方dns解析，也可以集成dnspod等httpdns。另外也有丰富的主机域名配置 |  |
 | [pomelo-iosclient](https://github.com/NetEase/pomelo-iosclient) | 网易[Pomelo](https://github.com/NetEase/pomelo)的iOS客户端库 |  |
 | [HTTPDNS-Swift](https://github.com/yourtion/HTTPDNS-Swift) | HTTPDNS库Swift实现，支持DNSPod，AliYunDNS，Google等 | [Pods](http://cocoapods.org/pods/HTTPDNS-Swift) |
 | [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) | 适用于Mac OS X或iOS应用程序的小型，轻巧，可嵌入式HTTP服务器 |  |
