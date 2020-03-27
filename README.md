@@ -979,6 +979,8 @@
 | [Gestalt](https://github.com/regexident/Gestalt) | 一款轻巧的iOS应用主题库，支持动画主题切换 ||
 | [LEETheme](https://github.com/lixiang1994/LEETheme) | 优雅的主题管理库- 一行代码完成多样式切换 ||
 | [NightNight](https://github.com/draveness/NightNight) | 将夜间模式集成到快速项目的优雅方式 ||
+| [FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit) | **Microsoft**开源的**DarkMode**库 ||
+
 
 ## <a name="SwiftUI"></a>SwiftUI
 | [回到顶部](#Indexes) | 描述 | 备注 |
