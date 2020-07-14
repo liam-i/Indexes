@@ -430,6 +430,8 @@
 | [WeChatPlugin-iOS](https://github.com/leo-lp/WeChatPlugin-iOS) | 微信小助手-iOS版 ||
 | [DoraemonKit](https://github.com/didi/DoraemonKit) | 一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手 ||
 | [app-host](https://github.com/pluosi/app-host) | 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im ||
+| [fabu.love](https://github.com/rock-app/fabu.love) | 类似于fir.im/蒲公英类似的一个平台.可以自己部署 ||
+| [intranet_app_manager](https://github.com/yizhaorong/intranet_app_manager) | 本项目使用 Spring Boot 开发的类似蒲公英和fir的企业内网 APP 分发平台，解决下载限制，实名认证等繁琐过程 ||
 | [coobjc](https://github.com/alibaba/coobjc) | coobjc为Objective-C和Swift提供协程支持。我们添加了一个等待方法，生成器和参与者模型，例如C＃，Javascript和Kotlin。为了方便起见，我们在cokit框架中为某些Foundation和UIKit API添加了协程类别，例如NSFileManager，JSON，NSData，UIImage等。我们还在coobjc中添加了元组支持 ||
 | [Repeat](https://github.com/malcommac/Repeat) | 使用GCD制作的Swift，Debouncer和Throttler的现代计时器（替代NSTimer） ||
 | [SwiftDate](https://github.com/malcommac/SwiftDate) | 在Swift中解析，验证，操作和显示日期，时区和时区 ||
@@ -868,6 +870,8 @@
 ## <a name="优化/性能调优/ipa瘦身"></a>优化/性能调优/ipa瘦身
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [cocoapods-keys](https://github.com/orta/cocoapods-keys) | keys管理 |
+| [Sourcery](https://github.com/krzysztofzablocki/Sourcery) | Sourcery - Swift元编程实践，告别样板代码 |
 | [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) | 有助于分析iOS内存使用情况的iOS工具 |  |
 | [QT4i](https://github.com/Tencent/QT4i) | [Tencent](https://github.com/Tencent).QT4i（适用于iOS的快速测试）是适用于iOS应用程序的QTA测试自动化驱动程序 |  |
 | [xctool](https://github.com/facebook/xctool) | 苹果公司xcodebuild的扩展，可以更轻松地测试iOS和macOS应用程序 |  |
