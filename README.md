@@ -1001,6 +1001,7 @@
 ## <a name="完整APP"></a>完整APP
 | [回到顶部](#Indexes) | 描述 | 备注 |
 | :--- | :--- | :--- |
+| [SwiftHub](https://github.com/khoren93/SwiftHub) | 大神Khoren Markosyan 写的一个完全采用Rxswift + MVVM + Moya 的架构的项目，代码很精简，想学习MVVM架构的认真去研究这个项目的设计，对你以后的编程思想和习惯都会有很大的帮助。 |  |
 | [cli](https://github.com/cli/cli) | GitHub上新官方命令行工具 ||
 | [stretchly](https://github.com/hovancik/stretchly) | **定时休息提醒软件**，可以设置, 全屏, 设置小休息间隔和正常间隔, 改变界面颜色和提示音等 ||
 | [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 ||
