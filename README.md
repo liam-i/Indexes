@@ -936,6 +936,7 @@
 | [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 适用于Mac和iOS的异步套接字网络库 | [wiki](https://github.com/robbiehanson/CocoaAsyncSocket/wiki) |
 | [SwiftAsnycSocket](https://github.com/chouheiwa/SwiftAsnycSocket) | Swift版的[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) ||
 | [swift-nio](https://github.com/apple/swift-nio) | 跨平台的异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端，类似于[Netty](https://netty.io/). | [官网](https://apple.github.io/swift-nio/) |
+| [Mars](https://github.com/Tencent/mars) | Mars 是微信官方的跨平台跨业务的终端基础组件。 ||
 | [grpc-swift](https://github.com/grpc/grpc-swift) | 基于gRPC-Core的gRPC Swift版 将很快被基于[SwiftNIO](https://github.com/apple/swift-nio)的重新实现所取代 ||
 | [grpc](https://github.com/grpc/grpc) | gRPC是一个现代的，开源的，高性能的远程过程调用（RPC）框架，可以在任何地方运行。gRPC使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建 | [官网](https://grpc.io) |
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Google的数据交换格式 | [官网](https://developers.google.com/protocol-buffers/) |
