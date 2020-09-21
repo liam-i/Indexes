@@ -978,6 +978,7 @@
 | [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) | 宝宝特效 AiyaEffectsSDK 涵盖Android、iOS两个平台，基于自主研发的人脸识别模块，作为一款动态贴纸和动画特效高效渲染的解决方案 | [官网](http://www.aiyaapp.com/product/bbtx) |
 | [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) | SpriteKit粒子动画播放器 ||
 | [Gifu](https://github.com/kaishin/Gifu) | Gifu向UIKit添加了基于协议，性能感知的动画GIF支持 |  |
+| [vap](https://github.com/Tencent/vap) | VAP（Video Animation Player）是企鹅电竞开发，用于播放酷炫动画的实现方案。 • 相比Webp, Apng动图方案，具有高压缩率(素材更小)、硬件解码(解码更快)的优点 • 相比Lottie，能实现更复杂的动画效果(比如粒子特效) |  |
 
 ## <a name="主题DarkMode"></a>主题（Dark Mode）
 | [回到顶部](#Indexes) | 描述 | 备注 |
